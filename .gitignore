@@ -1,0 +1,29 @@
+# Environment / secrets
+.env
+.env.*
+*credentials*
+*secret*
+*.pem
+*.key
+config/secrets*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw scraped HTML / page cache
+**/raw_html/
+**/html_cache/
+**/*.html.cache
+**/scraped_pages/
+*.html.bak
