@@ -1,10 +1,10 @@
-# Task 1: Webscraping
+# Automated Retail Intelligence: Multi-Site Web Scraping
 
-Snapshot date: 2026-07-01. Scrape covers Olipop, Poppi, and Coca-Cola Simply Pop, first 10 products per list page (fewer where fewer exist), plus each linked product page.
+Snapshot date: 2026-07-01. Scrapes Olipop, Poppi, and Coca-Cola Simply Pop — first 10 products per list page (fewer where fewer genuinely exist), plus every linked product page — into one normalized schema built for cross-brand comparison.
 
 ## Method per site
 
-**Apify was evaluated first per the master plan and was not used.** All three sites returned complete, well-structured content through direct HTTP fetch (no JS rendering or proxy rotation needed), so running a paid Apify actor would have added cost and an extra layer of schema translation without improving data quality. Specifically:
+**Apify was evaluated first and deliberately not used.** All three sites returned complete, well-structured content through direct HTTP fetch (no JS rendering or proxy rotation needed), so running a paid Apify actor would have added cost and an extra layer of schema translation without improving data quality. Specifically:
 
 - **Olipop (drinkolipop.com, Shopify).** List page fetched directly. Product pages fetched two ways: the rendered HTML page (for description, ingredients, nutrition facts, and the visible photo gallery) and the store's public `/products/<handle>.json` endpoint (for authoritative price and compare-at price). Olipop is mid-promotion at scrape time (a "4th of July, 25% off 12-packs" banner), so 3 of the 10 sampled products show a discounted price and 7 don't — this is a real, live pricing state, not a scraping inconsistency.
 - **Poppi (drinkpoppi.com, Shopify).** Same two-fetch approach. Note: Poppi's Shopify product JSON endpoint only returns one image per product (the front-can shot), while the live page renders a separate 7-9 image gallery through a different app/section not reflected in that JSON. Photo counts in the CSV use the page-rendered gallery, not the JSON, for this reason (see "Photo count" below).
@@ -31,4 +31,4 @@ CSV cells always hold a clean value only (a number, or the literal string `NOT A
 
 ## Output
 
-`output/products.csv` — 50 rows (10 list-page rows + 10 product-page rows per site x 3 sites... Coca-Cola contributes 5 + 5 = 10). Columns: URL, list/product page, product name, price, discounted price, position, number of photos, flavor, ingredients, nutrition facts. List rows populate name/price/discounted price/position; product rows populate name/photos/flavor/ingredients/nutrition facts, per the task's acceptance criteria.
+`output/products.csv` — 50 rows (10 list-page rows + 10 product-page rows per site for Olipop and Poppi; Coca-Cola contributes 5 + 5, since its live catalog only has 5 flavors). Columns: URL, list/product page, product name, price, discounted price, position, number of photos, flavor, ingredients, nutrition facts. List rows populate name/price/discounted price/position; product rows populate name/photos/flavor/ingredients/nutrition facts.

@@ -1,38 +1,50 @@
-# NYU Stern Junior Research Scientist: Sample Tasks
+# Quant Marketing AI Research Toolkit
 
-Candidate: Benedict Daxell Santoso
-Role: Junior Research Scientist, NYU Stern Marketing (Prof. Ursu and Prof. Liu)
+Applied research portfolio spanning LLM-driven data pipelines, quantitative marketing analysis, and automation systems for consumer and product intelligence.
 
-Submission for the five sample tasks. Each task folder contains its own README with method notes and judgment calls. Summary status below is updated as each task completes.
+**Philosophy:** LLMs are not impressive by default. They are impressive when they solve a real problem. Every module here produces a real, verifiable output — not a demo — with the method, judgment calls, and limitations documented alongside the result, not glossed over.
+
+Built by **Benedict Daxell Santoso** — AI implementation practitioner and analytics consultant working at the intersection of LLM engineering, data architecture, and applied marketing research.
 
 ---
 
-## Task 1: Webscraping
+## Modules
 
-status: complete
+### 01 — Automated Retail Intelligence: Multi-Site Web Scraping
+**status: complete**
 
-Scrape marketing data (name, price, discounted price, position, photos, flavor, ingredients, nutrition facts) from Olipop, Poppi, and Coca Cola Simply Pop list and product pages. Output: task1-webscraping/output/products.csv (50 rows). Method and limitations documented in task1-webscraping/README.md.
+Structured, product-level scraping across three e-commerce sites (Olipop, Poppi, Coca-Cola Simply Pop) into one normalized schema for cross-brand comparison: pricing, live promotions, page position, image galleries, and nutritional composition. Includes a documented build-vs-buy call on scraping tooling and honest data-quality limitations where a site's template didn't cooperate.
 
-## Task 2: Qualtrics survey
+→ [`task1-webscraping/`](./task1-webscraping) · [output](./task1-webscraping/output/products.csv) · [methodology](./task1-webscraping/README.md)
 
-status: not started
+### 02 — Survey Instrumentation with Embedded AI Interaction
+**status: not started**
 
-Ten distinct Qualtrics question types on a consumer behavior topic, including a working ChatGPT enabled interactive question.
+Qualtrics survey design spanning ten distinct question types on a consumer decision-making topic, including a live ChatGPT-enabled interactive question — testing both survey methodology range and AI-in-the-loop UX design.
 
-## Task 3: AI scraping
+→ [`task2-qualtrics/`](./task2-qualtrics)
 
-status: not started
+### 03 — AI Search Behavior Monitoring
+**status: not started**
 
-Top 10 shopping related AI prompts, retrieved via API on 10 separate occasions, with word/brand/feature statistics per file.
+Programmatic, scheduled retrieval of AI assistant responses to a defensibly-sourced set of shopping-intent prompts, repeated over time to observe response drift, with word/brand/feature-mention statistics computed per response.
 
-## Task 4: AI Agents
+→ [`task3-ai-scraping/`](./task3-ai-scraping)
 
-status: not started
+### 04 — Computational Biology Agent Deployment
+**status: not started**
 
-AlphaGenome research agent built via Paper2Agent, run against the given Mendelian randomization prompt on rs11174281.
+Standing up a domain-specific research agent from the AlphaGenome paper via the Paper2Agent framework, then running a Mendelian randomization query (rs11174281, lifetime cannabis use) through it end to end.
 
-## Task 5: Game theory model proof
+→ [`task4-ai-agents/`](./task4-ai-agents)
 
-status: not started
+### 05 — Applied Game Theory: Platform Badge Economics
+**status: not started**
 
-Written evaluation of whether the CPF badge model can jointly explain all four empirical findings, with modifications proposed if not.
+Formal evaluation of whether a published platform-badging game-theoretic model can jointly explain four empirical findings on demand, pricing, selective certification, and market concentration — with structural modifications proposed where the model falls short.
+
+→ [`task5-game-theory/`](./task5-game-theory)
+
+---
+
+Each module folder carries its own README covering the approach taken, the judgment calls made, and any limitations encountered. The reasoning is treated as part of the deliverable, not an afterthought.
