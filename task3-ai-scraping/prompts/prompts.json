@@ -1,0 +1,62 @@
+[
+  {
+    "id": "prompt_00",
+    "category": "electronics",
+    "archetype": "budget_constrained_recommendation",
+    "text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?"
+  },
+  {
+    "id": "prompt_01",
+    "category": "home_and_garden",
+    "archetype": "superlative_constraint",
+    "text": "Find the quietest cordless stick vacuum for a small apartment."
+  },
+  {
+    "id": "prompt_02",
+    "category": "baby_and_gear",
+    "archetype": "multi_constraint_comparison",
+    "text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?"
+  },
+  {
+    "id": "prompt_03",
+    "category": "gift",
+    "archetype": "persona_based",
+    "text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?"
+  },
+  {
+    "id": "prompt_04",
+    "category": "sports_and_outdoor",
+    "archetype": "deal_and_discount",
+    "text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?"
+  },
+  {
+    "id": "prompt_05",
+    "category": "beauty",
+    "archetype": "affordable_recommendation",
+    "text": "What is the best affordable moisturizer for dry, sensitive skin?"
+  },
+  {
+    "id": "prompt_06",
+    "category": "kitchen_and_appliances",
+    "archetype": "head_to_head_comparison",
+    "text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?"
+  },
+  {
+    "id": "prompt_07",
+    "category": "sports_and_outdoor",
+    "archetype": "beginner_budget_recommendation",
+    "text": "Recommend a beginner-friendly road bike under $800."
+  },
+  {
+    "id": "prompt_08",
+    "category": "electronics",
+    "archetype": "flagship_comparison",
+    "text": "Compare the latest iPhone and Samsung Galaxy flagship on camera quality and battery life. Which is the better buy?"
+  },
+  {
+    "id": "prompt_09",
+    "category": "tools_and_diy",
+    "archetype": "decisive_best_pick",
+    "text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer."
+  }
+]
