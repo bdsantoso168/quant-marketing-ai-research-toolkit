@@ -1,0 +1,4 @@
+anthropic>=0.40.0
+# Optional, only for the rule-based validation baseline (analyze.py --baseline):
+# spacy>=3.7.0
+# then: python -m spacy download en_core_web_sm
