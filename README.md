@@ -24,12 +24,13 @@ Qualtrics survey design spanning ten distinct question types on a consumer decis
 
 → [`task2-qualtrics/`](./task2-qualtrics) · [live survey](https://qualtricsxmwykl4q9jv.qualtrics.com/jfe/form/SV_cIOHHhcwcRLQCqi) · [methodology](./task2-qualtrics/README.md)
 
-### 03 — AI Search Behavior Monitoring
-**status: not started**
+## 03 - AI Search Behavior Monitoring
 
-Programmatic, scheduled retrieval of AI assistant responses to a defensibly-sourced set of shopping-intent prompts, repeated over time to observe response drift, with word/brand/feature-mention statistics computed per response.
+**status: complete**
 
-→ [`task3-ai-scraping/`](./task3-ai-scraping)
+Programmatic, repeated retrieval of Claude API responses to a defensibly sourced set of 10 shopping intent prompts (grounded in WildChat, OpenAI's Shopping Research data, and the NBER "How People Use ChatGPT" study), pulled across 10 occasions each (100 total responses) to measure recommendation drift. Computes word count, brand count, and feature count per response, plus brand concentration (HHI) and cross occasion stability (Jaccard overlap) per prompt. Sharpest finding: closed category prompts (phone flagships, blender models) converge on near fixed brand answers, open ended prompts (fishing gifts, sneaker deals) barely repeat.
+
+→ `task3-ai-scraping/` · [full results](task3-ai-scraping/README.md) · [methodology](task3-ai-scraping/task3_master_plan.md)
 
 ### 04 — Computational Biology Agent Deployment
 **status: not started**
