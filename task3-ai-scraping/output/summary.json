@@ -1,0 +1,342 @@
+{
+  "file_count": 100,
+  "word_count_mean": 263.1,
+  "word_count_min": 114,
+  "word_count_max": 386,
+  "brand_count_mean": 5.77,
+  "feature_count_mean": 9.61,
+  "top_brands_overall": [
+    [
+      "amazon",
+      10
+    ],
+    [
+      "student beans",
+      10
+    ],
+    [
+      "unidays",
+      10
+    ],
+    [
+      "cerave moisturizing cream",
+      10
+    ],
+    [
+      "vanicream moisturizing cream",
+      10
+    ],
+    [
+      "vitamix e310 explorian",
+      10
+    ],
+    [
+      "giant contend 3",
+      10
+    ],
+    [
+      "shimano claris",
+      10
+    ],
+    [
+      "trek domane al 2",
+      10
+    ],
+    [
+      "samsung galaxy s24 ultra",
+      10
+    ],
+    [
+      "miele triflex hx2",
+      9
+    ],
+    [
+      "new balance",
+      9
+    ],
+    [
+      "amd ryzen 7 7735hs",
+      8
+    ],
+    [
+      "asus tuf gaming a15",
+      8
+    ],
+    [
+      "best buy",
+      8
+    ]
+  ],
+  "per_prompt": {
+    "prompt_00": {
+      "brand_hhi": 528.0,
+      "brand_stability_jaccard": 0.311,
+      "distinct_brands_pooled": 34,
+      "top_brands": [
+        [
+          "amazon",
+          8
+        ],
+        [
+          "amd ryzen 7 7735hs",
+          8
+        ],
+        [
+          "asus tuf gaming a15",
+          8
+        ],
+        [
+          "best buy",
+          8
+        ],
+        [
+          "lenovo loq 15",
+          8
+        ]
+      ]
+    },
+    "prompt_01": {
+      "brand_hhi": 950.5,
+      "brand_stability_jaccard": 0.31,
+      "distinct_brands_pooled": 16,
+      "top_brands": [
+        [
+          "miele triflex hx2",
+          9
+        ],
+        [
+          "dyson v15",
+          8
+        ],
+        [
+          "lg cordzero a9 kompressor",
+          5
+        ],
+        [
+          "tineco pure one s11",
+          5
+        ],
+        [
+          "tineco pure one s15",
+          4
+        ]
+      ]
+    },
+    "prompt_02": {
+      "brand_hhi": 1096.9,
+      "brand_stability_jaccard": 0.156,
+      "distinct_brands_pooled": 15,
+      "top_brands": [
+        [
+          "baby jogger city tour 2",
+          6
+        ],
+        [
+          "uppababy minu v2",
+          5
+        ],
+        [
+          "ergobaby metro+",
+          2
+        ],
+        [
+          "baby jogger city mini gt2",
+          2
+        ],
+        [
+          "gb pockit+ all-terrain",
+          2
+        ]
+      ]
+    },
+    "prompt_03": {
+      "brand_hhi": 382.1,
+      "brand_stability_jaccard": 0.079,
+      "distinct_brands_pooled": 40,
+      "top_brands": [
+        [
+          "plano",
+          5
+        ],
+        [
+          "rapala",
+          5
+        ],
+        [
+          "deeper start smart fish finder",
+          4
+        ],
+        [
+          "berkley gulp!",
+          4
+        ],
+        [
+          "berkley gulp! alive!",
+          2
+        ]
+      ]
+    },
+    "prompt_04": {
+      "brand_hhi": 301.9,
+      "brand_stability_jaccard": 0.292,
+      "distinct_brands_pooled": 59,
+      "top_brands": [
+        [
+          "student beans",
+          10
+        ],
+        [
+          "unidays",
+          10
+        ],
+        [
+          "new balance",
+          9
+        ],
+        [
+          "adidas",
+          8
+        ],
+        [
+          "running warehouse",
+          8
+        ]
+      ]
+    },
+    "prompt_05": {
+      "brand_hhi": 1552.6,
+      "brand_stability_jaccard": 0.439,
+      "distinct_brands_pooled": 11,
+      "top_brands": [
+        [
+          "cerave moisturizing cream",
+          10
+        ],
+        [
+          "vanicream moisturizing cream",
+          10
+        ],
+        [
+          "aveeno daily moisturizing lotion",
+          4
+        ],
+        [
+          "la roche-posay toleriane double repair face moisturizer",
+          4
+        ],
+        [
+          "cetaphil moisturizing cream",
+          3
+        ]
+      ]
+    },
+    "prompt_06": {
+      "brand_hhi": 1400.0,
+      "brand_stability_jaccard": 0.244,
+      "distinct_brands_pooled": 18,
+      "top_brands": [
+        [
+          "vitamix e310 explorian",
+          10
+        ],
+        [
+          "ninja foodi power blender",
+          2
+        ],
+        [
+          "ninja professional plus blender with auto-iq (bn751)",
+          2
+        ],
+        [
+          "ninja professional plus blender with auto-iq (bn701)",
+          2
+        ],
+        [
+          "ninja professional plus blender (bn701)",
+          1
+        ]
+      ]
+    },
+    "prompt_07": {
+      "brand_hhi": 1319.9,
+      "brand_stability_jaccard": 0.6,
+      "distinct_brands_pooled": 10,
+      "top_brands": [
+        [
+          "giant contend 3",
+          10
+        ],
+        [
+          "shimano claris",
+          10
+        ],
+        [
+          "trek domane al 2",
+          10
+        ],
+        [
+          "specialized allez",
+          7
+        ],
+        [
+          "shimano tourney",
+          6
+        ]
+      ]
+    },
+    "prompt_08": {
+      "brand_hhi": 3043.5,
+      "brand_stability_jaccard": 0.597,
+      "distinct_brands_pooled": 6,
+      "top_brands": [
+        [
+          "samsung galaxy s24 ultra",
+          10
+        ],
+        [
+          "iphone 16 pro max",
+          7
+        ],
+        [
+          "iphone 15 pro max",
+          3
+        ],
+        [
+          "galaxy s24+",
+          1
+        ],
+        [
+          "iphone 15",
+          1
+        ]
+      ]
+    },
+    "prompt_09": {
+      "brand_hhi": 1745.2,
+      "brand_stability_jaccard": 0.235,
+      "distinct_brands_pooled": 12,
+      "top_brands": [
+        [
+          "dewalt dcd771c2",
+          7
+        ],
+        [
+          "black+decker ldx120c",
+          2
+        ],
+        [
+          "dewalt dcd777c2",
+          1
+        ],
+        [
+          "dewalt dcd777c1",
+          1
+        ],
+        [
+          "ryobi one+ 18v drill/driver kit",
+          1
+        ]
+      ]
+    }
+  }
+}
