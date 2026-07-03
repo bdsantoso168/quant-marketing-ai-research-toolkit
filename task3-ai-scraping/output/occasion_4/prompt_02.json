@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 4,
+  "timestamp_utc": "2026-07-03T15:35:26.065943+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended Stroller: **Ergobaby Metro+ City Stroller**\n\n**Price:** ~$300-330\n\n## Why it fits your needs:\n\n**Lightweight & Compact**\n- Weighs about 16.5 lbs — one of the lightest strollers in its class\n- Folds down to a compact size that fits in tight closets or small car trunks\n- One-hand fold mechanism, and it's self-standing when folded (great for NYC apartments or small spaces)\n\n**City Sidewalk Performance**\n- Smooth-rolling wheels handle cracked pavement, curb cuts, and urban terrain well\n- Tight turning radius for navigating crowded sidewalks, elevators, and stores\n- Compact footprint makes weaving through foot traffic easier than bulkier strollers\n\n**Recline for Toddlers**\n- Near-flat recline position, good for naps on the go\n- Adjustable canopy with UPF 50+ sun protection\n- Extendable leg rest for growing toddlers\n\n**Other perks**\n- Holds up to 50 lbs, so it'll last through toddlerhood\n- Compatible with Ergobaby infant car seats if you have a younger sibling later\n- Under-seat storage basket is decent-sized for a lightweight stroller\n\n## Solid Alternative to Consider:\n\n**Joovy Zoom X2** (~$200-230) — More budget-friendly, all-terrain wheels handle city bumps well, but slightly heavier (~19 lbs) and bulkier fold.\n\n---\n\n**My top pick is the Ergobaby Metro+** if city portability (subways, apartments, tight stores) is your priority. If you have more storage space and want to save some money, the Joovy Zoom X2 is a great alternative.\n\nWould you like recommendations for double strollers or travel systems with car seat compatibility instead?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 606
+  }
+}

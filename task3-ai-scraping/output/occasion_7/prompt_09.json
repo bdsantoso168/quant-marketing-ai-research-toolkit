@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_09",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:41:25.186242+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "tools_and_diy",
+  "archetype": "decisive_best_pick",
+  "prompt_text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer.",
+  "response_text": "## DIY Cordless Drill Recommendation: DeWalt DCD777C2 20V MAX\n\n**Why this one:**\n\n- **Price point**: Usually $99-130, which is excellent value for a name-brand drill with two batteries included\n- **Power**: Brushless motor gives you pro-level performance without the pro price tag — plenty of torque for drilling into wood, metal, and drilling holes for anchors\n- **Battery life**: Comes with 2 batteries + charger, so you're never stuck waiting for a charge mid-project\n- **Compact/lightweight**: Easier on your wrist during longer projects like furniture assembly or hanging shelves\n- **Brand ecosystem**: DeWalt's 20V MAX battery platform is huge — if you ever want to add a circular saw, impact driver, or reciprocating saw later, batteries are interchangeable\n- **Reliability**: DeWalt has a strong reputation for durability, and this model has thousands of positive reviews\n\n**Bottom line**: For typical home DIY (hanging shelves, furniture assembly, small repairs, deck work, picture hanging), this hits the sweet spot of power, price, and brand trust. You won't outgrow it unless you're doing heavy construction work.\n\n*Quick tip: Check Home Depot, Lowe's, or Amazon for bundle deals — sometimes you can find it with a bonus tool or extra battery for similar pricing.*",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 475
+  }
+}

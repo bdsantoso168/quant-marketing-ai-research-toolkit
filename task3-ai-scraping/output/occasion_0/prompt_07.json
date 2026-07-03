@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 0,
+  "timestamp_utc": "2026-07-03T15:29:52.481610+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: **Trek Domane AL 2**\n- **Price:** ~$750-800\n- **Why it's great:** Endurance geometry (more relaxed than race bikes), aluminum frame, Shimano Claris 8-speed drivetrain\n- Perfect for comfort on longer rides, disc brake versions available for better stopping power\n\n## Also Consider:\n\n### **Giant Contend 3**\n- **Price:** ~$650-700\n- Aluminum frame with carbon fork (helps absorb road vibration)\n- Shimano Tourney/Claris drivetrain\n- Great value, forgiving geometry for beginners\n\n### **Specialized Allez**\n- **Price:** ~$750-800\n- Specialized's own A1 aluminum frame (well-regarded for smooth ride quality)\n- Shimano Claris components\n- Slightly more race-oriented geometry but still beginner-friendly\n\n### **Cannondale CAAD Optimo 3**\n- **Price:** ~$700-750\n- Lightweight aluminum frame\n- Comfortable geometry, reliable Shimano components\n\n## What to Look For:\n- **Shimano Claris or Sotoro groupset** (entry-level but reliable)\n- **Endurance/comfort geometry** (not aggressive race positioning)\n- **Aluminum frame** (lighter than steel, more affordable than carbon)\n\n## My Recommendation:\nStart with the **Trek Domane AL 2** if available in your area — Trek dealers typically offer excellent fit services, and the endurance geometry will keep you comfortable as you build cycling fitness. Visit a local bike shop to test ride before buying; proper fit matters more than brand at this price point.\n\n**Pro tip:** Budget an extra $50-100 for a helmet, basic repair kit, and possibly pedals (many bikes don't include them).",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 651
+  }
+}

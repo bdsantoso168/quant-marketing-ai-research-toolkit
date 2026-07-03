@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:43:58.758670+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, all budget-friendly and formulated for sensitive skin:\n\n## Top Pick: CeraVe Moisturizing Cream\n**Price:** ~$16-19 for 16-19 oz jar\n- Contains ceramides (1, 3, 6-II) to restore skin barrier\n- Hyaluronic acid for hydration\n- Fragrance-free, non-comedogenic\n- Developed with dermatologists\n- Rich texture perfect for very dry skin\n\n## Runner-Up: Vanicream Moisturizing Cream\n**Price:** ~$13-16 for 16 oz jar\n- Free of dyes, fragrance, lanolin, and formaldehyde\n- Excellent for eczema-prone or highly reactive skin\n- Simple ingredient list (great if you're trying to identify triggers)\n- Slightly thicker, more occlusive than CeraVe\n\n## Budget Option: Cetaphil Moisturizing Cream\n**Price:** ~$14 for 16 oz\n- Fragrance-free\n- Contains niacinamide and vitamin E\n- Widely available at any drugstore\n- Good if CeraVe/Vanicream aren't accessible\n\n## For Face Specifically: La Roche-Posay Toleriane Double Repair Face Moisturizer\n**Price:** ~$20 for 2.5 oz\n- Lighter texture, good under makeup\n- Contains ceramides and niacinamide\n- Formulated for sensitive skin, tested on eczema-prone skin\n\n---\n\n**My recommendation:** Start with **CeraVe Moisturizing Cream** — it hits the sweet spot of affordability, ceramide content, and gentle formulation. If you find it's not rich enough, size up to Vanicream.\n\n**Tip:** Apply to damp skin right after showering to lock in extra moisture, and patch-test any new product on your inner arm for 2-3 days before applying to your face.",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 668
+  }
+}

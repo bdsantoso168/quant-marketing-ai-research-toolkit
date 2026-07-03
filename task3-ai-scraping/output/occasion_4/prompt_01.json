@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 4,
+  "timestamp_utc": "2026-07-03T15:35:17.036703+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Apartments\n\n## Top Recommendation: **Miele Triflex HX2**\n- **Noise level:** ~69-70 dB (notably quieter than most competitors)\n- Why it works: Miele engineers specifically for noise reduction, and this model maintains strong suction while staying quiet\n- Great for: Apartments with thin walls, shared spaces, or if you vacuum during odd hours\n- Price: ~$500-600\n\n## Strong Alternative: **LG CordZero A9 Kompressor**\n- **Noise level:** ~68-72 dB depending on mode\n- Has a \"quiet mode\" that's genuinely usable (not just marketing)\n- Bonus: Self-standing feature is handy in small spaces\n- Price: ~$400-500\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S11**\n- **Noise level:** ~72-75 dB\n- Smart display shows suction power, decent for the price point\n- Price: ~$250-300\n\n## What to Avoid\n- **Dyson V15/V11:** Powerful but notoriously loud (75-80+ dB) due to the digital motor design—great suction, but not ideal if noise is your priority\n- **Shark models:** Generally louder than the above options, often 78+ dB on max mode\n\n## Practical Tips\n1. **Use eco/low mode** for daily cleaning—it's quieter and usually sufficient for hardwood/low-pile carpet in small spaces\n2. **Check reviews for \"sound quality,\" not just dB level**—some vacuums have a lower dB but a more grating pitch that feels louder\n3. **Time of day matters**—if you're in an apartment with neighbors, even 70dB vacuums are best used during reasonable hours\n\n**Bottom line:** For the best balance of quiet operation and cleaning power, go with the **Miele Triflex HX2**. If budget is a concern, the **Tineco Pure One S11** offers solid quiet performance for less money.",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 667
+  }
+}

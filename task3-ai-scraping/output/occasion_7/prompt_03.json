@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:40:26.888785+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "Here are some solid options that could actually help improve his luck on the water while being a fun, thoughtful gift:\n\n## Top Pick: A Fish Finder\n**Deeper START Smart Fish Finder** (~$70)\nA castable, portable fish finder that connects to a smartphone app via WiFi. He can literally see where fish are hiding before casting. This is a genuinely game-changing gadget for someone who struggles to catch fish, since it takes some of the guesswork out of the equation.\n\n## Other Great Options\n\n**1. Rapala Tackle & Lure Upgrade**\nA **Rapala Precision Series lure kit** or a well-stocked tackle box refresh (~$40-60). Sometimes it's really just about having the right, fresh lures—old, faded lures don't attract fish well.\n\n**2. Line Upgrade + Tools**\n**PLine Fluorocarbon Fishing Line** + a **Rapala Fish Scale/Ruler combo** (~$30-40 total). Fresh, quality line makes a bigger difference than people realize, and a scale adds fun for tracking \"personal bests.\"\n\n**3. A Funny Confidence Boost**\nA \"World's Okayest Fisherman\" mug or shirt (~$20) paired with a solid tackle box organizer like the **Plano Guide Series 3700** (~$25-30)—practical, a little humorous, and useful.\n\n**4. Fishing Knot-Tying Tool + Guide**\nA **Boomerang Tool Co. Snip** (retractable fishing line cutter, ~$25) paired with a laminated fishing knot guide—small, practical upgrades anglers love.\n\n## My Recommendation\nIf budget allows, go with the **Deeper START Fish Finder**. It's the most likely to actually turn his luck around, it's genuinely fun tech to use, and it's under budget at ~$70. Pair it with a $5 \"World's Best Fisherman (Allegedly)\" keychain for a laugh.\n\nWant me to narrow this down based on where he usually fishes (lake, river, deep sea, etc.)?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 688
+  }
+}

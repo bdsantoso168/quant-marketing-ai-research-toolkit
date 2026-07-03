@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_09",
+  "occasion": 5,
+  "timestamp_utc": "2026-07-03T15:38:11.108557+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "tools_and_diy",
+  "archetype": "decisive_best_pick",
+  "prompt_text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer.",
+  "response_text": "## DEWALT DCD771C2 20V MAX Cordless Drill/Driver Kit\n\n**Why this one:**\n- **Price:** Typically $99-$130, which is excellent value for the quality you get\n- **Battery life:** Comes with two 20V MAX lithium-ion batteries (1.3Ah), so you're never stuck waiting for a charge\n- **Power:** 300 UWO (Unit Watts Out) — plenty for drilling, driving screws, and most home projects (decks, furniture, shelving, drywall anchors, etc.)\n- **Two-speed gearbox:** 0-450 and 0-1,500 RPM, giving you control for delicate tasks and speed for tougher jobs\n- **Compact and lightweight:** Easy to handle for extended use, good for overhead work\n- **Brand reliability:** DEWALT batteries are compatible across their entire 20V MAX tool line, so if you ever want to expand into an impact driver, saw, or other tools later, you're not starting from scratch\n- **Warranty/support:** 3-year limited warranty, 1-year free service contract\n\n**Bottom line:** For typical homeowner tasks — hanging shelves, assembling furniture, small home repairs, occasional deck or fence work — this drill has more than enough power, comes with a case and two batteries, and won't break the bank. It's consistently rated as the best balance of price and performance for DIY use, not a specialty tool for professionals paying for features you won't use.\n\nIf you think you'll need more torque for heavy-duty masonry or large decking projects, step up to the **DEWALT DCD791D2** (brushless), but for 90% of home DIY, the DCD771C2 is the smarter buy.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 567
+  }
+}

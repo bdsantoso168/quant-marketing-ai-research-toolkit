@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:31:55.812834+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Recommended Laptop: Acer Nitro V 15\n\n**Price:** ~$799-899\n\n**Key Specs:**\n- **Screen:** 15.6\" FHD (1920x1080), 144Hz refresh rate\n- **GPU:** NVIDIA RTX 4050 (6GB VRAM)\n- **CPU:** Intel Core i5-13420H (13th Gen)\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB NVMe SSD\n- **Ports:** USB-C, HDMI 2.1, multiple USB-A\n\n## Why This Works for You:\n- The RTX 4050 handles most modern games at 1080p high settings (60+ fps in titles like Cyberpunk 2077, Fortnite, Valorant)\n- 144Hz screen makes competitive gaming much smoother\n- Leaves budget room for a gaming mouse or accessories\n\n## Solid Alternatives:\n\n**1. ASUS TUF Gaming A15** (~$850-950)\n- RTX 4050/4060 options, Ryzen 7 processor, 15.6\" 144Hz display\n- Known for durability (military-grade build)\n\n**2. Lenovo LOQ 15** (~$799-949)\n- RTX 4050/4060, Intel or AMD options\n- Good thermals for sustained gaming sessions\n\n**3. HP Victus 15** (~$750-850)\n- RTX 4050, 15.6\" 144Hz\n- Budget-friendly, decent build quality\n\n## My Top Pick:\nGo with the **Acer Nitro V 15** or **Lenovo LOQ 15** if you can find the RTX 4060 configuration within budget (sometimes on sale) — the extra VRAM/performance headroom will help the laptop stay relevant longer for newer game releases.\n\n**Quick tip:** Check Best Buy, Micro Center, or Amazon during sales events (especially near back-to-school or Black Friday) — these models frequently drop $100-150 below MSRP.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 671
+  }
+}

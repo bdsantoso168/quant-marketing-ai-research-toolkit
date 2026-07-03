@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_06",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:42:35.673214+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "kitchen_and_appliances",
+  "archetype": "head_to_head_comparison",
+  "prompt_text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?",
+  "response_text": "# Ninja vs. Vitamix for Daily Smoothies\n\n**Quick answer:** If you're smoothie-focused and budget-conscious, get the **Ninja**. If you want a long-term kitchen workhorse and can spend more, get the **Vitamix**.\n\n## Recommendation: Ninja Professional Plus Blender with Auto-iQ (BN701)\n**Price: ~$100-120**\n\n- 1400-watt motor handles frozen fruit, ice, and leafy greens easily\n- Auto-iQ preset programs (smoothie, extract, puree) take the guesswork out\n- 72 oz pitcher is great for family-size batches\n- Excellent value — handles 95% of what a Vitamix does for a third of the price\n\n## Alternative: Vitamix E310 Explorian\n**Price: ~$350-400**\n\n- More durable motor built to last 10+ years with daily use\n- Better at breaking down fibrous ingredients (kale stems, whole ginger) into silky-smooth texture\n- Variable speed dial gives more control\n- Backed by a 5-7 year warranty (vs. Ninja's 1 year)\n\n## My Take\n\n**Choose Ninja if:**\n- You mainly make smoothies (not soups, nut butters, hot blending)\n- You're budget-conscious\n- You don't mind replacing it in 5-7 years\n\n**Choose Vitamix if:**\n- You blend multiple times daily\n- You want ultra-smooth texture (no bits of spinach stem)\n- You'll also use it for soups, nut milks, dough, or hot blending\n- You value the extended warranty and repairability\n\n## Bottom Line\nFor **daily smoothies specifically**, the **Ninja BN701** is the better value — you're not paying for capabilities you won't use. The Vitamix only makes sense if you're a serious blender user who wants one machine to do everything.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 618
+  }
+}

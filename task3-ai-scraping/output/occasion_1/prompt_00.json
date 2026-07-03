@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:30:21.539033+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Recommended Gaming Laptop: ASUS TUF Gaming A15/F15\n\nFor a gaming laptop under $1000 with a screen over 15 inches, here are my top picks:\n\n## Top Choice: ASUS TUF Gaming A15 (2023)\n- **Screen:** 15.6\" FHD (1920x1080), 144Hz refresh rate\n- **GPU:** NVIDIA RTX 4050 or RTX 4060 (depending on sale pricing)\n- **CPU:** AMD Ryzen 7 7735HS\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB-1TB NVMe SSD\n- **Price:** Often $799-$949 depending on retailer/sale\n- **Why:** Great cooling system, durable build (military-grade), solid 1080p gaming performance\n\n## Strong Alternative: Acer Nitro 5\n- **Screen:** 15.6\" FHD, 144Hz\n- **GPU:** RTX 4050\n- **CPU:** Intel Core i5-13420H or AMD Ryzen 5 7535HS\n- **RAM:** 16GB\n- **Storage:** 512GB SSD\n- **Price:** Typically $699-$899\n- **Why:** Best value option, frequently on sale, reliable performance for the price\n\n## Budget-Friendly Option: Lenovo LOQ 15\n- **Screen:** 15.6\" FHD, 144Hz\n- **GPU:** RTX 4050/4060\n- **CPU:** Intel Core i5-13450HX\n- **RAM:** 16GB\n- **Price:** Around $799-$949\n- **Why:** Good build quality, competitive pricing, solid thermals\n\n## Buying Tips:\n1. **Check Best Buy, Newegg, and Amazon** for sales—these models frequently drop $100-150 below MSRP\n2. **Prioritize the RTX 4050/4060** over CPU specs for gaming performance\n3. **16GB RAM is the sweet spot**—avoid 8GB models for gaming\n4. Look for **Black Friday/back-to-school sales** if timing allows, as prices fluctuate significantly\n\n**My specific recommendation:** The **ASUS TUF Gaming A15** with RTX 4060 offers the best performance-per-dollar if you can catch it around $850-900. It'll handle most modern games at 1080p high settings comfortably.\n\nWould you like recommendations for specific games you plan to play so I can verify performance expectations?",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 839
+  }
+}

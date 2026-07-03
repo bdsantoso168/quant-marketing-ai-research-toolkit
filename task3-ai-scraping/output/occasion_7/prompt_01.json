@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:40:05.549023+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Apartments\n\n## Top Recommendation: **Miele Triflex HX2**\n- **Noise level:** ~69-70 dB (notably quieter than most competitors)\n- **Why it works:** German engineering focused on noise dampening, excellent suction despite quiet operation\n- **Price:** ~$500-600\n- **Best for:** Hard floors and low-pile carpet in apartments\n\n## Runner-Up: **LG CordZero A9 Kompressor**\n- **Noise level:** ~70-72 dB\n- **Why it works:** Has a dedicated \"quiet mode,\" good battery life (~80-100 min), self-standing design (no wall mount needed—great for small spaces)\n- **Price:** ~$400-500\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S15**\n- **Noise level:** ~72-75 dB\n- **Why it works:** Smart display shows dust detection, decent suction-to-noise ratio, good value\n- **Price:** ~$300-350\n\n## What to Avoid\n- **Dyson V15/V11 models** tend to run louder (78-82 dB) due to high-speed digital motors, despite excellent suction power\n\n---\n\n### Quick Buying Tips:\n1. **Look for dB ratings** in product specs—anything under 75 dB is considered quiet for a stick vacuum\n2. **\"Eco\" or \"Quiet\" modes** sacrifice some suction for lower noise—great for daily maintenance cleaning\n3. **Apartment living tip:** Consider cleaning during daytime hours regardless of model, as dB ratings can vary by 5-10 points depending on floor surface and mode\n\n**My pick for most apartment dwellers:** The **LG CordZero A9** offers the best balance of quiet operation, self-standing convenience (no drilling for wall mounts), and reasonable price point.\n\nWould you like recommendations based on your specific flooring type (hardwood, carpet, mixed) or budget range?",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 669
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:43:21.218147+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Small Apartments\n\n## Top Recommendation: **LG CordZero A9 Kompressor**\n- **Noise level:** ~78-80 dB (noticeably quieter than most competitors)\n- Auto-empty compression feature reduces bag changes\n- Long battery life (~80-120 min depending on mode)\n- Excellent suction for a stick vacuum\n- Price: ~$500-600\n\n## Best Budget Quiet Option: **Tineco Pure One S15 Pro**\n- **Noise level:** ~72-75 dB in standard mode\n- Smart sensors adjust suction automatically (reduces need for max power/noise)\n- LED display shows real-time cleaning feedback\n- Great for hard floors + occasional carpet\n- Price: ~$350-400\n\n## Premium Quiet Choice: **Dyson V15 Detect Absolute**\n- **Noise level:** ~80 dB (Dyson has worked to reduce noise vs older models)\n- Laser dust detection is genuinely useful in small spaces\n- More expensive but excellent build quality\n- Price: ~$650-750\n\n## My Top Pick for Your Situation:\n**Tineco Pure One S15 Pro** — best balance of quiet operation, price, and performance for apartment living. The auto-sensing tech means it rarely runs at max (loudest) power unless truly needed, since apartments typically don't have deeply embedded dirt like a house with pets/kids might.\n\n### Quick Tips for Noise Reduction Regardless of Model:\n- Use \"Eco\" or \"Auto\" mode instead of \"Max/Turbo\" when possible\n- Vacuum during daytime hours if noise complaints are a concern (shared walls)\n- Check if your building has quiet hours policies\n\n**Would you like me to narrow this down further based on your budget or specific flooring type (hardwood vs. carpet)?**",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 635
+  }
+}

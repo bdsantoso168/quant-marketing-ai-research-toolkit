@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:41:34.827244+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Recommended Gaming Laptop: ASUS TUF Gaming A15\n\n**Price:** Typically $800-$950 (varies with sales)\n\n## Specs to look for in this model:\n- **CPU:** AMD Ryzen 7 7735HS\n- **GPU:** NVIDIA RTX 4060 (8GB VRAM)\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB or 1TB NVMe SSD\n- **Display:** 15.6\" FHD, 144Hz refresh rate\n- **Build:** MIL-STD-810H durability rating\n\n### Why this one:\nThe RTX 4060 is the sweet spot for this price range—it'll run most modern games at 1080p high settings with good frame rates, and it supports DLSS 3 for better performance in supported titles.\n\n---\n\n## Solid Alternative: Acer Nitro 16 (or Nitro 5, 15.6\")\n\n**Price:** Typically $850-$950\n\n- **CPU:** Intel Core i5-13420H or AMD Ryzen 7 7735HS\n- **GPU:** RTX 4060\n- **RAM:** 16GB DDR5\n- **Display:** 15.6\" or 16\", 165Hz FHD\n\nAcer's Nitro line tends to be a bit more budget-friendly while still packing similar GPU performance.\n\n---\n\n## Quick Buying Tips:\n1. **Prioritize the GPU** over CPU—RTX 4060 > RTX 4050 for gaming performance\n2. **Check for 16GB RAM minimum** (8GB will bottleneck newer titles)\n3. **144Hz+ refresh rate** makes a noticeable difference for competitive games\n4. **Watch for Best Buy/Amazon sales**—these models frequently dip $100-150 below MSRP\n\n### Where to buy:\nCheck **Best Buy, Amazon, and Newegg** directly, and compare against **manufacturer refurbished** options (ASUS and Acer both offer certified refurb units with warranties at 15-20% discounts).\n\nWould you like me to narrow this down based on specific games you want to play, or do you have a preference between AMD/Intel processors?",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 725
+  }
+}

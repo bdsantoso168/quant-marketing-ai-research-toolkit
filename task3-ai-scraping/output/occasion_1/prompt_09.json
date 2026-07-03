@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_09",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:31:47.074309+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "tools_and_diy",
+  "archetype": "decisive_best_pick",
+  "prompt_text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer.",
+  "response_text": "## Best Value Cordless Drill: DEWALT DCD777C1 20V MAX Cordless Drill/Driver Kit\n\n**Price point:** ~$99-129\n\n**Why this one:**\n- Brushless motor (more efficient, longer-lasting than brushed motors at this price point)\n- 2-speed transmission (0-450 / 0-1,500 RPM) handles everything from delicate work to fast drilling\n- Comes as a complete kit: drill, battery, charger, and case—no surprise add-on costs\n- DEWALT's 20V MAX battery system is huge, meaning tons of compatible tools if you expand your collection later (drills, saws, vacuums, etc.)\n- Lightweight and compact enough for overhead work and tight spaces\n- LED work light built in\n- Excellent warranty and widely available parts/service\n\n**Who it's for:** Homeowners doing typical DIY—hanging shelves, assembling furniture, deck repairs, drilling into wood/metal/light masonry, driving screws in bulk.\n\n**One caveat:** If you truly only need it for occasional light tasks (hanging pictures, small furniture), you could save more money with something like the **Black+Decker LDX120C** (~$40), but the DEWALT is the better *value* because it won't leave you wanting more power six months from now, and the battery ecosystem pays off long-term.\n\n**Bottom line:** Get the DEWALT DCD777C1. It's the sweet spot of price, power, and durability for real home use.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 497
+  }
+}

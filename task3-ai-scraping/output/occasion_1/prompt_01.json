@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:30:31.153251+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Apartments\n\n## Top Recommendation: **Dyson V8**\n- **Noise level:** ~78-80 dB (noticeably quieter than V10/V11/V15 models)\n- **Why it works:** Dyson's higher-end models actually get *louder* due to more powerful motors. The V8 hits a sweet spot—strong enough for daily cleaning, but without the ear-splitting whine of the V15 Detect (~85+ dB)\n- **Price:** ~$300-350\n- **Best for:** Hard floors, light carpet, apartments under 1,200 sq ft\n\n## Quieter Alternative: **Miele Triflex HX2**\n- **Noise level:** ~72-75 dB (one of the quietest in this category)\n- **Why it works:** German engineering prioritizes noise dampening; sealed system reduces motor whine\n- **Price:** ~$450-500\n- **Trade-off:** Pricier, but exceptional build quality and quiet operation\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S11**\n- **Noise level:** ~75-78 dB\n- **Why it works:** Smart motor adjusts suction based on floor type, avoiding max power (and max noise) unless needed\n- **Price:** ~$200-250\n- **Bonus:** LED display shows real-time suction adjustments\n\n## What to Avoid\n- **Shark cordless models** — generally louder (82-85 dB) due to less refined motor housing\n- **Dyson V11/V15** — powerful but noticeably louder than V8\n\n## Quick Tips for Noise Reduction\n1. Use **Eco/low-power mode** for daily maintenance cleaning (skip max mode unless deep cleaning)\n2. Empty the dustbin regularly—clogs increase motor strain and noise\n3. Vacuum during reasonable hours if you share walls with neighbors\n\n**My pick:** For most apartment dwellers, the **Dyson V8** offers the best balance of quiet operation, suction power, and reasonable price. If budget allows and quiet is your #1 priority, the **Miele Triflex HX2** is superior.\n\nWould you like recommendations based on a specific budget or flooring type (hardwood vs. carpet)?",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 759
+  }
+}

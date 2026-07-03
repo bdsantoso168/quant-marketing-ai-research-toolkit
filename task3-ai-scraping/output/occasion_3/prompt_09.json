@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_09",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:34:57.564811+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "tools_and_diy",
+  "archetype": "decisive_best_pick",
+  "prompt_text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer.",
+  "response_text": "## DEWALT DCD771C2 20V MAX Cordless Drill/Driver Kit\n\nThis is the best value pick for home DIY right now.\n\n**Why this one:**\n- **Price point**: Typically $99-130, which is excellent value for a name-brand tool\n- **Power**: 300 UWO (unit watts out) of torque — plenty for drilling into wood, metal, and driving screws for typical home projects\n- **Compact & lightweight**: Easy to handle in tight spaces (cabinets, under sinks, etc.)\n- **Battery ecosystem**: Uses DEWALT's 20V MAX battery line, which is one of the most widely available platforms — meaning if you buy other DEWALT tools later (sander, saw, etc.), you can share batteries\n- **Comes complete**: Includes two batteries, a charger, and a case — no surprise add-on costs\n- **Reliability**: DEWALT has a strong reputation for durability, and this model has thousands of positive reviews confirming it holds up over years of casual-to-moderate use\n\n**Bottom line**: For hanging shelves, assembling furniture, deck repairs, and general household projects, this drill has more than enough power, and you're not overpaying for professional-grade features you won't use. It's the sweet spot between cheap disposable drills and expensive pro-contractor models.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 442
+  }
+}

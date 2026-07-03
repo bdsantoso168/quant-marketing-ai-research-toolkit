@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_06",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:44:07.838195+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "kitchen_and_appliances",
+  "archetype": "head_to_head_comparison",
+  "prompt_text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?",
+  "response_text": "# Ninja vs Vitamix for Daily Smoothies\n\n**Short answer:** For daily smoothies specifically, the **Ninja is the better value**, but Vitamix wins on longevity and versatility.\n\n## Ninja Professional Plus Blender (BN751) - ~$100-130\n**Best for:** Most people making daily smoothies\n\nPros:\n- Excellent at crushing ice and frozen fruit (their specialty)\n- 1400 peak watts is plenty for smoothies\n- Comes with to-go cups for smoothies on the run\n- Much cheaper upfront cost\n- Compact footprint\n\nCons:\n- Motor typically lasts 3-5 years with daily use\n- Louder than Vitamix\n- Less smooth texture with fibrous ingredients (kale stems, etc.)\n\n## Vitamix E310 Explorian - ~$350-400\n**Best for:** People who want one blender for everything, long-term\n\nPros:\n- Motors routinely last 10+ years, even daily\n- Genuinely smoother texture (breaks down fiber completely)\n- Can handle hot soups, nut butters, flour milling\n- Better warranty (5-7 years vs Ninja's 1 year)\n- Resale value if you ever upgrade\n\nCons:\n- 3x the price\n- Bulkier on counter\n- No pre-programmed settings on base model\n\n## My Recommendation\n\n**If you're *only* making smoothies:** Get the **Ninja BN751**. It genuinely excels at this specific task, and there's no reason to pay Vitamix prices for a single use case.\n\n**If you want it to also make soups, nut butter, or handle heavy daily abuse for a decade:** Get the **Vitamix E310**. The cost-per-year math favors it if you keep it 7+ years.\n\n**Best value pick:** Ninja BN751 — it does 90% of what Vitamix does for smoothies specifically, at a third of the price. Most people don't need Vitamix's extra power/durability unless they're blending daily for 5+ years or need it for more than smoothies.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 680
+  }
+}

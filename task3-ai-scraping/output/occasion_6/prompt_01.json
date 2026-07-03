@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:38:29.427295+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Apartments\n\n## Top Recommendation: **Miele Triflex HX2**\n- **Noise level:** ~69-70 dB (notably quieter than most competitors)\n- **Why it works for apartments:** Lightweight, three-in-one design (converts to handheld), excellent filtration\n- **Price range:** $400-500\n- **Battery life:** ~60 minutes on low power mode\n\n## Runner-Up: **LG CordZero A9**\n- **Noise level:** ~70 dB\n- **Why it works:** Very quiet motor, dual battery system (swap batteries for continuous use), lightweight at ~5.5 lbs\n- **Price range:** $400-600\n- **Bonus:** Comes with a stand that doubles as a charging/storage dock—great for small spaces\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S11**\n- **Noise level:** ~72-75 dB\n- **Why it works:** Smart display shows suction power, decent battery life (~40 min), good value\n- **Price range:** $200-300\n\n## What to Avoid\n- **Dyson V15/V11 models** — powerful but notoriously loud (75-80+ dB), can feel jarring in small spaces with hard floors/thin walls\n\n## Quick Buying Tips\n1. **Check dB ratings** if listed (lower = quieter), though brands don't always publish this\n2. **Lower suction settings** are quieter — look for models with adjustable power (eco/auto modes)\n3. **Soft-roller brush heads** tend to be quieter than motorized brush bars on hard floors\n4. **Read Reddit/YouTube reviews** — actual decibel comparisons are more reliable than marketing claims\n\n---\n\n**My pick:** If budget allows, go with the **Miele Triflex HX2**—best balance of quiet operation, suction, and apartment-friendly size. If you want to save money, the **Tineco Pure One S11** is a solid quieter alternative.",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 669
+  }
+}

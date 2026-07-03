@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:38:39.655502+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended: GB Pockit+ All-Terrain or Ergobaby Metro+ Compact City Stroller\n\nBased on your priorities (lightweight, compact fold, city-friendly, good recline), here are my top picks:\n\n## Top Pick: **Ergobaby Metro+ Compact City Stroller** (~$300-330)\n- **Weight:** ~15.5 lbs\n- **Fold:** One-handed, self-standing fold; compact enough for closets, small apartments, and airplane overhead bins\n- **Recline:** Near-flat recline, good for naps on the go\n- **Wheels:** Handles sidewalks, curbs, and light urban terrain well (better than most \"umbrella\" strollers)\n- **Toddler-friendly:** Holds up to 50 lbs, so it grows with your child\n- **Extras:** Decent canopy coverage, one-hand steering\n\n## Strong Alternative: **GB Pockit+ All-Terrain** (~$280-330)\n- **Weight:** ~13 lbs\n- **Fold:** Insanely compact—folds down to roughly the size of a small backpack, genuinely fits in overhead bins\n- **Recline:** Multi-position recline, works for toddlers\n- **Wheels:** \"All-terrain\" branding holds up reasonably on city streets, though smaller wheels than Ergobaby\n- **Best for:** If ultra-portability (subway commuting, small apartments, frequent travel) is your #1 concern\n\n## Budget-Friendly Alternative: **Summer Infant 3Dpac CS+** (~$150-180)\n- Lighter on the wallet, compact fold, decent recline\n- Trade-off: less durable long-term, smaller canopy, wheels less smooth on rough sidewalks\n\n---\n\n### My honest take:\nIf you want the **best balance of recline comfort + ride quality on real city streets**, go with the **Ergobaby Metro+**. If **fold size and portability** are your top priority (e.g., you live in a small NYC apartment or take rideshares/trains often), the **GB Pockit+** is worth the slightly bumpier ride.\n\nWant me to compare these head-to-head on specific features like canopy size, storage basket capacity, or car seat compatibility?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 747
+  }
+}

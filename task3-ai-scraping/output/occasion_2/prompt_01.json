@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:32:04.624902+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Apartments\n\n## Top Recommendation: **Miele Triflex HX2**\n- **Noise level:** ~69-70 dB (noticeably quieter than most competitors)\n- Why it works: German engineering focuses heavily on noise dampening; still has strong suction (~450W)\n- Price: ~$500-600\n- Great for: Apartments with thin walls, nighttime cleaning, light sleepers\n\n## Runner-Up: **LG CordZero A9 Kompressor**\n- **Noise level:** ~72 dB\n- Bonus: Auto-compacts dust so you empty it less often\n- Price: ~$400-500\n- Great for: Slightly better value, still very quiet operation\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S15**\n- **Noise level:** ~73-75 dB\n- Smart display shows suction power, decent for the price point\n- Price: ~$300-350\n\n---\n\n## Why the Miele Wins for Apartments:\n1. **Sound insulation** - Miele specifically engineers for lower decibel output vs. Dyson (often 80+ dB)\n2. **Smaller living spaces** amplify vacuum noise more than houses, so this matters more\n3. **Multiple attachments** work well for compact apartment layouts (stairs, tight corners)\n\n## One Thing to Avoid:\n**Dyson V15/V12 models** are excellent vacuums but run louder (78-82 dB) due to their high-speed digital motors—not ideal if noise is your top priority.\n\n---\n\n**Quick tip:** If budget is tight, look for \"quiet mode\" settings on any of these models—they trade some suction power for significantly reduced noise, which is often a fair trade-off in a small space anyway.\n\nWould you like recommendations based on other factors like battery life or pet hair performance?",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 617
+  }
+}

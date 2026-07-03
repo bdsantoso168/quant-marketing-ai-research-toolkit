@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:42:45.330179+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: Trek Domane AL 2\n- **Price:** ~$750-800\n- **Why it's great:** Endurance geometry (more upright, comfortable position), aluminum frame with carbon fork to absorb road vibrations\n- **Components:** Shimano Claris 8-speed groupset (reliable, easy to maintain)\n- **Best for:** Comfort-focused riders, longer rides, less aggressive positioning\n\n## Strong Alternative: Giant Contend 3\n- **Price:** ~$650-750\n- **Why it's great:** Similar endurance geometry to the Domane, known for stable handling\n- **Components:** Shimano Claris groupset, disc brakes on some models (better stopping power in wet conditions)\n- **Best for:** Riders wanting reliable braking and Giant's reputation for value\n\n## Budget-Friendly Option: Specialized Allez\n- **Price:** ~$750-800 (base model)\n- **Why it's great:** More race-oriented geometry if you want to grow into faster riding\n- **Components:** Shimano Claris groupset\n- **Best for:** Riders who might want a slightly more aggressive position eventually\n\n## Key Things to Consider:\n1. **Fit matters most** – Visit a local bike shop for proper sizing before buying\n2. **Disc vs. rim brakes** – Disc brakes cost more but perform better in wet weather; rim brakes are lighter and easier to maintain\n3. **Groupset** – Shimano Claris is standard at this price point and totally adequate for beginners\n4. **Buy from an LBS if possible** – You'll get professional fitting, a test ride, and after-sale support (tune-ups, adjustments)\n\n## My Recommendation:\nStart with the **Trek Domane AL 2** or **Giant Contend 3** — both offer comfortable geometry that's more forgiving for new riders, quality components that won't need immediate upgrades, and strong resale value if you decide road biking isn't for you.\n\nWould you like recommendations for accessories (helmet, shoes, pedals) to go with your new bike?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 730
+  }
+}

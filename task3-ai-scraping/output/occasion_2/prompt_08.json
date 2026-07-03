@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_08",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:33:14.653782+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "flagship_comparison",
+  "prompt_text": "Compare the latest iPhone and Samsung Galaxy flagship on camera quality and battery life. Which is the better buy?",
+  "response_text": "# iPhone 16 Pro Max vs. Samsung Galaxy S24 Ultra\n\n## Camera Quality\n\n**iPhone 16 Pro Max**\n- 48MP main, 48MP ultra-wide, 12MP telephoto (5x optical zoom)\n- Strengths: More natural, true-to-life color science; excellent video (still the gold standard for video with ProRes, Dolby Vision, and Cinematic mode)\n- Better skin tones and consistency across lighting conditions\n- Slightly less aggressive HDR/sharpening — more \"realistic\" look\n\n**Galaxy S24 Ultra**\n- 200MP main, 12MP ultra-wide, two telephoto lenses (3x and 10x optical)\n- Strengths: More zoom flexibility (10x optical vs 5x), higher resolution shots for cropping, punchier/more vibrant photos out of camera\n- AI features like Instant Slow-Mo and Generative Edit are genuinely useful\n- Zoom performance is the standout advantage here — better for wildlife, events, distant subjects\n\n**Verdict:** iPhone wins for video and natural photo tone; Samsung wins for zoom range and detail cropping. If you shoot a lot of video, iPhone. If you zoom often, Samsung.\n\n## Battery Life\n\n**iPhone 16 Pro Max**\n- ~4,685 mAh battery\n- Real-world: typically 8-9 hours screen-on time\n- Excellent standby efficiency due to iOS optimization\n\n**Galaxy S24 Ultra**\n- 5,000 mAh battery\n- Real-world: typically 7-8 hours screen-on time\n- Slightly faster charging (45W vs iPhone's 27W)\n\n**Verdict:** Roughly a tie in daily use, but iPhone 16 Pro Max often edges out slightly in longevity despite smaller battery, thanks to software efficiency. Samsung charges faster.\n\n## Overall Recommendation\n\n**For most people: iPhone 16 Pro Max** — better video, more consistent camera output, strong battery life, and better long-term software support (typically 5-6 years of updates).\n\n**Choose Galaxy S24 Ultra if:**\n- You want the S Pen stylus\n- You need superior zoom capability\n- You're already embedded in the Android/Google ecosystem\n- You prefer a more customizable OS\n\n**Bottom line:** Both are excellent flagships with no bad choice here. iPhone 16 Pro Max is the safer, more well-rounded pick for most buyers, especially if video matters to you. Galaxy S24 Ultra is better if you value zoom range, stylus functionality, or prefer Android's flexibility.",
+  "usage": {
+    "input_tokens": 85,
+    "output_tokens": 899
+  }
+}

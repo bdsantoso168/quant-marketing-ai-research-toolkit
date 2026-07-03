@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:32:37.642612+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks Right Now\n\n**Budget Champion: ASICS Gel-Excite Series**\n- Often found for $45-60 during sales\n- Reliable cushioning for daily training\n- Frequently discounted at Road Runner Sports, DSW\n\n**Best Overall Value: Nike Revolution 6/7**\n- Usually $50-70, often on sale for $35-45\n- Good for casual runners/daily wear\n- Widely available at Nike outlets\n\n**Higher Performance for Serious Runners: Brooks Ghost or Saucony Ride**\n- Regular price $130-140, but often 30-40% off previous-year models\n- Better for actual training/racing\n\n## Student Discount Resources\n\n**Verified Student Discount Programs:**\n- **Nike**: 10% off via Nike's student verification (through UNiDAYS or SheerID) - sign up with .edu email\n- **Adidas**: 15% student discount through UNiDAYS\n- **New Balance**: 15% off for students via ID.me verification\n- **ASICS**: Occasionally offers 15-20% student promos (check their student portal)\n\n**Aggregator Apps/Sites to Check:**\n- **UNiDAYS** - verify once, unlocks discounts across many brands\n- **Student Beans** - similar service, different brand partnerships\n- **Rakuten** - stack cashback on top of sale prices\n\n**Other Money-Saving Tips:**\n- **RetailMeNot/Honey** browser extensions for stacking codes at checkout\n- **DSW VIP** (free signup) gives points + occasional student promos\n- **Outlet stores** (Nike/Adidas factory outlets) often beat online sale prices\n- End of season sales (roughly Dec/Jan and June/July) have deepest discounts\n\n## My Specific Recommendation\n\nCheck **Nike.com with student verification** right now — stack it with any site-wide sale (they run these often), which can get you a solid pair like the **Nike Pegasus** (normally $130) down to **$85-95 range**.\n\n---\n\n*Note: Deals change constantly — I'd recommend checking these sites directly today since I don't have real-time access to current promo codes or flash sales happening right now.*",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 745
+  }
+}

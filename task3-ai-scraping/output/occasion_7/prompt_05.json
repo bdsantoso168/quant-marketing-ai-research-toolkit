@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:40:44.678000+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, all under $25:\n\n## Top Recommendation: **CeraVe Moisturizing Cream**\n(~$18-19 for 16oz jar)\n- Contains 3 essential ceramides + hyaluronic acid\n- MVE technology for time-released hydration\n- Fragrance-free, non-comedogenic\n- Developed with dermatologists\n- Great for both face and body\n\n## Other Excellent Options:\n\n**Vanicream Moisturizing Cream** (~$15)\n- Extremely minimal ingredient list\n- Free of dyes, fragrance, lanolin, parabens\n- Ideal if you have multiple sensitivities/allergies\n- Often recommended by dermatologists for eczema-prone skin\n\n**Cetaphil Moisturizing Cream** (~$14-16)\n- Fragrance-free formula\n- Contains glycerin and shea butter\n- Good for very dry, flaky patches\n- Widely available at any drugstore\n\n**La Roche-Posay Toleriane Double Repair Face Moisturizer** (~$20)\n- Slightly more \"cosmetic\" feel (less greasy)\n- Contains ceramides, niacinamide, glycerin\n- Good if you want something less heavy for daytime\n\n## My Specific Recommendation:\n**Start with CeraVe Moisturizing Cream** — it hits the sweet spot of affordability, effectiveness, and wide availability (Target, CVS, Walgreens, Amazon). The ceramides help repair your skin barrier while the fragrance-free formula minimizes irritation risk.\n\n**Pro tip:** Apply to damp skin right after showering to lock in extra moisture, and patch-test any new product on your inner arm for 2-3 days before applying to your face.\n\nWould you like recommendations for a gentle cleanser to pair with this, or are you dealing with any specific skin concerns (eczema, rosacea, etc.) that I should factor in?",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 668
+  }
+}

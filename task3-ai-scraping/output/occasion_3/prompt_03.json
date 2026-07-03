@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:34:00.073251+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "Here are some solid gift ideas that could actually help him catch more fish (or at least make fishing more enjoyable while he keeps trying):\n\n**Practical \"catch more fish\" gifts:**\n\n1. **Garmin Striker 4 Fish Finder** (~$100-130, sometimes on sale under $75) - Might be a stretch depending on sales, but if you can find it discounted, this is a game-changer for locating fish.\n\n2. **Berkley Gulp! Bait Variety Pack** (~$20-30) - Scented, realistic bait that outperforms live bait in many situations. Pair with a nice tackle box.\n\n3. **Plano Tackle Box + Rapala Lure Assortment** (~$40-60) - A quality tackle organizer paired with proven lures (like Rapala X-Rap or Original Floater series) gives him better tools to work with.\n\n**Fun/comfort gifts (since he might just enjoy the hobby regardless of catches):**\n\n4. **YETI Rambler Tumbler** (~$35-40) - Keeps drinks cold/hot during long days on the water. Practical and well-loved by outdoorsy folks.\n\n5. **Fishing subscription box** like Mystery Tackle Box (~$20-30/month) - Ongoing surprise gear tailored to his fishing style; a few months' subscription fits your budget.\n\n6. **Personalized fishing gift** - A custom engraved tackle box or \"World's Okayest Fisherman\" mug/shirt combo adds humor to the situation (a fun nod to his luck).\n\n**My top pick:** The Plano tackle box + Rapala lure set combo is probably your best bet—it's practical, shows thought, and might genuinely improve his results. Add a YETI tumbler if budget allows, or go the humorous route with a \"fishing enthusiast, results not guaranteed\" themed item if he has a good sense of humor about it.\n\nWhat's his fishing style—freshwater lake, river, or saltwater? I can narrow down lure/gear recommendations further.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 666
+  }
+}

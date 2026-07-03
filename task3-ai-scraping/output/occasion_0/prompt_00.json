@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 0,
+  "timestamp_utc": "2026-07-03T15:28:43.865949+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Recommended Laptop: ASUS TUF Gaming A15/A16\n\nFor a gaming laptop under $1000 with a screen over 15 inches, here are my top picks:\n\n## Best Overall: ASUS TUF Gaming A15 (2023/2024 models)\n- **Screen:** 15.6\" FHD (1920x1080), 144Hz refresh rate\n- **CPU:** AMD Ryzen 7 7735HS\n- **GPU:** RTX 4060 (8GB) - configurations around $900-999\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB-1TB NVMe SSD\n- **Why:** Best price-to-performance ratio for 1080p gaming, durable military-grade build, good thermals\n\n## Alternative Option: Acer Nitro 16\n- **Screen:** 16\" WQXGA (2560x1600), 165Hz\n- **CPU:** AMD Ryzen 7 7735HS or Intel Core i5-13500HX\n- **GPU:** RTX 4050/4060\n- **RAM:** 16GB\n- **Price:** Often $850-999 on sale\n- **Why:** Larger, higher-res screen than most competitors at this price\n\n## Budget-Friendly Pick: Lenovo LOQ 15\n- **Screen:** 15.6\" FHD, 144Hz\n- **CPU:** Intel Core i5-12450HX\n- **GPU:** RTX 4050 (6GB)\n- **RAM:** 16GB\n- **Price:** Often $750-850\n- **Why:** Reliable brand, good build quality, frequently discounted\n\n## Where to Buy\n- Check **Best Buy, Amazon, and Newegg** for current deals\n- **Fall/Holiday sales** (Nov-Dec) often have RTX 4060 models drop below $900\n- ASUS's own website sometimes has direct discounts\n\n## Quick Recommendation\n**Go with the ASUS TUF A15 with RTX 4060** if you can find it in your budget—it offers the best gaming performance (1080p high settings, 60+ fps in most modern titles) for the price point. If you want a bigger/sharper screen and don't mind slightly less GPU power, the **Acer Nitro 16** is worth considering.\n\nWould you like me to narrow this down based on specific games you play or other preferences (battery life, weight, etc.)?",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 797
+  }
+}

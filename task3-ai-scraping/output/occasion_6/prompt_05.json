@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:39:09.341243+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, ranked by category:\n\n## Top Overall Pick\n**CeraVe Moisturizing Cream** (~$18-20 for 16oz)\n- Contains ceramides (1, 3, 6-II) and hyaluronic acid\n- MVE technology for 24-hour slow release hydration\n- Fragrance-free, non-comedogenic\n- Developed with dermatologists\n\n## Best for Very Sensitive/Reactive Skin\n**Vanicream Moisturizing Cream** (~$14-16 for 16oz)\n- Free of dyes, fragrance, lanolin, parabens, and formaldehyde\n- Extremely minimal ingredient list\n- Great for eczema-prone or highly reactive skin\n\n## Best Lightweight Option\n**Cetaphil Daily Hydrating Lotion** (~$15-17)\n- Hyaluronic acid-based\n- Lighter texture if the CeraVe cream feels too heavy\n- Good for combination sensitive skin\n\n## Best \"Splurge-Affordable\" Option\n**La Roche-Posay Toleriane Double Repair Face Moisturizer** (~$20-22 for 2.5oz)\n- Contains ceramide-3, niacinamide, and glycerin\n- Formulated with thermal spring water\n- Slightly more refined texture for daytime wear\n\n## Budget Pharmacy Pick\n**Aveeno Calm + Restore Oat Gel Moisturizer** (~$14-16)\n- Colloidal oatmeal for soothing\n- Fragrance-free\n- Good for those with occasional redness/irritation\n\n---\n\n**My top recommendation:** Start with **CeraVe Moisturizing Cream**—it hits the best balance of price, ceramide content, and gentle formulation. Apply to damp skin after cleansing for best absorption.\n\n**Pro tip:** Patch test any new product on your inner arm for 2-3 days before applying to your face, especially with sensitive skin.",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 684
+  }
+}

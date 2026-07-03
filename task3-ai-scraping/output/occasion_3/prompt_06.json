@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_06",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:34:29.731723+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "kitchen_and_appliances",
+  "archetype": "head_to_head_comparison",
+  "prompt_text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?",
+  "response_text": "# Ninja vs. Vitamix for Daily Smoothies\n\n**Short answer: Get the Ninja if you're budget-conscious, Vitamix if you want a 10+ year investment.**\n\n## Ninja Professional Plus (BN751) – ~$100-130\n**Best value pick for most people**\n\n- 1400 watts, handles frozen fruit/ice well\n- Auto-iQ presets for smoothies\n- Dishwasher-safe parts\n- Solid for daily use, though motor may wear faster over 5-7 years with heavy use\n\n## Vitamix E310 Explorian – ~$350-400\n**Best if you want it to last essentially forever**\n\n- More powerful motor, smoother texture (breaks down fibrous stuff like kale stems, seeds)\n- Known to last 10-15+ years with regular use\n- Better warranty (5-7 years vs Ninja's 1 year)\n- Variable speed dial for more control\n\n## My Recommendation\n\n**If you're making smoothies daily and this is a long-term habit:** The Vitamix E310 is the better value *per year of ownership*, even though it costs 3x more upfront. Divide the cost over a decade and it's cheaper than replacing a Ninja every few years.\n\n**If you're not sure this will stick, or budget is tight right now:** Ninja Professional Plus is the smart choice. It'll do 90% of what a Vitamix does for daily fruit-and-yogurt smoothies.\n\n**One more option:** If you want a middle ground, the **Vitamix A2300** (~$450) or refurbished Vitamix models (often $100-150 off) split the difference.\n\n### Quick decision guide:\n- Tight budget / testing the habit → **Ninja Professional Plus**\n- Serious about health goals long-term / want restaurant-quality texture → **Vitamix E310**\n\nDo you make smoothies with tougher ingredients (kale, frozen mango, ice) or mostly softer stuff like banana and yogurt? That might tip the recommendation further.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 663
+  }
+}

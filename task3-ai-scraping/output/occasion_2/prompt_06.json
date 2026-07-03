@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_06",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:32:54.006814+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "kitchen_and_appliances",
+  "archetype": "head_to_head_comparison",
+  "prompt_text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?",
+  "response_text": "# Ninja vs. Vitamix for Daily Smoothies\n\n**Short answer: For daily smoothies specifically, the Ninja is the better value.** Here's the breakdown:\n\n## Ninja (Best Value Pick)\n**Ninja Professional Plus Blender with Auto-iQ (BN751)** — ~$100-130\n- Powerful enough to crush ice and frozen fruit smoothly\n- Auto-iQ presets take the guesswork out of blending\n- 1400 peak watts is plenty for daily smoothie use\n- Dishwasher-safe parts\n- Compact footprint\n\n**Why it wins for smoothies:** You're not paying for capabilities you won't use. Smoothies don't require the extreme power needed for things like grinding grain into flour or achieving restaurant-quality hot soups from friction heat.\n\n## Vitamix (Best for Longevity/Versatility)\n**Vitamix E310 Explorian** — ~$350-400\n- Overkill power for smoothies, but silky-smooth results every time\n- Legendary durability (7-10+ year lifespan, sometimes decades)\n- Better if you'll also make nut butters, hot soups, or flours\n- Motor has a stronger warranty (often 7-10 years vs. Ninja's 1-2 years)\n\n## My Recommendation\n\n**Go with the Ninja BN751** if:\n- Smoothies are your main use case\n- You want to save $200-300\n- You're not blending daily for 5+ years\n\n**Go with the Vitamix E310** if:\n- You blend multiple times per day\n- You want one machine to last a decade+\n- You might expand into soups, nut butter, or flour milling later\n\n## Bottom Line\nFor pure daily smoothie duty, the **Ninja delivers 90% of the performance at 30% of the cost**. Save the Vitamix upgrade for if/when you start using the blender for more demanding tasks beyond smoothies.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 636
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 4,
+  "timestamp_utc": "2026-07-03T15:35:52.224705+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, all under $25:\n\n## Top Recommendation\n**CeraVe Moisturizing Cream** (~$18-20 for 16oz jar)\n- Contains ceramides + hyaluronic acid\n- Fragrance-free, non-comedogenic\n- Developed with dermatologists\n- Rich enough for very dry skin, but absorbs well\n\n## Other Excellent Options\n\n**Vanicream Moisturizing Cream** (~$15 for 16oz)\n- Extremely minimal ingredient list\n- No dyes, fragrance, or common irritants\n- Great for eczema-prone or highly reactive skin\n\n**Aveeno Calm + Restore Oat Gel Moisturizer** (~$15)\n- Lighter texture if you want something less heavy\n- Colloidal oatmeal soothes irritation\n- Good for combination sensitive skin\n\n**La Roche-Posay Toleriane Double Repair** (~$20)\n- Slightly more premium but still affordable\n- Contains niacinamide + ceramides\n- Great for sensitive skin with redness\n\n## Quick Buying Tips\n- Look for \"fragrance-free\" (not just \"unscented\")\n- Avoid essential oils, alcohol, and dyes\n- Ceramides and hyaluronic acid are your friends\n- Patch test any new product on your inner arm first\n\n**My personal top pick:** CeraVe Moisturizing Cream hits the best balance of affordability, effectiveness, and wide availability (drugstores, Target, Amazon).\n\nWould you like recommendations for a specific concern like eczema, rosacea, or a particular texture preference (gel vs. cream)?",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 576
+  }
+}

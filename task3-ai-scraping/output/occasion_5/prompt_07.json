@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 5,
+  "timestamp_utc": "2026-07-03T15:37:51.736686+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: **Trek Domane AL 2**\n- **Price:** ~$750-800\n- **Why it's great:** Endurance geometry (more relaxed, comfortable riding position), aluminum frame with carbon fork to dampen road vibrations\n- **Best for:** Riders who want comfort over aggressive speed, great for longer rides\n\n## Strong Alternative: **Giant Contend 3**\n- **Price:** ~$650-700\n- **Why it's great:** Reliable Shimano Claris 2x8 drivetrain, disc brakes on some models for better stopping power in wet conditions\n- **Best for:** Riders wanting proven reliability and easy availability (Giant dealers are everywhere)\n\n## Budget-Friendly Option: **Cannondale CAAD Optimo 3**\n- **Price:** ~$700\n- **Why it's great:** Cannondale's aluminum frame expertise trickles down even to entry-level bikes; comfortable geometry\n- **Best for:** Value-conscious buyers who still want a recognized brand name\n\n## Things to Consider When Buying:\n1. **Fit matters most** – Visit a local bike shop for proper sizing before purchasing online\n2. **Components:** Look for Shimano Claris or Sora groupsets (common at this price point) – reliable and easy to maintain\n3. **Disc vs. rim brakes:** Disc brakes cost a bit more but offer better wet-weather stopping power\n4. **Buy from an authorized dealer** – You'll get assembly, a proper fit, and warranty support\n\n## My Recommendation:\nIf you can find it in stock, the **Trek Domane AL 2** offers the best blend of comfort and quality for new riders. If budget is tighter, the **Giant Contend 3** is excellent value and Giant's dealer network makes servicing easy.\n\n**Pro tip:** Check for last year's model or end-of-season sales—you can often get last year's bike at a significant discount with no meaningful difference in ride quality.\n\nWould you like recommendations for accessories to pair with your new bike (helmet, pump, saddle bag, etc.)?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 743
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:41:05.363580+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: **Giant Contend 3** (~$650-700)\n- Aluminum frame with carbon fork (smooths out road vibration)\n- Shimano Claris 8-speed groupset (reliable, easy to shift)\n- Wider tires (28-32mm) than race bikes—more comfortable and stable for beginners\n- Relaxed geometry so you're not hunched over painfully\n\n## Great Alternative: **Trek Domane AL 2** (~$750-800)\n- Trek's \"endurance\" geometry = more upright, comfortable riding position\n- Shimano Claris components\n- Known for a smooth, confidence-inspiring ride\n- Trek's IsoSpeed-inspired design philosophy trickles down even to lower-tier models\n\n## Budget-Friendly Option: **Cannondale CAAD Optimo** (~$600-700)\n- Cannondale's aluminum expertise makes for a lightweight, snappy ride\n- Shimano Claris/Tourney mix depending on year\n- Good resale value if you upgrade later\n\n## Solid Value Pick: **Specialized Allez** (~$750-800, watch for sales)\n- Well-regarded aluminum frame (some consider it a step above competitors at this price)\n- Comes with either Shimano Claris or Sora depending on the model year\n- Great if you might want to get more performance-oriented later\n\n---\n\n### Quick Buying Tips:\n1. **Buy from a local bike shop if possible**—proper fit matters more than brand for beginners, and shops often include a free tune-up.\n2. **Check for 2023/2024 model year discounts**—last year's models are often $100-150 cheaper with no meaningful differences.\n3. **Budget $50-100 extra** for a helmet, pump, and basic repair kit if not included.\n\nWould you like recommendations based on your specific riding goals (commuting, fitness, potential racing) or body type/fit considerations?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 671
+  }
+}

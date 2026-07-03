@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:44:16.759676+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: **Trek Domane AL 2** (~$750-800)\n- Aluminum frame with endurance geometry (more relaxed, comfortable position)\n- Shimano Claris 8-speed groupset (reliable, easy to maintain)\n- Wider tire clearance for comfort on rough roads\n- Trek's reputation for quality and wide dealer network makes servicing easy\n\n## Great Alternative: **Giant Contend 3** (~$650-700)\n- Endurance-focused aluminum frame\n- Shimano Tourney/Claris mix drivetrain\n- Disc brakes on some models for better stopping power in wet conditions\n- Excellent value and Giant has strong bike shop support\n\n## Budget-Friendly Option: **Specialized Allez** (~$750)\n- Sport aluminum frame, race-inspired but still comfortable for beginners\n- Shimano Claris groupset\n- Slightly more aggressive geometry if you want room to grow into faster riding\n\n## Also Consider: **Cannondale CAAD Optimo 3** (~$700)\n- Lightweight aluminum frame (Cannondale's specialty)\n- Shimano Claris components\n- Comfortable geometry good for longer rides\n\n---\n\n### Buying Tips:\n1. **Buy from a local bike shop** rather than online if possible—proper fit is crucial for comfort and injury prevention\n2. **Get professionally fitted**—even a basic fit adjustment makes a huge difference\n3. **Budget extra $50-100** for a helmet, basic tools, and a floor pump if you don't have them\n4. **Check for 2023 model year deals**—previous year models often get discounted when new years arrive\n\nWould you like recommendations based on your specific riding goals (fitness, commuting, eventually racing) or body type/height?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 635
+  }
+}

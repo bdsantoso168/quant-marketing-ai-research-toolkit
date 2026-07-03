@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:43:12.930522+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Laptop Recommendation: ASUS TUF Gaming A15/A16\n\nFor your budget and requirements, I'd recommend the **ASUS TUF Gaming A15** (or the newer A16 model). Here's why it fits your needs:\n\n## Typical Configuration (~$800-950)\n- **Screen:** 15.6\" Full HD (1920x1080), 144Hz refresh rate\n- **GPU:** NVIDIA RTX 4050 or RTX 4060 (depending on sale/configuration)\n- **CPU:** AMD Ryzen 7 7735HS or similar\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB-1TB NVMe SSD\n- **Build:** Military-grade durability testing, decent cooling\n\n## Why This One\n- Excellent price-to-performance ratio in the gaming laptop space\n- 144Hz screen is great for competitive gaming\n- RTX 4050/4060 handles most modern games at 1080p high settings\n- ASUS has solid customer support and driver updates\n\n## Alternative Options to Compare\n\n**Acer Nitro V 15**\n- Similar specs, often slightly cheaper\n- RTX 4050, Ryzen 5/7 options\n- Good budget alternative (~$750-850)\n\n**Lenovo LOQ 15**\n- RTX 4050/4060 options\n- Solid build quality, often on sale\n- Check for RAM upgrades needed (some base models ship with 8GB)\n\n## Shopping Tips\n1. **Check current sales** on Best Buy, Amazon, or Newegg — these models fluctuate $100-150 depending on promotions\n2. **Prioritize the GPU** over CPU if choosing between configurations — it matters more for gaming performance\n3. **Avoid base 8GB RAM models** if possible; 16GB is the sweet spot (upgrade later if needed and the laptop allows it)\n4. **Verify screen size** — some listings are 14\" or 16\", so double-check before purchasing\n\nWant me to narrow this down further based on specific games you play or a preference for AMD vs Intel processors?",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 702
+  }
+}

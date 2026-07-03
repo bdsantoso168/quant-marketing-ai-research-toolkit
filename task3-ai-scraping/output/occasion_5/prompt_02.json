@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 5,
+  "timestamp_utc": "2026-07-03T15:36:56.685102+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended: **UPPAbaby MINU V2**\n\n**Why it fits your needs:**\n- **Lightweight/Compact**: ~18.6 lbs, one of the best-folding strollers in its class — folds down small enough to fit in tight NYC apartment closets or airplane overhead bins\n- **Easy fold**: Self-standing, compact fold with one hand (a huge deal when you're also holding a toddler)\n- **City sidewalks**: Smooth-rolling wheels with good suspension handle cracks, curbs, and uneven pavement well\n- **Recline**: Near-flat recline, great for naps on the go — toddler-friendly and comfortable\n- **Price**: ~$449–500, solidly mid-range for a stroller with this quality build\n\n---\n\n### Strong Alternative: **Baby Jogger City Tour 2**\n- Lighter on the wallet (~$280–330)\n- Weighs about 17 lbs, umbrella-style fold, compact enough for storage overhead or under an airplane seat\n- Good recline and a decent-sized canopy\n- Slightly less plush ride than the MINU but very solid for city use and a better price point if budget is the primary driver\n\n---\n\n### If Budget Is Tighter: **Chicco Corely Fastfold**\n- Budget-friendly (~$180–200)\n- Simple, one-hand fold, lightweight (~11 lbs)\n- Basic but functional recline\n- Great as a lightweight second/travel stroller, though less durable long-term than the two above\n\n---\n\n**My top pick for your specific ask (city + recline + compact fold + mid-range budget): UPPAbaby MINU V2** — it strikes the best balance of all four criteria without pushing into luxury stroller pricing ($900+ territory like the Bugaboo Bee or full-size UPPAbaby Vista).\n\nWant me to compare specific wheel sizes/suspension for rougher NYC-style sidewalks vs. smoother suburban ones?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 654
+  }
+}

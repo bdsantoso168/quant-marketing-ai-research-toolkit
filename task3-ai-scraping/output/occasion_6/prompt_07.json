@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:39:26.805225+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: **Trek Domane AL 2** (~$750-800)\n- Endurance geometry (more relaxed, comfortable position)\n- Aluminum frame with carbon fork (absorbs road vibration)\n- Shimano Claris 2x8 speed drivetrain\n- Great for beginners due to stable handling and comfortable ride\n\n## Alternative: **Giant Contend 3** (~$650-700)\n- Similar endurance-focused geometry\n- Aluminum frame, Shimano Claris components\n- Giant's sizing tends to run well for various body types\n- Excellent value and widely available\n\n## Budget-Friendly: **Cannondale CAAD Optimo 2** (~$700)\n- Cannondale's reputation for excellent aluminum frame engineering\n- Shimano Tourney/Claris mix\n- Good entry point into a well-respected brand line\n\n## Direct-to-Consumer Option: **State Bicycle Co. 4130 Road/All-Road** (~$600-700)\n- Steel frame (smooth ride, very durable)\n- Simple, reliable components\n- Good if you want to skip the bike shop markup\n\n---\n\n### What to Prioritize as a Beginner:\n1. **Proper fit** — Even the best bike will feel bad if it doesn't fit. Get sized at a local shop if possible.\n2. **Endurance geometry** — Look for \"endurance\" or \"all-road\" branding rather than aggressive \"race\" geometry.\n3. **Shimano Claris/Sora groupset** — Reliable, easy to maintain, and parts are widely available.\n\n**My honest recommendation:** Visit a local bike shop and test ride the Trek Domane AL 2 or Giant Contend 3. Both are excellent, well-reviewed entry points, and having professional fit assistance will make a huge difference in your riding experience and enjoyment.\n\nWould you like recommendations for accessories to pair with your purchase (helmet, pedals, etc.)?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 689
+  }
+}

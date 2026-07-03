@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_06",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:39:17.608179+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "kitchen_and_appliances",
+  "archetype": "head_to_head_comparison",
+  "prompt_text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?",
+  "response_text": "# Ninja vs. Vitamix for Daily Smoothies\n\nFor daily smoothie use, here's my honest breakdown:\n\n## Recommended Pick: **Ninja Professional Plus Blender with Auto-iQ (BN751)** — ~$100-130\n\nFor most people making daily smoothies, this is the better value. It has:\n- 1400-watt motor (plenty for fruits, ice, leafy greens)\n- Auto-iQ presets that handle blending timing for you\n- 72oz pitcher (good for family portions)\n- Dishwasher-safe parts\n\n## If Budget Isn't a Concern: **Vitamix E310 Explorian** — ~$350-400\n\nVitamix wins on:\n- **Longevity** — these motors routinely last 10+ years with daily use\n- **Smoothness** — better at fully breaking down fibrous stuff (kale stems, frozen fruit chunks, seeds)\n- **Warranty** — 7-10 years vs. Ninja's 1 year\n- **Resale value** — holds value well if you upgrade later\n\n## My Actual Recommendation\n\n**Go with the Ninja BN751 if:**\n- You're making standard fruit/yogurt/protein powder smoothies\n- Budget matters\n- You want dishwasher-safe convenience\n\n**Go with the Vitamix E310 if:**\n- You're doing green smoothies with lots of fibrous veggies\n- You blend daily for years (cost-per-use evens out)\n- You want variable speed control for other uses (nut butter, soups, flour)\n\n## Bottom Line\nFor 90% of daily smoothie drinkers, the **Ninja is better for the price** — you're not paying for restaurant-grade power you won't fully use. Save the Vitamix money unless you're a serious green-smoothie person or plan to use it for more than just smoothies (soups, nut milks, etc.).",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 618
+  }
+}

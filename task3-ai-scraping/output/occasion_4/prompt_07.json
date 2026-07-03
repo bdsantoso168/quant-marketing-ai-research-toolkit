@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 4,
+  "timestamp_utc": "2026-07-03T15:36:09.842668+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: **Trek Domane AL 2**\n- **Price:** ~$750-800\n- **Why it works:** Endurance geometry (more upright, comfortable position), aluminum frame with carbon fork to dampen road vibration, reliable Shimano Claris 2x8 drivetrain\n- Great all-around choice for someone just getting into road cycling\n\n## Other Strong Options:\n\n**Giant Contend 3**\n- ~$650-700\n- Similar endurance-focused geometry to the Domane\n- Shimano Claris components, disc brakes on some builds for better stopping power\n- Known for excellent value in this price range\n\n**Specialized Allez**\n- ~$750-800 (check for prior-year models on sale)\n- More traditional race-inspired geometry but still beginner-approachable\n- A1 Premium aluminum frame, smooth ride quality\n- Great if you might want to get more performance-oriented later\n\n**Cannondale CAAD Optimo**\n- ~$700-750\n- Cannondale's aluminum expertise shines here\n- Comfortable geometry, dependable Shimano groupset\n\n## What to Look For:\n- **Shimano Claris or Sora groupset** (reliable, easy to maintain)\n- **Disc brakes** if available in your budget (better stopping in wet conditions)\n- **Endurance/comfort geometry** rather than aggressive race geometry for your first bike\n\n## My Recommendation:\nStart by **test riding the Trek Domane AL 2 and Giant Contend 3** at local bike shops—they're the most common \"gateway\" road bikes and dealers often have good beginner packages (including a basic fit, water bottle cage, etc.). Buying local also means service support as you learn maintenance basics.\n\nWould you like recommendations for beginner accessories (helmet, pedals, etc.) to go with your bike?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 646
+  }
+}

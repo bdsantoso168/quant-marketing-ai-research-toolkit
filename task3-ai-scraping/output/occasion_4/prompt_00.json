@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 4,
+  "timestamp_utc": "2026-07-03T15:35:07.629706+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Recommended Gaming Laptop: ASUS TUF Gaming A15 (2023)\n\n**Price:** ~$800-950 (varies by retailer/sales)\n\n## Key Specs:\n- **Display:** 15.6\" FHD (1920x1080), 144Hz refresh rate\n- **GPU:** NVIDIA RTX 4050 or RTX 4060 (depending on configuration)\n- **CPU:** AMD Ryzen 7 7735HS\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB or 1TB NVMe SSD\n- **Build:** MIL-STD-810H durability rating (more rugged than typical gaming laptops)\n\n## Why This Pick:\n- Great price-to-performance ratio for 1080p gaming at high settings\n- 144Hz screen makes competitive games (Valorant, CS2, Apex) feel smooth\n- RTX 40-series GPU supports DLSS 3 for better performance in supported titles\n- Solid build quality for the price point\n\n## Alternative Options to Consider:\n\n**Acer Nitro V 15** (~$750-850)\n- RTX 4050, Ryzen 5 7535HS, 16GB RAM, 15.6\" 144Hz display\n- Slightly cheaper, still solid performance for the price\n\n**Lenovo LOQ 15** (~$800-900)\n- RTX 4050/4060 options, Intel i5-13450HX\n- Good build quality, decent thermals\n\n## Buying Tips:\n1. Check **Best Buy, Amazon, and Newegg** for current sales—these models frequently drop $100-150 during promotions\n2. Prioritize the **RTX 4060 model** if you can find it in budget—noticeably better than 4050 for 1440p or future-proofing\n3. 16GB RAM is the sweet spot; avoid 8GB configs if possible\n\n**Bottom line:** The ASUS TUF A15 offers the best balance of performance, display quality, and durability under $1000. Check current pricing since gaming laptop deals fluctuate frequently.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 692
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:43:31.176642+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended: Baby Jogger City Mini GT2\n\n**Price range:** ~$350-400 (fits nicely in mid-range)\n\n## Why it fits your needs:\n\n**Lightweight & Compact**\n- Weighs about 24.5 lbs\n- One-hand fold mechanism that's genuinely quick to master\n- Stands on its own when folded (great for tight entryways or trunk space)\n\n**City Sidewalk Performance**\n- All-wheel suspension handles cracks, curbs, and uneven pavement smoothly\n- Front wheels can lock for straight tracking or swivel for tight turns/crowded sidewalks\n- Larger wheels than most compact strollers, so it doesn't get stuck on small obstacles\n\n**Recline for Toddlers**\n- Near-flat recline position, good for naps on the go\n- Extendable canopy with good UV protection\n- Comfortable for toddlers up to 65 lbs, so you get years of use\n\n## Alternative Options to Consider:\n\n**If you want something even more compact:** \n**UPPAbaby Minu V2** (~$450) — smaller folded footprint, great for city apartments/small cars, though slightly pricier\n\n**If budget is a bigger concern:**\n**Chicco Bravo Quick-Fold** (~$250) — solid recline, easy fold, sturdy for city use, though a bit heavier at ~27 lbs\n\n**If you want extra storage/features:**\n**Baby Jogger City Sights** (~$380) — similar performance to the GT2 but with a built-in parent console and better under-seat storage\n\n## Quick Tip:\nTest the fold mechanism in-store if possible — \"one-hand fold\" claims vary in real-world ease, and this matters a lot for daily use, especially juggling a toddler at the same time.\n\nWould you like recommendations for compatible car seat travel systems, or are you looking for stroller-only?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 624
+  }
+}

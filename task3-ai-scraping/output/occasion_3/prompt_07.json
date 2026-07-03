@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:34:39.266347+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Picks\n\n**1. Trek Domane AL 2 (~$750-800)**\n- Endurance geometry (more upright, comfortable position)\n- Aluminum frame with carbon fork for smoother ride\n- Shimano Claris 2x8 speed drivetrain\n- Great all-around choice for beginners who want comfort over aggressive racing position\n\n**2. Giant Contend 3 (~$650-700)**\n- Excellent value with reliable Shimano components\n- Endurance-focused geometry similar to the Domane\n- Wider tire clearance for added stability\n- Giant's D-Fuse seatpost adds vibration damping\n\n**3. Cannondale CAAD Optimo 2 (~$700-750)**\n- Lightweight aluminum frame (Cannondale's specialty)\n- Comfortable geometry for new riders\n- Shimano Claris components\n- Good resale value due to Cannondale's reputation\n\n**4. Specialized Allez (~$800, sometimes on sale)**\n- Race-inspired but still beginner-manageable\n- Solid aluminum frame with quality components\n- Slightly more aggressive geometry if you want room to grow\n\n## What to Consider\n\n- **Fit matters most**: Visit a local bike shop for proper sizing—an ill-fitting bike is uncomfortable regardless of price\n- **Endurance vs. Race geometry**: For beginners, endurance bikes (Domane, Contend) are more forgiving and comfortable\n- **Component groupset**: Shimano Claris is standard at this price point—reliable and easy to maintain\n- **Buy from a shop, not just online**: You'll get professional fitting, and many shops include free tune-ups for the first year\n\n## My Recommendation\nFor most beginners, I'd suggest the **Giant Contend 3** or **Trek Domane AL 2**—both offer comfortable geometry, reliable components, and are widely available at local bike shops for proper fitting and after-sales support.\n\nWould you like recommendations based on a specific riding style (fitness, light touring, or eventual racing)?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 720
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:41:56.665621+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "For your needs, I'd recommend the **Baby Jogger City Tour 2** (~$220–260).\n\n**Why it fits:**\n- **Weight:** ~15.5 lbs — one of the lighter strollers that still feels sturdy on pavement\n- **Fold:** One-hand, umbrella-style fold that's compact enough for closets, trunks, and even airplane overhead bins\n- **Recline:** Near-flat recline, good for naps on the go — toddlers can sleep comfortably\n- **City performance:** All-wheel suspension and slightly larger front wheels than ultra-compact strollers, so it handles cracked sidewalks, curbs, and uneven pavement much better than featherweight \"travel\" strollers\n- **Extras:** Extendable UV50+ canopy, decent storage basket, adjustable handlebar\n\n**Solid alternative:** **Ergobaby Metro+ Compact City Stroller** (~$300)\n- Similar weight class (~15.5 lbs), true one-hand fold, lie-flat recline, and a nice extendable canopy with a peekaboo",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 1024
+  }
+}

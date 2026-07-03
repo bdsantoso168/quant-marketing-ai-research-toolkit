@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_09",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:39:47.833595+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "tools_and_diy",
+  "archetype": "decisive_best_pick",
+  "prompt_text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer.",
+  "response_text": "## Best Value Cordless Drill for Home DIY: **DeWalt DCD771C2 20V MAX Cordless Drill/Driver Kit**\n\n**Why this one:**\n- **Price point**: Typically $99-130, which is excellent value for the quality you get\n- **Comes complete**: Includes two batteries, charger, and case — no surprise add-on costs\n- **Power**: 300 UWO (unit watts out) and a 1/2\" chuck handle everything from hanging shelves to driving deck screws\n- **Battery life**: 20V MAX lithium-ion batteries hold charge well and have minimal self-discharge if it sits in a drawer between projects\n- **Compact and lightweight**: Easy for extended use without arm fatigue, and fits into tight spaces\n- **Brand reliability**: DeWalt has excellent parts availability and durability reputation — this drill will likely outlast most home DIY needs by years\n- **Expandable ecosystem**: If you eventually want more DeWalt 20V tools (impact driver, saw, etc.), batteries are interchangeable\n\n**Bottom line**: For someone doing typical home projects (assembling furniture, hanging pictures/shelves, small repairs, occasional deck or fence work), this drill has the ideal balance of power, price, and reliability. You won't outgrow it for most homeowner tasks, and it won't feel like overkill or a waste of money.\n\n**Alternative if budget is tighter**: The **Black+Decker LDX120C** (~$40-50) is a solid choice for very light-duty use, but the DeWalt is the better long-term value for most people.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 537
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_09",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:43:03.328952+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "tools_and_diy",
+  "archetype": "decisive_best_pick",
+  "prompt_text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer.",
+  "response_text": "## DEWALT DCD771C2 20V MAX Cordless Drill/Driver Kit\n\n**Why this one:**\n\n- **Price**: Typically $99-130, which is excellent value for a brand-name tool with real power\n- **Power**: 300 UWO (Unit Watts Out) and two-speed transmission (0-450 / 0-1,500 RPM) — plenty for drilling, driving screws, and most home projects\n- **Compact & lightweight**: Easy to handle for extended use, tight spaces, overhead work\n- **Comes complete**: Includes 2 batteries, charger, and a case — no surprise add-on costs\n- **Brand reliability**: DEWALT has widespread parts availability, strong warranty support, and batteries that carry over to other DEWALT 20V tools if you expand your collection later\n- **Proven track record**: One of the most reviewed and recommended drills for homeowners for years — not a gimmick, just consistently solid\n\n**Bottom line**: For typical home DIY (furniture assembly, hanging shelves, small projects, occasional deck/fence work), this hits the sweet spot between cost and capability. You won't outgrow it easily, and if you do, the battery works with DEWALT's broader lineup (saws, impact drivers, etc.).\n\nIf you want to spend less and don't need two batteries, the **DEWALT DCD701F2** or a **Craftsman V20** drill kit are decent budget alternatives — but for pure value right now, the DCD771C2 remains the standard recommendation.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 505
+  }
+}

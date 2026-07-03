@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:32:16.391156+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended: GB Pockit+ All-Terrain or Baby Jogger City Mini GT2\n\nSince you have two priorities that sometimes conflict (ultra-compact folding vs. all-terrain capability), here are my top two picks depending on which matters more:\n\n## Best Overall Balance: **Baby Jogger City Mini GT2** (~$330-370)\n- **Fold**: One-hand fold, self-standing, reasonably compact for the category\n- **City handling**: All-wheel suspension and forward-swivel wheels make it excellent on cracked sidewalks, curbs, and cobblestones\n- **Recline**: Near-flat recline, good for toddler naps on the go\n- **Weight**: ~24 lbs — not the lightest, but manageable\n- **Why I like it**: Best all-around \"does everything well\" stroller in the mid-range price bracket\n\n## Best for Ultra-Compact Folding: **GB Pockit+ All-Terrain** (~$300-350)\n- **Fold**: This is the standout feature — folds down to roughly the size of a small backpack, genuinely fits in overhead bins or small closets\n- **Weight**: ~13 lbs, one of the lightest strollers available\n- **City handling**: The \"All-Terrain\" version has larger wheels than the original Pockit, handling sidewalk cracks and curbs much better\n- **Recline**: Improved recline compared to earlier Pockit models, works for toddler naps though not quite as flat as the City Mini GT2\n- **Trade-off**: Smaller seat and less storage basket space than the GT2\n\n## My Practical Recommendation\nIf you're navigating **real city life** (subways, small apartments, elevators) — go with the **GB Pockit+ All-Terrain**. The fold is genuinely a game-changer for urban parents.\n\nIf you want a stroller that feels more like a \"full-size\" ride with better cushioning and storage, and folding size is secondary — go with the **City Mini GT2**.\n\n---\n\n**Quick tip**: Check weight limits — both handle toddlers well, but confirm your child's current weight/height against the manual, especially for the Pockit+ which has a slightly smaller seat.\n\nWant me to compare accessories (car seat adapters, cup holders, rain covers) for either option?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 754
+  }
+}

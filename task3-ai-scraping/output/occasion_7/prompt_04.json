@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:40:37.135413+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks Right Now\n\n**Budget Champion: Nike Revolution 6** (~$40-60)\n- Reliable entry-level trainer, good for casual runners\n- Often on sale at Nike.com or Kohl's/DSW\n\n**Best Mid-Range: ASICS Gel-Excite 9** (~$55-70 on sale, retail $70)\n- Great cushioning for the price, solid for daily training\n- Check ASICS outlet online\n\n**Great All-Rounder: Brooks Ghost 15/16** (~$100-130, often 20-30% off previous version when new model drops)\n- Excellent cushioning and durability\n- Look for Ghost 15 discounts now that Ghost 16 released\n\n## Student Discount Programs\n\n**UNiDAYS** (unidays.com) - Verify with school email\n- Nike: 10% off\n- ASICS: 15-20% off periodically\n- New Balance: 15% off\n\n**Student Beans** (studentbeans.com)\n- Similar discounts, sometimes exclusive codes\n- Under Armour: 10-15% off\n\n**SheerID-verified discounts:**\n- **Adidas**: 15% student discount via their site\n- **New Balance**: 15% off with verification\n\n## Best Overall Strategy\n\n1. **Check outlet sites first**: Nike Outlet, ASICS Outlet, Brooks outlet section\n2. **Stack discounts**: Student discount + outlet sale + credit card cashback (if using Rakuten)\n3. **Timing**: End-of-season sales (Dec/June) often beat student discounts alone\n\n## My Specific Recommendation\n\n**Brooks Ghost 15** via Brooks outlet or Running Warehouse (~$90-100) + no student discount needed since it's already discounted, OR **ASICS Gel-Excite 9** with UNiDAYS 15% off (~$50-55 final price) — great value for a first \"real\" running shoe.\n\n**Pro tip**: Check Rakuten for cashback on top of any discount code, and look at Dick's Sporting Goods app for additional promo codes stackable with brand sales.\n\nWant me to search for current specific sale prices at a particular retailer, or do you have a budget range in mind?",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 753
+  }
+}

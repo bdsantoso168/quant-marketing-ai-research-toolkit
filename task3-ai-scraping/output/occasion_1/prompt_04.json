@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:30:59.883185+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Sneaker Deals for College Students\n\n## Top Recommendations by Budget\n\n**Best Overall Value: ASICS Gel-Kayano or Nimbus (Previous Gen)**\n- Look for last year's model (e.g., Gel-Nimbus 25 instead of 26)\n- Often $70-90 vs. $150+ retail\n- Excellent cushioning for daily training\n\n**Best Budget Option: Nike Revolution 6/7**\n- Regularly $65, frequently on sale for $40-45\n- Solid entry-level trainer\n\n**Best Mid-Range: New Balance Fresh Foam 1080 (older version)**\n- Check New Balance outlet section\n- Previous versions often 40-50% off\n\n## Student Discount Programs\n\n1. **Nike**: 10% off via Nike ID student verification (through UNiDAYS or SheerID)\n2. **Adidas**: 15% student discount through UNiDAYS\n3. **New Balance**: 15% off through their student verification portal\n4. **ASICS**: 10% through UNiDAYS\n5. **Under Armour**: 10% student discount\n\n## Best Places to Check Right Now\n\n- **UNiDAYS** or **Student Beans** (aggregate multiple brand discounts—free to sign up with .edu email)\n- **DSW** or **Running Warehouse outlet** sections for previous-season models\n- **Nike Outlet online** (separate from regular Nike.com, deeper discounts)\n\n## My Specific Recommendation\n\n**ASICS Gel-Cumulus 25** (previous model) combined with the **UNiDAYS 10% code** typically gets you a well-cushioned, durable shoe for **$65-75 total**—great value for regular runners or those transitioning from walking to running.\n\n---\n\n**Pro tip**: Discounts and stock change constantly. Before buying, quickly check:\n1. RetailMeNot or Honey browser extension for current codes\n2. The brand's own outlet site\n3. Whether student discount stacks with an existing sale\n\nWant me to help narrow down options based on your running style (distance, terrain, gait) or specific budget?",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 706
+  }
+}

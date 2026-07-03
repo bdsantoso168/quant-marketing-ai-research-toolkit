@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:30:40.816754+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended: **Ergobaby Metro+ Deluxe** or **UPPAbaby Minu V2**\n\nHere's how they compare for your needs:\n\n## Top Pick: Ergobaby Metro+ Deluxe (~$300-350)\n- **Weight**: ~15 lbs — genuinely lightweight\n- **Fold**: One-handed, compact fold; stands on its own when folded\n- **Recline**: Near-flat recline, great for naps on the go\n- **City handling**: Good-sized wheels (front swivel) handle sidewalk cracks, curbs, and uneven pavement well\n- **Storage**: Decent under-seat basket for a stroller this size\n- **Best for**: Urban parents who want true portability without sacrificing comfort\n\n## Strong Alternative: UPPAbaby Minu V2 (~$450-500)\n- **Weight**: ~18 lbs — still compact but slightly heavier\n- **Fold**: Self-standing fold, very easy one-hand operation\n- **Recline**: Excellent near-flat recline\n- **City handling**: Best-in-class wheels/suspension for rough sidewalks and cobblestones\n- **Storage**: More generous basket than most compact strollers\n- **Best for**: If you can stretch the budget slightly for superior ride quality\n\n## Budget-Friendlier Option: Baby Jogger City Tour 2 (~$250)\n- Similar weight class (~17 lbs)\n- Compact umbrella-style fold with backpack strap option\n- Good recline, solid all-around performer\n- Slightly less premium feel but very capable\n\n---\n\n**My honest recommendation**: Go with the **Ergobaby Metro+** if budget is the priority, or the **UPPAbaby Minu V2** if you can flex another $100-150 for noticeably smoother wheels and a more premium recline mechanism. Both fold small enough for car trunks, closets, and city apartment living, and both handle toddlers comfortably (up to ~50 lbs).\n\nWould you like guidance on accessories (rain covers, cup holders) or how these compare if you also need car seat compatibility?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 706
+  }
+}

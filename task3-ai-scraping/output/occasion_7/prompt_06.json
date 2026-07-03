@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_06",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:40:55.460868+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "kitchen_and_appliances",
+  "archetype": "head_to_head_comparison",
+  "prompt_text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?",
+  "response_text": "# Ninja vs. Vitamix for Daily Smoothies\n\n**Quick answer: Get the Ninja if you're budget-conscious, Vitamix if you want a 10+ year investment.**\n\n## Ninja Professional Plus (BN701) - ~$100-130\n**Best value pick for most people**\n\n- Powerful enough to crush ice and frozen fruit smoothly\n- 1000-1400 watts depending on model\n- Auto-IQ presets take guesswork out of blending\n- Dishwasher-safe pitcher\n- Compact footprint\n\n**Downside:** Motor/blade assembly tends to wear out after 3-5 years of daily use; less smooth texture with fibrous greens (kale stems, etc.)\n\n## Vitamix E310 Explorian - ~$350-400\n**Best if you blend daily for years and want restaurant-quality results**\n\n- Noticeably smoother texture, especially with leafy greens, seeds, nuts\n- Motor is built to last 10-15+ years (commercial-grade)\n- Variable speed control gives more precision\n- Self-cleaning (just add soap + water, blend)\n- Excellent resale value if you ever upgrade\n\n**Downside:** Louder, bulkier, no presets (manual only), higher upfront cost\n\n## My Recommendation\n\n**If you're a casual/daily smoothie drinker on a normal budget:** Get the **Ninja Professional Plus (BN701)**. It'll handle daily smoothies fine for years, costs a third of the Vitamix, and the texture difference won't bother most people.\n\n**If you're serious about nutrition** (adding spinach, flax seeds, nuts, ice daily) **or hate replacing appliances:** Spend the extra $250 on the **Vitamix E310**. Cost-per-year is actually lower long-term since it rarely breaks down.\n\n**Middle ground option:** Nutribullet or Ninja Foodi Smoothie Bowl Maker (~$130) if you want individual-serving convenience.\n\nFor pure daily smoothie use without fancy features, **the Ninja wins on price-to-performance ratio** — you're not paying for capabilities (hot soups, nut butters, hard root vegetables) that Vitamix offers but you may never use.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 742
+  }
+}

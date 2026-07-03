@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 0,
+  "timestamp_utc": "2026-07-03T15:29:16.108304+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "# Gift Ideas for Your \"Unlucky\" Fishing Dad 🎣\n\nHere are some great options that combine humor with actually helpful gear:\n\n## Practical (But Might Actually Help)\n**Rapala X-Rap Jointed Shad 09** ($12-15)\nA versatile lure known for attracting bass, walleye, and pike even in tough conditions. Buy 2-3 different colors to stay under budget.\n\n**Deeper START Smart Fish Finder** (~$70)\nA castable, Bluetooth-connected sonar device that pairs with a smartphone app to show fish location and depth. This could be a genuine game-changer for someone who struggles to find fish.\n\n## Fun/Humorous Route\n**\"Master Baiter\" or \"World's Okayest Fisherman\" T-Shirt** ($20-25)\nNovelty fishing shirts that lean into the joke—dads usually love this kind of gift.\n\n**Fishing Tackle Box with a Flask Built In** ($30-40)\nPractical storage with a hidden flask compartment—useful whether he catches fish or not.\n\n## My Top Pick\n**Combo Gift: Deeper START Fish Finder + a Rapala lure or two**\nThis hits the sweet spot—thoughtful, useful, and shows you want him to actually succeed next time. At around $70-75 total, it fits your budget and gives him a real tool to improve his luck.\n\n---\n\nWant me to narrow this down based on what kind of fishing he does (lake, river, deep sea) or his sense of humor level?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 508
+  }
+}

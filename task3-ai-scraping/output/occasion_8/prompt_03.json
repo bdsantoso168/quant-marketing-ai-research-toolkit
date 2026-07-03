@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:42:06.273986+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "# Gift Ideas for Your \"Unlucky\" Fisherman Dad 🎣\n\nHere are some solid options under $75 that could actually help his luck (and give you both a laugh):\n\n## Top Pick: **Deeper START Smart Fish Finder** (~$70)\nA castable, Bluetooth-connected fish finder that shows him where fish actually are in the water. Syncs to a smartphone app, works from shore or a boat. This could be a genuine game-changer if he's fishing blind.\n\n## Other Great Options:\n\n**1. Rapala Tackle Box Restock (~$40-50)**\nPick up a variety pack of proven lures—something like:\n- **Rapala Original Floating Minnows** (classic, versatile)\n- **Berkley PowerBait** soft plastics\n- A few **Ned Rig** jig heads (deadly for finicky fish)\n\n**2. Funny + Useful Combo (~$35-45)**\n- A \"World's Okayest Fisherman\" tumbler or shirt (Amazon has tons of options ~$20)\n- Paired with a **Plano tackle organizer box** (~$20)\n\n**3. Fishing Line Upgrade (~$25)**\nSounds boring, but **fresh braided line** (like PowerPro) plus new hooks/leaders can dramatically improve his hookup rate if his gear is old.\n\n**4. YETI Rambler Tumbler (~$35)**\nNot fishing-specific, but a solid, practical gift for long days on the water—especially if paired with something else on this list to hit your budget.\n\n## My Recommendation:\nGo with the **Deeper START fish finder**—it directly addresses his \"never catches anything\" problem, it's a fun tech gift, and it's within budget. Pair it with a **funny fishing-themed mug** for under $10 more if you want to add a laugh.\n\nWant me to check current pricing or find alternatives if any of these are out of stock?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 634
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:38:49.353327+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "# Fishing Gift Ideas Under $75\n\nSince he might need a little help in the \"actually catching fish\" department, here are some practical (and slightly funny) options:\n\n## Top Pick: Fish Finder Flashlight/Sonar\n**Deeper START Smart Fish Finder** (~$70)\nA castable sonar device that syncs to a smartphone app, showing water depth and fish location. This could genuinely help him find where the fish are hiding—takes some guesswork out of it.\n\n## Other Solid Options:\n\n**1. Berkley Gulp! Bait Bundle** (~$25-30)\nScented, realistic soft plastic baits that are known for outperforming live bait in many conditions. Get an assortment pack in different colors/styles.\n\n**2. Rapala Fishing Pliers** (~$25)\nA quality multi-tool for cutting line, removing hooks, and crimping—every angler needs a good pair, and cheap ones tend to rust or break.\n\n**3. Plano Tackle Organizer Box** (~$20-35)\nIf his gear is disorganized, a stackable tackle system (like the Plano Guide Series) can help him actually find and use the right lures.\n\n**4. \"World's Okayest Fisherman\" Gift Set** (~$30-40)\nA funny mug/koozie combo paired with a $30 gift card to Bass Pro Shops or Cabela's—acknowledges the situation with humor while letting him pick his own gear.\n\n## The Practical Combo:\n**Bass Pro Shops or Cabela's Gift Card ($50)** + a **funny fishing-themed card** — sometimes letting him choose his own lures/gear (since local water conditions matter a lot) is the most useful gift, paired with something personal to show thought.\n\n---\n\n**Quick question:** Does he fish freshwater or saltwater, and does he already have a good tackle box/rod setup? That'll help me narrow down whether gear or gadgets would serve him better.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 642
+  }
+}

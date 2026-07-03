@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_08",
+  "occasion": 4,
+  "timestamp_utc": "2026-07-03T15:36:20.333577+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "flagship_comparison",
+  "prompt_text": "Compare the latest iPhone and Samsung Galaxy flagship on camera quality and battery life. Which is the better buy?",
+  "response_text": "# iPhone 16 Pro Max vs. Samsung Galaxy S24 Ultra\n\n## Camera Quality\n\n**iPhone 16 Pro Max**\n- 48MP main, 48MP ultra-wide, 12MP telephoto (5x optical zoom)\n- Colors tend toward natural, slightly warmer tones\n- Excellent video recording — still the industry leader for video (ProRes, Dolby Vision, Cinematic mode)\n- Better skin tone rendering and highlight roll-off in tricky lighting\n\n**Galaxy S24 Ultra**\n- 200MP main, 50MP ultra-wide, dual telephoto (3x and 10x optical zoom)\n- More zoom flexibility (up to 100x Space Zoom, though quality drops off past 30x)\n- Punchier, more saturated colors out of the box (some prefer this, some find it oversaturated)\n- Excellent detail in daylight shots; better raw zoom versatility\n\n**Verdict:** iPhone wins for video and natural photo tone; Samsung wins for zoom range and daylight detail. If you shoot a lot of video, iPhone. If you want zoom flexibility, Samsung.\n\n## Battery Life\n\n**iPhone 16 Pro Max**\n- ~4,685 mAh battery\n- Real-world: typically 28-32 hours of mixed use\n- Very efficient chip (A18 Pro) helps offset smaller capacity\n\n**Galaxy S24 Ultra**\n- 5,000 mAh battery\n- Real-world: typically 26-30 hours of mixed use\n- Slightly faster charging (45W vs. Apple's 20-27W)\n\n**Verdict:** Roughly a tie in real-world endurance, but Samsung charges faster if you're often topping up on the go.\n\n## Overall Recommendation\n\n**For most people: iPhone 16 Pro Max** — if you value video quality, ecosystem integration (Mac/iPad/AirPods), and long-term software support (Apple typically offers 6+ years of updates).\n\n**Choose the Galaxy S24 Ultra if:** you want the S Pen stylus, prefer Android's customization, need superior zoom for photography (wildlife, events), or want faster charging.\n\n**Bottom line:** Both are excellent flagships with no bad choice here. It really comes down to ecosystem (Apple vs. Android) more than raw specs — the cameras and batteries are close enough that daily habits and existing devices should drive your decision.",
+  "usage": {
+    "input_tokens": 85,
+    "output_tokens": 826
+  }
+}

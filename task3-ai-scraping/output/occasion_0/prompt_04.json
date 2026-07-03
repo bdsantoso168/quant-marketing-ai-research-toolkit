@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 0,
+  "timestamp_utc": "2026-07-03T15:29:25.358559+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks Right Now\n\n**1. Nike Pegasus 40 (previous gen)**\n- Often discounted to $70-90 when the newer model (41) releases\n- Reliable daily trainer, great for beginners to intermediate runners\n\n**2. ASICS Gel-Nimbus or Gel-Cumulus (older versions)**\n- ASICS frequently discounts previous-year models by 30-40%\n- Excellent cushioning for the price, especially through ASICS outlet\n\n**3. Brooks Ghost (previous version)**\n- Brooks Running site often has \"past season\" sales around $80-100\n- Very popular with runners for durability and comfort\n\n## Student Discount Programs to Check\n\n- **UNiDAYS** – Works with Adidas, ASOS, and several athletic brands (usually 10-15% off)\n- **Student Beans** – Similar discounts, partners with Nike, Puma, and others\n- **SheerID** – Verifies student status for direct brand discounts (New Balance, Champion)\n\n## Where to Actually Find Deals\n\n1. **Nike.com** – Check \"Nike By You\" clearance or the outlet section\n2. **Running Warehouse / Road Runner Sports** – Regularly has 30-50% off past-season models\n3. **DSW** – Often stacks student discounts with existing sales; DSW VIP program is free\n4. **Facebook Marketplace/local running stores** – End-of-season clearance racks\n\n## My Specific Recommendation\n\nGiven budget constraints typical for students, I'd suggest checking **Running Warehouse's clearance section** for the **ASICS Gel-Cumulus 25** — it regularly drops to $60-70 and is a genuinely great everyday trainer.\n\n---\n\n**One honest note:** I don't have access to real-time pricing, so deals change constantly. I'd recommend checking these specific sites directly today, since \"best deal\" claims can go stale within days. Want me to help you think through what specific running needs you have (terrain, mileage, foot type) so I can narrow recommendations further?",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 693
+  }
+}

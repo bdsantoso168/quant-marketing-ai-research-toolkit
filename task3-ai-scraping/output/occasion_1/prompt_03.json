@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:30:49.916338+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "# Gift Ideas for a Dad Who Loves Fishing (But Needs Some Luck!)\n\nHere are some solid options that could actually help improve his catch rate—or at least give him a good laugh:\n\n## Top Pick: **Deeper START Smart Fish Finder** (~$70)\nThis is a castable, Bluetooth-connected fish finder that pairs with a smartphone app to show water depth, temperature, and fish locations. It's genuinely one of the best gifts for someone who \"never catches anything\" because it actually helps locate fish. No installation needed—just cast it out.\n\n## Other Great Options:\n\n**1. Berkley Gulp! Alive! Bait Bucket Combo** (~$25-35)\nScent-infused artificial bait that's proven to attract fish even in tough conditions. Pair it with a few different lure types for variety.\n\n**2. Plano Tackle Organizer + Tackle Bundle** (~$40-50)\nA well-organized tackle box with a mix of proven lures (like Rapala X-Rap or Zoom Trick Worms) can make a real difference in presentation and variety.\n\n**3. Fishbrain Pro Subscription (1 Year)** (~$40)\nAn app that shows crowd-sourced fishing spots, weather patterns, and best times to fish in his area based on real data from other anglers.\n\n**4. Funny Angle: \"World's Okayest Fisherman\" Gift Set** (~$25-35)\nCombine a humorous koozie/hat with a practical item like a fillet knife or fishing pliers—acknowledges the situation with humor while still being useful.\n\n## My Recommendation:\nGo with the **Deeper START Fish Finder**—it directly addresses his problem, feels like a \"serious angler\" upgrade, and fits your budget with room to spare for a fun add-on like a joke koozie.\n\nWant me to suggest options based on whether he fishes freshwater, saltwater, or from a boat vs. shore?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 645
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:33:39.944235+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Best Quiet Cordless Stick Vacuums for Apartments\n\n## Top Pick: **Miele Triflex HX2**\n- **Noise level:** ~69-70 dB (notably quieter than most competitors)\n- Excellent suction with 3 configurable modes\n- Lightweight (~7.9 lbs), easy to store vertically\n- Great for hardwood/mixed flooring in apartments\n- Price: ~$500-600\n\n## Runner-Up: **LG CordZero A9**\n- **Noise level:** ~70 dB on standard mode\n- Kompressor feature for easy dust bin emptying\n- Long battery life (up to 100 min on eco mode)\n- Dual battery system included on most models\n- Price: ~$400-500\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S15**\n- **Noise level:** ~72-75 dB\n- Smart display shows real-time performance\n- Self-adjusting suction based on floor type (reduces unnecessary noise/power)\n- Good value with app connectivity\n- Price: ~$300-350\n\n---\n\n## Why These Work Well for Small Apartments:\n1. **Miele Triflex HX2** is the clear noise leader—Miele engineers specifically for quiet operation, making it ideal if you have thin walls or vacuum during odd hours\n2. All three are lightweight and maneuverable for tight spaces\n3. Shorter runtime needs (since apartments are small) mean you don't need extreme battery capacity\n\n## Avoid for Noise-Sensitive Situations:\n- **Dyson V15/V12 models** — powerful but notably louder (75-80+ dB), especially on max/boost mode\n\n**My recommendation:** If quiet operation is your top priority, go with the **Miele Triflex HX2**. If budget matters more, the **Tineco Pure One S15** offers the best noise-to-price ratio.\n\nWould you like me to narrow this down further based on your flooring type or budget?",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 653
+  }
+}

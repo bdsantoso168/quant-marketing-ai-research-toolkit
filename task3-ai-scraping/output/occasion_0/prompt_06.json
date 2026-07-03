@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_06",
+  "occasion": 0,
+  "timestamp_utc": "2026-07-03T15:29:43.471291+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "kitchen_and_appliances",
+  "archetype": "head_to_head_comparison",
+  "prompt_text": "Should I buy a Ninja or a Vitamix blender for daily smoothies? Which is better for the price?",
+  "response_text": "# Ninja vs. Vitamix for Daily Smoothies\n\n**Quick answer:** For daily smoothies specifically, the **Ninja is the better value**, but Vitamix wins on longevity and versatility.\n\n## Ninja Professional Plus Blender (BN701) — ~$100-120\n**Best for:** Most people making daily smoothies on a budget\n\nPros:\n- Excellent at crushing ice and frozen fruit\n- 1400-watt motor handles smoothies easily\n- Auto-iQ presets take the guesswork out\n- Dishwasher-safe parts\n- Compact footprint\n\nCons:\n- Motor base isn't as durable long-term (3-5 year lifespan is common)\n- Less smooth texture on fibrous ingredients (kale stems, etc.)\n- Louder than Vitamix\n\n## Vitamix E310 Explorian — ~$350-400\n**Best for:** Smoothie enthusiasts who want restaurant-quality texture and plan to use it for years\n\nPros:\n- Superior blending smoothness (no chunks, ever)\n- Motor typically lasts 7-10+ years\n- Can also make soups, nut butters, flour\n- Better warranty (5-7 years vs Ninja's 1 year)\n\nCons:\n- 3x the price\n- Bulkier, heavier\n- Louder motor (surprisingly)\n\n## My Recommendation\n\n**If you're just doing basic fruit/veggie/protein powder smoothies daily:** Get the **Ninja BN701**. You'll get 90% of the blending quality for a third of the price, and most people replace blenders every few years anyway due to lifestyle changes.\n\n**If you want one appliance for life, plan to blend fibrous greens (spinach stems, ginger), or want to expand into soups/nut butters:** Get the **Vitamix E310**. The cost-per-year actually favors Vitamix if you keep it 7+ years.\n\n**Best value pick:** Ninja BN701 — it's specifically optimized for smoothies (which is your stated use case) and the price difference buys you a lot of financial flexibility elsewhere.",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 700
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 7,
+  "timestamp_utc": "2026-07-03T15:40:15.686619+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended Stroller: **UPPAbaby MINU V2**\n\n**Price:** ~$450-500 (solid mid-range for this category)\n\n## Why it fits your needs:\n\n**Lightweight & Compact**\n- Weighs about 18.4 lbs\n- Folds down small enough to fit in overhead bins on planes\n- One-handed, self-standing fold — great for quick subway rides or juggling coffee/kids\n\n**City Sidewalk Performance**\n- Puncture-proof EVA foam tires handle cracks, curbs, and uneven pavement well\n- Smooth-swiveling front wheels for tight maneuvering around crowds\n- Suspension system smooths out bumps better than most compact strollers\n\n**Recline for Toddlers**\n- Near-flat recline position, good for naps on the go\n- Extendable canopy with UPF 50+ sun protection\n- Adjustable footrest for growing toddlers\n\n**Toddler-Friendly Extras**\n- Weight capacity up to 45 lbs, so it'll last through toddlerhood\n- Compatible with car seat adapters if you still need travel system flexibility\n\n---\n\n## Solid Alternative: **Baby Jogger City Tour 2**\n\n**Price:** ~$250-300 (more budget-friendly, still quality)\n\n- Lighter fold-up (about 17 lbs), umbrella-style compact fold with strap for carrying\n- Slightly less plush ride than the MINU but very capable on sidewalks\n- Good recline, though not quite as flat\n- Great if you want to save some money without sacrificing much functionality\n\n---\n\n**My pick:** If your budget allows, go with the **UPPAbaby MINU V2** — the build quality, recline comfort, and fold mechanism are noticeably better for daily city use. If you want to save $150-200, the **Baby Jogger City Tour 2** is a great compromise.\n\nWant me to compare specific features like storage basket size, one-hand fold mechanics, or car seat compatibility?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 657
+  }
+}

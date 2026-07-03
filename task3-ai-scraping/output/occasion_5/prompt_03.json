@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 5,
+  "timestamp_utc": "2026-07-03T15:37:06.668276+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "Here are some solid options that lean into the \"loves fishing but needs some help catching things\" angle—without being insulting about it:\n\n**1. Deeper START Smart Fish Finder (~$70)**\nThis is probably your best bet. It's a small castable sonar ball that pairs with a smartphone app—no boat electronics needed. He casts it out, and it shows him water depth, temperature, and where fish actually are. This directly solves the \"not catching anything\" problem and works from shore, dock, or boat.\n\n**2. Berkley Gulp! Alive! Bait Bucket + Assorted Baits (~$30-40)**\nScented, pre-soaked artificial bait that's known for actually outperforming live bait in a lot of conditions. Pair it with a $20 tackle box and you're under budget with something practical.\n\n**3. Rapala Fillet Knife Set (~$35-45)**\nA nice fillet knife (the classic wood-handle Rapala is a classic) signals optimism—like you're betting he'll need it soon. Practical and a nice quality upgrade from whatever knife he's currently using.\n\n**4. Local Fishing Guide Trip or Half-Day Charter (~$50-75 deposit/gift card)**\nMany local guides offer gift certificates. A few hours with someone who knows the local waters could actually turn things around for him, and it's an experience gift rather than another gadget in the tackle box.\n\n**5. Fish Finder + Bait Combo**\nIf budget's tight, skip the Deeper and just get a good bait/lure variety pack (Rapala or Berkley) plus a cheap waterproof phone case so he can check fishing forecast apps like Fishbrain streamside.\n\n**My top pick:** The Deeper START sonar. It's the one gift here that actually addresses his core problem, it's a fun gadget to unbox, and it fits your budget with room to spare.\n\nWant me to check current pricing or availability on any of these?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 634
+  }
+}

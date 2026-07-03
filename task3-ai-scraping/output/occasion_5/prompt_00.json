@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 5,
+  "timestamp_utc": "2026-07-03T15:36:37.685969+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Laptop Recommendation: ASUS TUF Gaming A15/F15\n\nFor your budget and needs, I'd recommend the **ASUS TUF Gaming A15 (FA507)** or its Intel counterpart, the **F15**, typically priced around $800-950.\n\n## Key Specs to Look For:\n- **CPU:** AMD Ryzen 7 7735HS (A15) or Intel Core i5-13500H (F15)\n- **GPU:** NVIDIA RTX 4060 (8GB VRAM) - this is the sweet spot for 1080p gaming\n- **RAM:** 16GB DDR5 (upgradable to 32GB)\n- **Storage:** 512GB-1TB NVMe SSD\n- **Display:** 15.6\" FHD, 144Hz refresh rate\n\n## Why This Pick:\n- The RTX 4060 handles most modern games at 1080p high settings, 60+ fps\n- Durable build (MIL-STD-810H tested) - good if you're rough on hardware\n- Better cooling than most laptops in this price range\n\n## Solid Alternatives:\n\n**Acer Nitro 16** (~$900)\n- Ryzen 7 7735HS + RTX 4060\n- 16\" screen, 165Hz display\n- Slightly better screen real estate\n\n**Lenovo LOQ 15** (~$800-900)\n- Intel i5-13450HX or Ryzen 7 7435HS + RTX 4060\n- Good value option, solid build quality\n\n## Shopping Tips:\n- Check **Best Buy, Amazon, and Newegg** for current sales - these models frequently drop $100-150 during promotions\n- Avoid anything with RTX 3050 or lower if possible; the 4060 makes a big difference for 1440p or higher settings\n- Confirm RAM is DDR5 and storage is NVMe (not eMMC)\n\nWould you like recommendations for specific games you're planning to play? That could help fine-tune which GPU tier makes the most sense for you.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 667
+  }
+}

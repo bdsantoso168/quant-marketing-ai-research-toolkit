@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 4,
+  "timestamp_utc": "2026-07-03T15:35:35.034850+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "# Fishing Gift Ideas Under $75\n\nSince he loves the sport but the fish aren't cooperating, here are some options that could actually help his luck (or at least make fishing more fun regardless of the catch):\n\n## Practical \"Catch More Fish\" Options\n\n**1. Fish finder / Portable sonar (~$50-70)**\n- **Deeper START Smart Sonar** (~$50) - Castable fish finder that syncs to a smartphone app, shows depth and fish location. Great for shore or boat fishing.\n\n**2. Berkley Gulp! Bait Bundle + Tackle (~$30-40)**\n- Pair with a **Plano tackle box** (~$20-25) to round out the gift with practical bait that's known for actually attracting fish (scent-infused, great for finicky fish).\n\n## Fun/Sentimental Options (if he's not catching much, lean into the humor)\n\n**3. \"Master Baiter\" or fishing-themed funny gear**\n- Funny hat, koozie, or shirt (~$15-20) paired with a nice tackle item—shows you're in on the joke with him.\n\n**4. Personalized Tackle Box or Fishing Log (~$25-40)**\n- A **waterproof fishing journal** to log spots, conditions, and bait used—could genuinely help him improve over time. Pair with a nice retractable fishing pliers tool (~$20).\n\n## My Top Pick\n\n**Deeper START Smart Sonar (~$50)** + a bundle of **Berkley Gulp! bait** (~$15-20) = under $75 total, and this combo could realistically turn his luck around by helping him actually see where the fish are hiding.\n\n---\n\nWant me to tailor this further based on whether he fishes freshwater/saltwater, from a boat or shore, or if you want to keep it more humorous vs. practical?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 603
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_00",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:33:31.532682+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "budget_constrained_recommendation",
+  "prompt_text": "I need a laptop under $1000 for gaming with a screen over 15 inches. What should I buy?",
+  "response_text": "# Recommended Gaming Laptop: Acer Nitro 16 (AN16-41)\n\n**Price:** ~$900-950\n\n**Specs:**\n- **CPU:** AMD Ryzen 7 7735HS\n- **GPU:** NVIDIA RTX 4060 (8GB VRAM)\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB-1TB NVMe SSD\n- **Display:** 16\" WQXGA (2560x1600), 165Hz refresh rate\n\n**Why this one:** The RTX 4060 is the sweet spot for 1080p/1440p gaming under $1000, and this model actually includes it—many competitors at this price point stick you with a 4050 or 3050. The 165Hz high-res screen is also a nice upgrade over typical budget gaming laptops.\n\n---\n\n## Alternative Option: ASUS TUF Gaming A16\n\n**Price:** ~$850-950\n\n**Specs:**\n- **CPU:** AMD Ryzen 7 7735HS\n- **GPU:** RTX 4060\n- **RAM:** 16GB DDR5\n- **Storage:** 512GB-1TB SSD\n- **Display:** 16\" FHD+ (1920x1200), 165Hz\n\n**Why consider this:** ASUS TUF laptops are known for excellent build quality and durability (MIL-STD tested), plus better cooling in some benchmarks. Slightly lower resolution than the Acer, but that means better frame rates in demanding games.\n\n---\n\n### Quick Buying Tips:\n1. **Check current sales** — Best Buy, Newegg, and Amazon frequently discount these models by $50-150\n2. **Verify RAM/storage config** — Some listings have 8GB RAM variants; make sure you're getting 16GB\n3. **Avoid older RTX 3050 models** — even if cheaper, the performance gap vs. RTX 4060 is significant\n\nWould you like me to check current pricing/availability, or are you looking for something with a specific brand preference (like ASUS, Lenovo Legion, or HP)?",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 696
+  }
+}

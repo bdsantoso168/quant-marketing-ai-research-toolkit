@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:31:09.932879+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, ranked by category:\n\n## Top Overall Pick\n**CeraVe Moisturizing Cream** (~$18-20 for 19oz)\n- Contains ceramides, hyaluronic acid, and glycerin\n- Fragrance-free, non-comedogenic\n- Developed with dermatologists\n- The tub formula is thicker/richer than the lotion version—better for very dry skin\n\n## Best for Extra Sensitive/Reactive Skin\n**Vanicream Moisturizing Cream** (~$15 for 16oz)\n- Free of dyes, fragrance, lanolin, and formaldehyde\n- Popular with eczema and rosacea sufferers\n- Very simple ingredient list—great if you're trying to identify triggers\n\n## Best Lightweight Option\n**CeraVe Daily Moisturizing Lotion** (~$16 for 19oz)\n- Similar formula to the cream but less heavy\n- Good if you want ceramide benefits without the greasy feel\n\n## Budget Pick\n**Cetaphil Moisturizing Cream** (~$12-14 for 16oz)\n- Fragrance-free, gentle formula\n- Widely available at any drugstore\n- Good glycerin content for hydration\n\n## What to Look For\n- **Ceramides** – help restore skin barrier\n- **Hyaluronic acid or glycerin** – draws in moisture\n- **Fragrance-free** (not just \"unscented\")\n- **Minimal ingredient lists** – fewer potential irritants\n\n## My Specific Recommendation\nStart with **CeraVe Moisturizing Cream**—it hits the sweet spot of affordability, effectiveness, and wide availability. If you find it still irritates your skin, step down to **Vanicream**, which has an even more stripped-down formula.\n\nWould you like suggestions for a night cream or an SPF moisturizer for daytime use as well?",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 657
+  }
+}

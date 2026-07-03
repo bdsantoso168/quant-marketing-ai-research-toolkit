@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_08",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:39:39.227663+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "flagship_comparison",
+  "prompt_text": "Compare the latest iPhone and Samsung Galaxy flagship on camera quality and battery life. Which is the better buy?",
+  "response_text": "# iPhone 16 Pro Max vs. Samsung Galaxy S24 Ultra\n\n## Camera Quality\n\n**iPhone 16 Pro Max**\n- 48MP main, 48MP ultra-wide, 12MP 5x telephoto\n- Colors are more natural/accurate out of camera\n- Better video quality overall — stabilization, dynamic range, and the new audio mix feature are excellent\n- ProRes and log recording for creators\n- Better skin tone rendering\n\n**Galaxy S24 Ultra**\n- 200MP main, 12MP ultra-wide, dual telephoto (3x and 5x)\n- More zoom flexibility (up to 100x digital, though quality drops past 30x)\n- Photos tend to be punchier/more saturated — great for social media, less \"true to life\"\n- Slightly better low-light detail on the main sensor due to pixel-binning\n- S Pen enables unique zoom/photo control tricks\n\n**Verdict:** iPhone wins for video and natural photos; Galaxy wins for zoom range and punchy stills. If you shoot mostly video, go iPhone. If you photograph distant subjects often (concerts, wildlife, sports), Galaxy has the edge.\n\n## Battery Life\n\n**iPhone 16 Pro Max**\n- ~29 hours video playback (Apple's rating)\n- Real-world: easily lasts a full day of heavy use, often into a second day with moderate use\n- Charging: 20W wired (slow by 2025 standards), 25W MagSafe\n\n**Galaxy S24 Ultra**\n- 5,000mAh battery, roughly full-day battery under heavy use\n- Charging: 45W wired (noticeably faster — can hit ~65% in 30 min with the right charger, sold separately)\n- Slightly behind iPhone in real-world screen-on time despite bigger battery number\n\n**Verdict:** iPhone 16 Pro Max edges out in longevity; Galaxy S24 Ultra wins decisively on charging speed.\n\n## Overall Recommendation\n\n**For most people: iPhone 16 Pro Max** — better battery endurance, superior video, and a more refined ecosystem (AirDrop, iMessage, Apple Watch integration) if you're already in Apple's world.\n\n**Choose Galaxy S24 Ultra if:**\n- You want the S Pen for note-taking/sketching\n- You need serious zoom capability\n- Fast charging is a priority\n- You're invested in Android/Google ecosystem\n\n**Bottom line:** Neither is a \"bad\" buy — this comes down to ecosystem preference more than raw specs. If you're not locked into iOS or Android already, the iPhone 16 Pro Max is the safer all-around pick for camera + battery combined.",
+  "usage": {
+    "input_tokens": 85,
+    "output_tokens": 915
+  }
+}

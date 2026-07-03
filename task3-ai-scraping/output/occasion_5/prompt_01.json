@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 5,
+  "timestamp_utc": "2026-07-03T15:36:46.745810+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Small Apartments\n\n## Top Recommendation: **Dyson V8** or **V10**\n- **Noise level:** ~80 dB (noticeably quieter than newer high-suction Dyson models like the V15, which can hit 85+ dB)\n- **Why it works for small apartments:** Lighter weight, easier storage, and plenty of suction for hard floors, rugs, and quick cleanups\n- **Price:** Often $250–$350, especially during sales (Dyson frequently discounts older models)\n\n## Best Overall Quiet Pick: **Miele Triflex HX2**\n- **Noise level:** One of the quietest stick vacuums on the market, engineered specifically with noise reduction in mind\n- **Why it works:** German engineering focuses heavily on sound dampening; great HEPA filtration if you have allergies\n- **Price:** ~$500–$600 (higher-end, but built to last)\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S11**\n- **Noise level:** Runs quieter than most Dyson models on standard mode\n- **Why it works:** Smart LED display, good for hard floors, decent price-to-performance ratio\n- **Price:** ~$200–$280\n\n## Practical Tips\n1. **Use \"Eco\" or standard mode**, not max/boost mode — noise jumps significantly in high-power settings\n2. **Avoid vacuums advertised primarily for suction power** (like Dyson V15 or Shark Detect Pro) if quiet operation is your top priority — more suction usually means more noise\n3. **Check for apartment-specific reviews** on Amazon/Best Buy — neighbors below you will thank you\n\n## My Pick for Best Balance\nIf you want the best mix of quiet operation, size, and reliability for an apartment: **Dyson V8** — it's quieter than newer Dyson models, lightweight, compact for storage in a closet, and typically has the best value due to frequent sales.\n\nWould you like recommendations based on flooring type (carpet vs. hardwood) or budget range?",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 696
+  }
+}

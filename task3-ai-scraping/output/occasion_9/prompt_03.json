@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:43:41.608317+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "# Fishing Gift Ideas for Under $75\n\nHere are some solid options that might actually help his luck (or at least give him a good laugh):\n\n## Practical & Functional\n- **Rapala Lithium Ion Fillet Knife** (~$60) - If he's not catching much, at least make the process fun when he does. Great backup even without fish—works for camping/cooking too.\n- **Humminbird HELIX 5 Fish Finder** portable version or a simpler **Deeper Chirp+ Smart Sonar** (~$70) - This could genuinely help him locate fish, which might solve his actual problem!\n- **Plano Tackle Box/Bag with pre-stocked tackle** (~$40-50) - Sometimes bad luck comes down to using the wrong lures for the season/location.\n\n## Fun & Practical Combo\n- **YETI Rambler Tumbler** (~$35) + a **fishing multi-tool** like Gerber's (~$30) - Keeps him comfortable and prepared during those long, fish-less hours.\n- **Fishing subscription box** like Mystery Tackle Box (3-month subscription, ~$45-60) - New lures monthly, takes guesswork out of tackle selection.\n\n## The Funny Route\n- A \"**World's Okayest Fisherman**\" t-shirt or hat (~$20) + a nice **collapsible net** (~$25) - self-aware humor plus something useful for when he *does* catch something.\n\n## My Top Pick\nIf I had to choose one: **the Deeper Chirp+ Smart Sonar**. It's a castable fish finder that syncs to his phone via app, shows him where fish actually are, water depth, and temperature. It directly addresses his \"not catching anything\" issue and works from shore or a boat—no need for expensive marine electronics installation.\n\nWant me to narrow this down based on where he usually fishes (lake, river, ocean) or his experience level?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 631
+  }
+}

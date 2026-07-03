@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_01",
+  "occasion": 0,
+  "timestamp_utc": "2026-07-03T15:28:54.431347+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "home_and_garden",
+  "archetype": "superlative_constraint",
+  "prompt_text": "Find the quietest cordless stick vacuum for a small apartment.",
+  "response_text": "# Quietest Cordless Stick Vacuums for Apartments\n\n## Top Recommendation: **Miele Triflex HX2**\n- **Noise level:** ~69-70 dB (noticeably quieter than most competitors)\n- Excellent suction with German engineering focused on noise reduction\n- Three-point conversion design, good for tight apartment spaces\n- Runtime: ~60 minutes on eco mode\n- Price: ~$500-600\n\n## Runner-Up: **LG CordZero A9 Kompressor**\n- **Noise level:** ~70-72 dB\n- Quieter motor design compared to Dyson/Shark models\n- Compact and lightweight, easy to maneuver in small spaces\n- Self-emptying dust compartment (compression feature)\n- Price: ~$400-500\n\n## Budget-Friendly Quiet Option: **Tineco Pure One S15**\n- **Noise level:** ~72-75 dB\n- Smart display shows dust detection and battery life\n- Good suction for the price point\n- Price: ~$300-350\n\n## Why These Over Popular Alternatives:\n- **Dyson V15/V12** models tend to run louder (75-80+ dB), especially on boost mode, despite excellent suction\n- **Shark** cordless models are generally louder due to more aggressive motor designs\n\n## Apartment-Specific Tips:\n1. Use **eco/low-power mode** for daily cleaning—it's quieter and sufficient for hardwood/low-pile carpet common in apartments\n2. Look for models with **soft-close doors** on the dust bin (reduces bang noise when emptying)\n3. Consider **early morning/late evening use**—even \"loud\" vacuums under 75 dB are apartment-appropriate if you avoid odd hours\n\n## My Pick for Most Apartments:\n**LG CordZero A9 Kompressor** offers the best balance of low noise, lightweight handling, and value—ideal if you're not trying to spend Miele-level money but still want a quieter experience than mainstream brands.\n\nWould you like recommendations based on a specific budget or flooring type (carpet vs. hardwood)?",
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 706
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:34:10.946407+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks\n\n**Best Overall Value: ASICS Gel-Excite 10** (~$60-70 on sale)\n- Reliable cushioning for daily training\n- Frequently discounted at Road Runner Sports, DSW, and Asics.com\n\n**Best Budget Option: New Balance Fresh Foam Arishi** (~$45-55)\n- Great for beginners or casual runners\n- Often on sale at Kohl's (stack with Kohl's Cash) or Old Navy's parent partnerships\n\n**Best Mid-Range: Brooks Ghost 15/16** (~$90-100, down from $140)\n- Excellent for students logging regular miles\n- Check Brooks' outlet section or Running Warehouse clearance\n\n## Student Discount Codes & Programs\n\n1. **UNiDAYS** (unidays.com) - Free student verification\n   - Nike: 10% off (sometimes 20% during promos)\n   - ASICS: 10% off\n   - New Balance: 15% off\n\n2. **Student Beans** (studentbeans.com)\n   - Similar discounts, sometimes different rotating offers\n   - Under Armour: 10-15% off\n\n3. **Nike Student Discount**\n   - Verify through Nike.com directly with .edu email\n   - Usually 10% off, occasionally higher during back-to-school\n\n4. **New Balance Student Discount**\n   - 15% off through their site with student verification\n\n## Money-Saving Strategy\n\n**Best combo approach:**\n1. Check **Dick's Sporting Goods** or **Road Runner Sports** clearance sections first\n2. Apply student discount code on top of sale price where allowed\n3. Sign up for brand email lists (often get 15-20% off first purchase)\n4. Check **Rakuten** or **Capital One Shopping** for cashback stacking\n\n**Pro tip:** End-of-season sales (especially after major marathons like Boston/NYC in fall/spring) often beat student discounts alone. Also check **Poshmark** or **eBay** for barely-worn pairs if budget is very tight.\n\n---\n\n*Note: Since deals change frequently, I'd recommend checking current prices on Nike.com, ASICS.com, and RoadRunnerSports.com directly, as well as verifying active codes on UNiDAYS/Student Beans before purchasing—these often update weekly.*",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 796
+  }
+}

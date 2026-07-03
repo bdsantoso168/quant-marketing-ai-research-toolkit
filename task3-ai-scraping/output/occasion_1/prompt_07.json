@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 1,
+  "timestamp_utc": "2026-07-03T15:31:28.725737+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner Road Bike Recommendations Under $800\n\n## Top Pick: Trek Domane AL 2\n**Price:** ~$750-800\n- Aluminum frame with carbon fork (reduces road vibration)\n- Endurance geometry (more upright, comfortable position vs. aggressive racing bikes)\n- Shimano Claris 2x8-speed drivetrain (reliable, easy to shift)\n- Tubeless-ready wheels\n- Great for beginners because it prioritizes comfort over pure speed\n\n## Strong Alternative: Giant Contend 3\n**Price:** ~$650-750\n- Aluminum frame with endurance-focused geometry\n- Shimano Claris/Tourney drivetrain\n- Wider tire clearance (better for varied road conditions)\n- Known for excellent value in this price range\n\n## Budget-Friendly Option: Cannondale CAAD Optimo 3\n**Price:** ~$700\n- Aluminum frame (Cannondale's aluminum expertise shows here)\n- Comfortable geometry for new riders\n- Shimano Tourney/Claris components\n- Good stiffness-to-weight ratio for the price\n\n---\n\n## What to Look For (Buying Tips):\n1. **Buy from a local bike shop if possible** — they'll size you properly and include a free tune-up\n2. **Endurance geometry** is better than racing geometry for beginners (more comfortable, less strain on back/neck)\n3. **Shimano Claris or Sora** groupsets are perfectly fine for beginners — don't overspend on components yet\n4. **Check for disc brakes** if available in your size — better stopping power, especially in wet conditions\n\n## My Recommendation:\nGo with the **Trek Domane AL 2** if it's available at your local shop. It offers the best comfort/performance balance for new riders, and Trek's dealer network makes warranty service and fit adjustments easy.\n\nWould you like recommendations based on a specific riding goal (fitness, commuting, or future racing)?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 666
+  }
+}

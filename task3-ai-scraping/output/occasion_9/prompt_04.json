@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 9,
+  "timestamp_utc": "2026-07-03T15:43:51.589707+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks Right Now\n\n**Budget Option: Nike Revolution 6** (~$45-60)\n- Reliable entry-level trainer, good for casual runners\n- Frequently discounted on Nike's own site\n\n**Best Overall Value: ASICS Gel-Contend 8** (~$50-65)\n- More cushioning/support than price suggests\n- Great for beginners or those logging moderate mileage\n\n**Mid-Range Pick: Brooks Ghost 15** (~$100-130, often 20-30% off previous-gen models like Ghost 14)\n- Excellent all-around trainer, very popular with runners\n- Look for Ghost 14 clearance deals around $70-90\n\n## Student Discount Programs to Check\n\n1. **UNiDAYS** - Partners with Nike, Adidas, ASICS, and New Balance (typically 10-20% off)\n2. **Student Beans** - Similar brand partnerships, sometimes stackable with sales\n3. **Nike Student Discount** - 10% off through UNiDAYS verification\n4. **New Balance** - Offers student discounts through ID.me verification (~15%)\n\n## Where to Find Current Deals\n\n- **DSW/Famous Footwear** - Check clearance racks; often 40-50% off past-season models\n- **Running Warehouse/Road Runner Sports** - End-of-season sales, sign up for email alerts\n- **Manufacturer outlets** (Nike Outlet, Adidas Outlet online sections)\n- **Dick's Sporting Goods** - ScoreCard rewards program stacks with sales\n\n## My Recommendation\n\nFor best value: **ASICS Gel-Contend 8** through **UNiDAYS student verification** — combines a solid, versatile shoe with guaranteed student pricing rather than chasing unpredictable flash sales.\n\n---\n\n*Note: Specific deals change frequently and vary by location/inventory. I'd recommend checking these retailers directly for today's actual prices, as I can't browse real-time listings. Want tips on what to look for in fit/support based on your running habits?*",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 706
+  }
+}

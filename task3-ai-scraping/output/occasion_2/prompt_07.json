@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_07",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:33:03.588553+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "beginner_budget_recommendation",
+  "prompt_text": "Recommend a beginner-friendly road bike under $800.",
+  "response_text": "# Beginner-Friendly Road Bikes Under $800\n\nHere are some solid options for new road cyclists:\n\n## Top Pick: **Giant Contend 3**\n- **Price:** ~$650-750\n- **Why it's great:** Aluminum frame with a more relaxed geometry than race bikes, making it comfortable for beginners. Comes with mechanical disc brakes for reliable stopping power in all weather.\n- **Groupset:** Shimano Claris (8-speed)\n\n## Also Consider:\n\n### **Trek Domane AL 2**\n- **Price:** ~$750-800\n- **Why it's great:** Trek's endurance geometry means a more upright riding position—easier on the back and neck for new riders. Known for smooth ride quality.\n- **Groupset:** Shimano Claris\n\n### **Specialized Allez**\n- **Price:** ~$750-800 (base model)\n- **Why it's great:** Great reputation for the aluminum frame quality, often praised as punching above its price point. A bit more race-oriented geometry but still manageable for beginners.\n- **Groupset:** Shimano Claris/Tourney\n\n### **Cannondale CAAD Optimo 3**\n- **Price:** ~$650-700\n- **Why it's great:** Lightweight aluminum frame, comfortable geometry, and good value. Cannondale's frame engineering is well-regarded even at entry-level.\n\n---\n\n## Key Tips Before Buying:\n1. **Buy from a local bike shop if possible** — proper fit sizing matters a lot for comfort and avoiding injury\n2. **Check for disc brakes** (mechanical, not hydraulic at this price) — better stopping power, especially in rain\n3. **Test ride multiple options** — geometry differences between \"endurance\" vs \"race\" bikes matter more than brand\n4. **Budget extra** ~$50-100 for a helmet, lights, and a basic repair kit if not included\n\nWould you like recommendations based on a specific riding style (commuting, fitness, light touring) or your height/body type for sizing guidance?",
+  "usage": {
+    "input_tokens": 63,
+    "output_tokens": 682
+  }
+}

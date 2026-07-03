@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:42:17.034012+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks Right Now\n\n**Best Overall Budget Pick: ASICS Gel-Excite or Nimbus (previous gen)**\n- Previous-year models often run $50-70 vs. $100-160 retail\n- Check ASICS outlet section on their website\n\n**Best Cushioning for the Price: Brooks Ghost (older version)**\n- Brooks frequently discounts last year's Ghost model to $70-90\n- Excellent for daily training/general running\n\n**Best Budget Option: New Balance Fresh Foam Arishi**\n- Often available for $45-65\n- Good entry-level trainer\n\n## Student Discount Programs to Check\n\n1. **UNiDAYS** - Free to join with student email; partners with:\n   - New Balance (typically 15-20% off)\n   - ASICS\n   - Adidas\n\n2. **Student Beans** - Similar to UNiDAYS\n   - Nike (occasionally offers student discounts through this)\n   - Puma\n\n3. **Nike's ID.me verification** - Nike offers a straightforward 10% student discount if you verify through ID.me directly on their site\n\n4. **Under Armour** - Has a dedicated student discount (10%) via UNiDAYS or SheerID\n\n## Additional Money-Saving Tips\n\n- **Check Dick's Sporting Goods** for seasonal clearance (often 30-40% off previous models)\n- **Running Warehouse/Road Runner Sports** outlet sections have deep discounts on last season's shoes\n- **Sign up for brand email lists** - often triggers a first-purchase discount (10-15%)\n- **Stack discounts**: Student discount + outlet pricing + email signup discount can combine for real savings\n\n## My Specific Recommendation\n\nFor best value: **Brooks Ghost 15** (previous version, not the newest Ghost 16) through Brooks' own outlet section, combined with any available promo code. You're looking at a well-reviewed, versatile daily trainer for roughly **$70-85** instead of $140.\n\n---\n\n*Note: Deals change frequently and vary by region/season. I'd recommend checking current prices directly on retailer sites, as I can't browse real-time listings. Want me to suggest specific search terms to find live deals?*",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 754
+  }
+}

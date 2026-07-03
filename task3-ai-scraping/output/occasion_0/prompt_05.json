@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 0,
+  "timestamp_utc": "2026-07-03T15:29:33.524516+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, ranked by category:\n\n## Best Overall: CeraVe Moisturizing Cream\n**~$18-20 for 19oz jar**\n- Contains ceramides (1, 3, 6-II) to restore skin barrier\n- Hyaluronic acid for hydration\n- Fragrance-free, non-comedogenic\n- Developed with dermatologists\n- The tub format is slightly less sanitary but very cost-effective\n\n## Best for Very Sensitive/Reactive Skin: Vanicream Moisturizing Cream\n**~$15-17 for 16oz**\n- Free of dyes, fragrance, lanolin, parabens, and formaldehyde\n- Excellent for eczema-prone or highly reactive skin\n- Simple ingredient list minimizes irritation risk\n- Slightly heavier texture, great for very dry skin\n\n## Best Budget Option: Aveeno Daily Moisturizing Lotion\n**~$10-12 for 18oz**\n- Contains colloidal oatmeal (soothing) and ceramides\n- Lighter texture than CeraVe (good if you want less heavy)\n- Widely available at any drugstore\n- Fragrance-free version available\n\n## Best for Extra Dry Skin: La Roche-Posay Toleriane Double Repair Face Moisturizer\n**~$20-22 for 2.5oz**\n- Contains niacinamide, ceramides, and glycerin\n- Formulated for sensitive skin specifically\n- Lighter feel despite rich hydration\n- Slightly pricier but goes a long way\n\n---\n\n## My Top Recommendation\n**CeraVe Moisturizing Cream** hits the best balance of price, effectiveness, and ingredient safety for most people with dry, sensitive skin. Start there, and if you find it still causes irritation, switch to **Vanicream** since it has the shortest ingredient list.\n\n**Tip:** Apply to damp skin after showering to lock in moisture, and patch-test any new product on your inner arm for 24-48 hours first.",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 703
+  }
+}

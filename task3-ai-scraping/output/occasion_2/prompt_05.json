@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:32:45.119953+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, all widely available and budget-friendly:\n\n## Top Pick: CeraVe Moisturizing Cream\n**Price:** ~$16-19 for 16 oz jar\n- Contains 3 essential ceramides + hyaluronic acid\n- Fragrance-free, non-comedogenic\n- MVE technology for 24-hour hydration\n- Recommended by dermatologists\n- Best for: Very dry, sensitive skin (face and body)\n\n## Runner-Up: Vanicream Moisturizing Cream\n**Price:** ~$14-16 for 16 oz jar\n- Free of dyes, fragrances, lanolin, and common irritants\n- Great for eczema-prone or reactive skin\n- Simple, minimal ingredient list\n- Best for: Extremely sensitive or allergy-prone skin\n\n## Great for Face Specifically: Cetaphil Rich Hydrating Cream\n**Price:** ~$14-17\n- Lightweight but deeply moisturizing\n- Contains hyaluronic acid and niacinamide\n- Fragrance-free formula\n- Best for: Daily facial moisturizing\n\n## Budget-Friendliest: Aveeno Daily Moisturizing Lotion\n**Price:** ~$9-12\n- Contains colloidal oatmeal (soothing for irritation)\n- Fragrance-free option available\n- Lighter texture than the others\n- Best for: Mild dryness, everyday use, body application\n\n## My Recommendation\n**Start with CeraVe Moisturizing Cream** — it offers the best balance of affordability, ingredient quality, and effectiveness for genuinely dry, sensitive skin. The ceramides help repair your skin barrier, which is often compromised in sensitive skin types.\n\n**Pro tip:** Apply to slightly damp skin right after showering to lock in extra moisture.\n\nWould you like recommendations for specific concerns like eczema, rosacea, or a particular climate?",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 679
+  }
+}

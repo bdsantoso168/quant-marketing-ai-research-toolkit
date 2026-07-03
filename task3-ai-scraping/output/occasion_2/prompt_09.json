@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_09",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:33:22.207715+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "tools_and_diy",
+  "archetype": "decisive_best_pick",
+  "prompt_text": "Just tell me the single best value cordless drill to buy right now for home DIY. Give me one answer.",
+  "response_text": "## Best Value Cordless Drill: **DEWALT DCD771C2 20V MAX Cordless Drill/Driver Kit**\n\n**Why this one:**\n- **Price:** Typically $99-130 — excellent value for the quality\n- **Power:** 20V MAX motor with two speeds (0-450 / 0-1,500 RPM) handles everything from delicate cabinet hardware to deck screws\n- **Comes complete:** Includes drill, two batteries, charger, and case — no surprise add-on costs\n- **Compact/lightweight:** Easy to handle for extended projects, overhead work, or tight spaces\n- **Reliability:** DEWALT's battery ecosystem is huge, so if you ever expand into other tools (saws, impact drivers, etc.), your batteries carry over\n- **Reputation:** It's one of the most recommended drills by contractors and DIYers alike for a reason — durable, consistent performance for years\n\n**Bottom line:** For typical home DIY (hanging shelves, assembling furniture, small deck/fence work, drilling into wood/metal/light masonry), this drill covers 95% of what you'll ever need without overspending on features you won't use.\n\nIf you want to save even more and don't mind a lesser-known brand, the **Ryobi ONE+ 18V Drill/Driver Kit** (~$79) is a solid budget alternative — especially good if you already own other Ryobi tools/batteries.",
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 477
+  }
+}

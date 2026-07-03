@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_03",
+  "occasion": 2,
+  "timestamp_utc": "2026-07-03T15:32:26.524037+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "gift",
+  "archetype": "persona_based",
+  "prompt_text": "I need a gift under $75 for my dad who loves fishing but never seems to catch anything. Any ideas?",
+  "response_text": "Here are some solid gift ideas that could actually help him catch more fish (plus a couple of fun options if he's the type who doesn't mind ribbing about it):\n\n**Practical upgrades that might improve his luck:**\n\n1. **Fish finder** – **Deeper Chirp+ 2 Smart Sonar** (~$70-100, sometimes on sale under $75). This casts out on your line or off a dock and syncs to a phone app to show fish location and depth. This alone could be a game-changer for someone who's struggling to find fish.\n\n2. **Rapala lure gift set** – Around $40-50. Rapala's X-Rap or Original Floater lures are known for actually working well and trusted by serious anglers. A multi-pack gives him variety to try.\n\n3. **Berkley Gulp! Bait bundle** – ~$25-30. Scented soft plastic bait that's shown to outperform regular bait in studies. Pair with a few Rapala lures and you're still under budget.\n\n**Gear that helps regardless of catch rate:**\n\n4. **Plano tackle organizer box** – ~$25-35. If his tackle is a mess, being disorganized might genuinely hurt his presentation and lure selection.\n\n5. **Polarized fishing sunglasses** – **Costa Del Mar** (budget line) or **Bajio** start around $60-70. These cut water glare so he can actually *see* fish and structure, which sounds minor but makes a real difference for sight-fishing.\n\n**Fun/humor route:**\n\n6. A \"World's Okayest Fisherman\" mug or shirt (~$15-20) paired with a **Field & Stream or local fishing guide book** (~$20) for tips — combines humor with genuinely useful info.\n\n**My top pick:** The **Deeper Chirp+ 2** is the best combo of thoughtful, useful, and within budget — it directly addresses the \"not catching anything\" issue rather than just being generic fishing gear he probably already has.\n\nWant me to narrow down based on what type of fishing he does (freshwater lake, saltwater, fly fishing, etc.)?",
+  "usage": {
+    "input_tokens": 79,
+    "output_tokens": 686
+  }
+}

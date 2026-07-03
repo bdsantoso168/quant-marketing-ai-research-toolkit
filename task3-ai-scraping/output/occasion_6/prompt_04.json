@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 6,
+  "timestamp_utc": "2026-07-03T15:39:00.788646+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks Right Now\n\n**Budget Champion: ASICS Gel-Excite 10 or 9**\n- Retail: ~$70-75 (older models often drop to $45-55 on sale)\n- Great cushioning for everyday training runs\n- Check ASICS outlet or Road Runner Sports for clearance pricing\n\n**Best Overall Value: Brooks Ghost 15 (previous gen)**\n- Since Ghost 16 recently released, the 15 is often 30-40% off\n- Look at Brooks' own outlet section or Running Warehouse\n- Retail ~$140, sale price often $80-90\n\n**Nike Option: Nike Revolution 6**\n- Budget-friendly at $65 retail\n- Frequently on sale for $40-50 during Nike promos\n\n## Student Discount Programs\n\n1. **Nike Student Discount** – 10% off via Nike's student verification (through UNiDAYS or SheerID) – sign up at nike.com/student\n\n2. **ASICS Student Discount** – 10-15% off through UNiDAYS\n\n3. **New Balance Student Discount** – 15% off through UNiDAYS or Student Beans\n\n4. **UNiDAYS App** – Aggregates multiple brand student discounts in one place; free to join with .edu email\n\n5. **Student Beans** – Similar aggregator with rotating running shoe brand deals\n\n## Extra Money-Saving Tips\n\n- **Check Dick's Sporting Goods** – they often stack student discounts with clearance racks\n- **Look at last season's colorways** – same shoe, different color, 40%+ cheaper\n- **Sign up for brand email lists** – often get 15-20% off first purchase\n- **Rakuten/Honey browser extensions** – automatic cashback on top of sales\n\n## My Specific Recommendation\n\nFor most college students, I'd suggest checking **Running Warehouse's clearance section** for Brooks Ghost 15 or ASICS Gel-Nimbus 25 (previous year) — solid, reliable trainers under $80 with free returns if sizing is off.\n\n*Note: Deals change constantly, so I'd recommend checking current prices on Nike.com, ASICS.com, and RunningWarehouse.com directly, as specific sale prices fluctuate daily.*\n\nWould you like recommendations based on your specific running style (road running, trail, distance training) or foot type?",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 806
+  }
+}

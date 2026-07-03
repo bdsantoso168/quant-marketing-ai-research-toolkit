@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_08",
+  "occasion": 8,
+  "timestamp_utc": "2026-07-03T15:42:55.026946+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "electronics",
+  "archetype": "flagship_comparison",
+  "prompt_text": "Compare the latest iPhone and Samsung Galaxy flagship on camera quality and battery life. Which is the better buy?",
+  "response_text": "# iPhone 15 Pro Max vs. Samsung Galaxy S24 Ultra\n\n## Camera Quality\n\n**iPhone 15 Pro Max**\n- 48MP main, 12MP ultrawide, 12MP 5x telephoto\n- Colors are more natural/accurate, less aggressive processing\n- Excellent video (best-in-class, especially for content creators/vloggers)\n- Better skin tones and consistency shot-to-shot\n\n**Galaxy S24 Ultra**\n- 200MP main, 12MP ultrawide, 10MP 3x telephoto, 50MP 5x telephoto\n- More zoom flexibility (two telephoto lenses vs. one)\n- Punchier, more saturated colors (some prefer this, others find it oversaturated)\n- Excellent low-light performance, arguably slightly better than iPhone\n- More detail in daylight shots due to sensor resolution\n\n**Verdict:** Roughly a tie. iPhone wins for video and natural photos; Samsung wins for zoom versatility and low-light flexibility.\n\n## Battery Life\n\n**iPhone 15 Pro Max**\n- ~4,441 mAh battery\n- Typically 1-1.5 hours less screen-on time than S24 Ultra in real-world use\n- Very efficient chip (A17 Pro) but iOS multitasking limits show slightly less \"raw\" battery advantage\n\n**Galaxy S24 Ultra**\n- 5,000 mAh battery\n- Generally lasts longer on a single charge\n- Faster charging (45W vs iPhone's 27W)\n\n**Verdict:** Galaxy S24 Ultra wins on battery life and charging speed.\n\n## Overall Recommendation\n\n**If you want the better all-around buy: Galaxy S24 Ultra**\n- Better battery life, faster charging, more camera versatility (2 telephoto lenses), S Pen included, and a bigger/brighter display.\n\n**Choose the iPhone 15 Pro Max if:**\n- You're already in the Apple ecosystem (Mac, iPad, Watch)\n- Video quality is your top priority\n- You prefer iOS over Android\n\n**Bottom line:** For raw specs and value, the **Galaxy S24 Ultra edges out** the iPhone 15 Pro Max, particularly with its battery life and zoom capability. But the \"better buy\" ultimately depends on which ecosystem you're already invested in — that's often the deciding factor for most buyers.",
+  "usage": {
+    "input_tokens": 85,
+    "output_tokens": 821
+  }
+}

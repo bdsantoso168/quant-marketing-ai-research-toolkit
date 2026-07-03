@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_04",
+  "occasion": 5,
+  "timestamp_utc": "2026-07-03T15:37:17.919339+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "sports_and_outdoor",
+  "archetype": "deal_and_discount",
+  "prompt_text": "What is the best current deal on running sneakers for a college student, and are there any student discount codes?",
+  "response_text": "# Best Running Shoe Deals for College Students\n\n## Top Value Picks Right Now\n\n**Budget Champion: ASICS Gel-Excite 10**\n- Retail: ~$70, often on sale for $50-55\n- Great entry-level cushioning for daily runs\n- Check Asics.com outlet section or Road Runner Sports\n\n**Best Overall Value: Brooks Ghost 15 (previous gen)**\n- Original retail ~$140, but Ghost 14/15 now discounted to $70-90 since Ghost 16 released\n- Reliable, comfortable, great for beginners to intermediate runners\n- Check Brooks Running outlet, DSW, or Running Warehouse\n\n**Nike Pegasus (older models)**\n- Pegasus 39/40 often marked down to $70-90 on Nike.com \"Last Chance\" section\n- Very durable, versatile trainer\n\n## Student Discount Programs\n\n1. **UNiDAYS** - Free to join with .edu email\n   - Nike: 10% off (sometimes more during promos)\n   - New Balance: 15% off\n   - ASICS: 15% off\n\n2. **Student Beans** - Similar verification, works with:\n   - Adidas: 15% off\n   - Under Armour: 10-15% off\n\n3. **ID.me** - Verify student status for:\n   - Nike (occasionally)\n   - Some Brooks promotions\n\n## Where to Actually Buy\n\n- **DSW** - Often stacks clearance + rewards points (free to join)\n- **Running Warehouse/Road Runner Sports** - End-of-season clearance sections\n- **Nike Outlet (online)** - \"Extra 20% off\" promo codes appear regularly\n- **Amazon** - Check for Brooks/ASICS lightning deals\n\n## My Specific Recommendation\n\n**Brooks Ghost 14** via Running Warehouse or Brooks outlet + Student Beans discount = often lands around **$55-65 total**, which is excellent value for a shoe with great cushioning and durability (400-500 miles).\n\n**Pro tip:** Sign up for brand email lists 2-3 days before buying—they often send an extra 10-15% off code to new subscribers that stacks with sale prices.\n\nWould you like me to check current prices for a specific shoe or your shoe size/running style (neutral vs. stability)?",
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 773
+  }
+}

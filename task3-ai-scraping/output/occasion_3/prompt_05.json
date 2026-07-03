@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_05",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:34:19.977145+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "beauty",
+  "archetype": "affordable_recommendation",
+  "prompt_text": "What is the best affordable moisturizer for dry, sensitive skin?",
+  "response_text": "# Best Affordable Moisturizers for Dry, Sensitive Skin\n\nHere are my top picks, all under $25:\n\n## Top Pick: CeraVe Moisturizing Cream\n**~$18-20 for 16oz jar**\n- Contains ceramides (1, 3, 6-II) to restore skin barrier\n- Hyaluronic acid for hydration\n- Fragrance-free, non-comedogenic\n- Developed with dermatologists\n- MVE technology for time-released moisture throughout the day\n\n## Runner-Up: Vanicream Moisturizing Cream\n**~$15-17 for 16oz jar**\n- Free of dyes, fragrance, parabens, and lanolin\n- Great for very reactive/allergy-prone skin\n- Simple ingredient list (fewer potential irritants)\n- Recommended by dermatologists for eczema-prone skin\n\n## Budget Option: Aveeno Daily Moisturizing Lotion\n**~$10-12 for 18oz**\n- Contains colloidal oatmeal (soothing for irritation)\n- Lighter texture if you prefer lotion over cream\n- Fragrance-free version available (important—check the label)\n\n## For Extra Dry/Compromised Skin: La Roche-Posay Toleriane Double Repair\n**~$20 for 2.5oz** (pricier per oz but a little goes far)\n- Contains ceramides + niacinamide\n- Formulated for sensitive skin specifically\n- Slightly more elegant texture if CeraVe feels too heavy\n\n---\n\n### Quick Tips:\n- **Patch test** any new product on your inner arm for 2-3 days first\n- Look for **\"fragrance-free\"** (not just \"unscented,\" which can still contain masking fragrances)\n- Apply on **damp skin** after showering to lock in moisture\n- If you have eczema or rosacea, Vanicream tends to be the safest bet\n\n**My personal recommendation:** Start with **CeraVe Moisturizing Cream**—it's widely available, effective, and works for most dry/sensitive skin types without breaking the bank.",
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 693
+  }
+}

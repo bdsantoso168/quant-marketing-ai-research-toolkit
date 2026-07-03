@@ -1,0 +1,15 @@
+{
+  "prompt_id": "prompt_02",
+  "occasion": 3,
+  "timestamp_utc": "2026-07-03T15:33:49.936216+00:00",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "category": "baby_and_gear",
+  "archetype": "multi_constraint_comparison",
+  "prompt_text": "I need a lightweight, compact, easy-to-fold stroller that handles city sidewalks and reclines well for a toddler, at a mid-range budget. What do you recommend?",
+  "response_text": "# Recommended Stroller: **UPPAbaby MINU V2**\n\n**Price:** ~$449-499\n\n## Why It Fits Your Needs\n\n**Lightweight & Compact**\n- Weighs about 18.6 lbs\n- Folds down to a compact size that can fit in tight closet spaces, small car trunks, and even some airplane overhead bins\n- One-handed, self-standing fold (great when you're juggling a toddler and bags)\n\n**City-Friendly**\n- Smooth-rolling wheels handle sidewalk cracks, curb cuts, and uneven pavement well\n- Compact footprint makes it easy to navigate crowded sidewalks, elevators, and stores\n- Good maneuverability for quick turns\n\n**Recline & Comfort**\n- Near-flat recline position, which is great for toddlers who nap on the go\n- Extendable canopy with peekaboo window\n- Comfortable seat with decent padding for extended use\n\n## Alternative Options to Consider\n\n**If budget is a bit tighter:**\n- **Baby Jogger City Tour 2** (~$280) — Lighter on the wallet, still folds compact, solid recline, though ride quality is slightly less smooth than the MINU.\n\n**If you want extra maneuverability for rougher city terrain:**\n- **Ergobaby Metro+** (~$400) — Very similar compact fold, lightweight (~15.5 lbs), one-handed operation, good recline.\n\n## Quick Comparison\n\n| Feature | UPPAbaby MINU V2 | Baby Jogger City Tour 2 | Ergobaby Metro+ |\n|---|---|---|---|\n| Weight | 18.6 lbs | 17 lbs | 15.5 lbs |\n| Price | $449-499 | ~$280 | ~$400 |\n| Recline | Near-flat | Full recline | Near-flat |\n| Fold | One-hand, self-standing | One-hand | One-hand, self-standing |\n\n**My top pick:** The **UPPAbaby MINU V2** hits the sweet spot for build quality, recline comfort, and city practicality. If you want to save some money without sacrificing much, the **Baby Jogger City Tour 2** is a great value alternative.\n\nWould you like recommendations for compatible rain covers, cup holders, or car seat adapters for any of these?",
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 773
+  }
+}
