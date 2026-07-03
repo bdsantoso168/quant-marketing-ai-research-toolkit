@@ -18,11 +18,11 @@ Structured, product-level scraping across three e-commerce sites (Olipop, Poppi,
 → [`task1-webscraping/`](./task1-webscraping) · [output](./task1-webscraping/output/products.csv) · [methodology](./task1-webscraping/README.md)
 
 ### 02 — Survey Instrumentation with Embedded AI Interaction
-**status: not started**
+**status: complete**
 
-Qualtrics survey design spanning ten distinct question types on a consumer decision-making topic, including a live ChatGPT-enabled interactive question — testing both survey methodology range and AI-in-the-loop UX design.
+Qualtrics survey design spanning ten distinct question types on a consumer decision-making topic tied to the same three beverage brands profiled in Module 01 (Olipop, Poppi, Coca-Cola Simply Pop), including a live Claude-enabled interactive question, testing both survey methodology range and AI-in-the-loop UX design.
 
-→ [`task2-qualtrics/`](./task2-qualtrics)
+→ [`task2-qualtrics/`](./task2-qualtrics) · [live survey](https://qualtricsxmwykl4q9jv.qualtrics.com/jfe/form/SV_cIOHHhcwcRLQCqi) · [methodology](./task2-qualtrics/README.md)
 
 ### 03 — AI Search Behavior Monitoring
 **status: not started**
