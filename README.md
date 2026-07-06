@@ -32,12 +32,13 @@ Programmatic, repeated retrieval of Claude API responses to a defensibly sourced
 
 → `task3-ai-scraping/` · [full results](task3-ai-scraping/README.md) · [methodology](task3-ai-scraping/task3_master_plan.md)
 
-### 04 — Computational Biology Agent Deployment
-**status: not started**
+## 04 - Computational Biology Agent Deployment
 
-Standing up a domain-specific research agent from the AlphaGenome paper via the Paper2Agent framework, then running a Mendelian randomization query (rs11174281, lifetime cannabis use) through it end to end.
+**status:** complete
 
-→ [`task4-ai-agents/`](./task4-ai-agents)
+Stood up an AlphaGenome research agent via Paper2Agent, pivoted from a failed local build to the hosted remote MCP server after three isolated failures at the same build step, then ran a Mendelian randomization query (rs11174281, lifetime cannabis use) end to end. Output cross verified across two independent agent instances: chromosome, position, and allele lookup, variant effect prediction across 25,089 tracks and 11 modalities, brain tissue RNA seq ranking, regulatory element overlap, and 7 regulatory landscape plots.
+
+-> [task4-ai-agents/](task4-ai-agents/)
 
 ### 05 — Applied Game Theory: Platform Badge Economics
 **status: not started**
