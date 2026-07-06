@@ -103,12 +103,19 @@ Output was independently verified by a second agent instance (Cowork) that had n
 Variant identity, GRCh38, confirmed via Ensembl: chr12:39,917,691, REF=C, ALT=T/A, MAF(T)=14.5%, intron variant in SLC2A13, upstream of LRRK2. Risk allele modeled as T.
 
 Effect prediction across all modalities: 25,089 tracks across 11 modalities scored in a 1MB window. Strongest signals: splice junctions (mean absolute quantile score 0.973, nearly all positive, SLC2A13 junction usage up), ATAC (0.821, mostly positive), PROCAP (0.729, mostly negative), histone ChIP (0.626), DNase (0.626, mixed), RNA seq (0.547, gene and tissue dependent).
+<img width="6602" height="11508" alt="rs11174281_variant_effects_brain_effects_20260624_085045" src="https://github.com/user-attachments/assets/eea56e03-3dd0-49cc-8beb-9cd31b7e8e1f" />
+<img width="5369" height="945" alt="rs11174281_splicing_brain" src="https://github.com/user-attachments/assets/8a2757a4-9a6d-43db-8043-b80a2a6bcef5" />
 
 RNA seq, brain tissues ranked by effect magnitude: dorsolateral prefrontal cortex ranked highest (SLC2A13 up), followed by amygdala, cerebellum, caudate, hypothalamus, anterior cingulate, frontal cortex, temporal lobe, putamen, substantia nigra, nucleus accumbens, whole brain, and glutamatergic neurons. LINC02555 is down in most limbic and striatal regions. SLC2A13 is up in prefrontal, temporal, and reward related regions.
+<img width="6602" height="6027" alt="rs11174281_gene_expr_brain" src="https://github.com/user-attachments/assets/4f9eb792-f69c-447b-8a2e-dbef4d95ca02" />
+<img width="6419" height="2268" alt="rs11174281_lrrk2_interval_rna_seq_plot" src="https://github.com/user-attachments/assets/a3f30d7e-e905-4b3d-84a5-5cd5e5c063f2" />
+<img width="6405" height="2268" alt="rs11174281_lrrk2_interval_rna_seq_plot_zoomed" src="https://github.com/user-attachments/assets/dac1453f-8251-4fd6-b0f0-e8cde385908d" />
 
 Largest expression changes for the risk allele: LINC02555, a long noncoding RNA, is consistently down across amygdala, caudate, hypothalamus, cingulate, frontal cortex, putamen, substantia nigra, nucleus accumbens, and dorsolateral prefrontal cortex. SLC2A13 is consistently up in dorsolateral prefrontal cortex, temporal lobe, nucleus accumbens, anterior cingulate, and substantia nigra. LRRK2 antisense transcript is down broadly. LRRK2 itself shows mixed and inconsistent direction. KIF21A is up, strongest in cerebellum.
 
 Regulatory element overlap: DNase accessible in cerebellum and frontal cortex, closed in glutamatergic neurons, neuronal stem cells, dorsolateral prefrontal cortex, posterior cingulate, and caudate. Enhancer marks (H3K4me1 and H3K27ac) are increased in hippocampus, substantia nigra, cingulate gyrus, dorsolateral prefrontal cortex, caudate, and temporal lobe, suggesting the variant overlaps a predicted active enhancer in dopaminergic and reward circuitry.
+<img width="5668" height="1407" alt="rs11174281_chromatin_brain" src="https://github.com/user-attachments/assets/c51ab2d9-9515-45e4-bca4-982de5420ddb" />
+<img width="5860" height="5334" alt="rs11174281_histone_brain" src="https://github.com/user-attachments/assets/4d16532b-aa7d-43ed-8c56-b5428fc92091" />
 
 Best guess mechanism: rs11174281 T likely activates an intronic enhancer in the SLC2A13 to LRRK2 corridor, driving SLC2A13 up and LINC02555 down in striatal, prefrontal, and limbic circuits including caudate, putamen, nucleus accumbens, dorsolateral prefrontal cortex, and substantia nigra, the same circuitry underlying reward and executive control over drug use. SLC2A13 is a glucose and myo inositol transporter and may alter phosphoinositide signaling that intersects endocannabinoid and dopamine pathways. Loss of LINC02555 may de repress neuronal programs tied to motivational salience.
 
