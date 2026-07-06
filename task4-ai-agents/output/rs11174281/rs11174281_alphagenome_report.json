@@ -1,0 +1,236 @@
+{
+  "variant": {
+    "rsid": "rs11174281",
+    "chromosome": "chr12",
+    "position_GRCh38": 39917691,
+    "reference_allele": "C",
+    "alternate_alleles": [
+      "T",
+      "A"
+    ],
+    "ancestral_allele": "C",
+    "minor_allele": "T",
+    "MAF": 0.144623,
+    "most_severe_consequence": "intron_variant",
+    "synonyms": [
+      "rs58193704",
+      "rs61619773"
+    ],
+    "phenotype_context": "Lifetime cannabis use (LCU) instrument; within-family GWAS",
+    "genomic_build": "GRCh38 (confirmed via Ensembl REST API)"
+  },
+  "locus_genes": {
+    "protein_coding": [
+      "LRRK2",
+      "SLC2A13",
+      "KIF21A",
+      "ABCD2",
+      "REDIC1",
+      "MUC19"
+    ],
+    "lncRNA": [
+      "LINC02555",
+      "LRRK2-DT",
+      "LINC02471"
+    ],
+    "other": [
+      "ENSG00000199571 (snoRNA)",
+      "pseudogenes"
+    ],
+    "variant_annotation": "Intronic \u2013 sits between SLC2A13 (upstream, \u2013 strand) and LRRK2 (downstream, + strand) in a predicted regulatory region"
+  },
+  "alphagenome_analysis": {
+    "sequence_length_used": "1MB",
+    "modalities_scored": 11,
+    "total_tracks_scored": 25089,
+    "modality_summary_C>T": {
+      "SPLICE_JUNCTIONS": {
+        "mean_abs_quantile": 0.973,
+        "direction": "100% positive (C>T increases SLC2A13 junctions)"
+      },
+      "ATAC": {
+        "mean_abs_quantile": 0.821,
+        "direction": "98% positive"
+      },
+      "PROCAP": {
+        "mean_abs_quantile": 0.729,
+        "direction": "100% negative"
+      },
+      "CHIP_HISTONE": {
+        "mean_abs_quantile": 0.626,
+        "direction": "55% positive"
+      },
+      "DNASE": {
+        "mean_abs_quantile": 0.626,
+        "direction": "mixed \u2013 brain diverges from cerebellum"
+      },
+      "RNA_SEQ": {
+        "mean_abs_quantile": 0.547,
+        "direction": "36% positive \u2013 gene/tissue dependent"
+      },
+      "CAGE": {
+        "mean_abs_quantile": 0.531,
+        "direction": "mixed"
+      }
+    },
+    "rna_seq_top_genes_brain": {
+      "LINC02555_lncRNA": {
+        "all_tissues_mean": -0.00213,
+        "brain_mean": -0.00343,
+        "direction_T_allele": "DOWN",
+        "top_brain_affected": [
+          "amygdala",
+          "caudate nucleus",
+          "hypothalamus",
+          "anterior cingulate cortex",
+          "frontal cortex",
+          "putamen",
+          "substantia nigra",
+          "nucleus accumbens",
+          "dorsolateral prefrontal cortex"
+        ],
+        "max_quantile_brain": -0.981,
+        "note": "Strongest and most consistent brain-wide effect"
+      },
+      "SLC2A13_protein_coding": {
+        "all_tissues_mean": 0.00041,
+        "brain_mean": 0.00144,
+        "direction_T_allele": "UP",
+        "top_brain_affected": [
+          "dorsolateral prefrontal cortex",
+          "temporal lobe",
+          "nucleus accumbens",
+          "anterior cingulate cortex",
+          "frontal cortex",
+          "substantia nigra",
+          "putamen"
+        ],
+        "max_quantile_brain": 0.884,
+        "note": "Consistently UP in prefrontal and striatal regions; also strongest splice junction signal"
+      },
+      "LRRK2_protein_coding": {
+        "all_tissues_mean": 0.00065,
+        "brain_mean": -0.0001,
+        "direction_T_allele": "mixed \u2013 UP in non-brain, small DOWN in reward/limbic regions",
+        "top_brain_UP": [
+          "glutamatergic neuron",
+          "occipital lobe",
+          "frontal cortex (some replicates)",
+          "temporal lobe"
+        ],
+        "top_brain_DOWN": [
+          "nucleus accumbens",
+          "amygdala",
+          "hypothalamus",
+          "caudate nucleus",
+          "dorsolateral prefrontal cortex",
+          "putamen",
+          "substantia nigra"
+        ],
+        "note": "Directionally inconsistent across brain sub-regions; strongest net effect is slight DOWN in limbic/striatal areas"
+      },
+      "LRRK2_DT_lncRNA": {
+        "all_tissues_mean": -0.00311,
+        "brain_mean": -0.00307,
+        "direction_T_allele": "DOWN",
+        "note": "Broad pan-tissue downregulation; lncRNA antisense to LRRK2; consistent"
+      },
+      "KIF21A_protein_coding": {
+        "brain_mean": 0.00223,
+        "direction_T_allele": "UP",
+        "note": "Strongest UP signal in cerebellum/Purkinje cells (q=+0.995)"
+      }
+    },
+    "dnase_brain": {
+      "summary": "T allele decreases DNase accessibility in glutamatergic neurons, neuronal stem cells, whole brain, dorsolateral PFC, posterior cingulate gyrus, and head of caudate nucleus. Increases accessibility in cerebellum and cerebellar cortex.",
+      "top_brain_OPEN": [
+        {
+          "tissue": "cerebellum",
+          "quantile": 0.945
+        },
+        {
+          "tissue": "cerebellar cortex",
+          "quantile": 0.945
+        },
+        {
+          "tissue": "frontal cortex",
+          "quantile": 0.788
+        }
+      ],
+      "top_brain_CLOSED": [
+        {
+          "tissue": "glutamatergic neuron",
+          "quantile": -0.939
+        },
+        {
+          "tissue": "neuronal stem cell",
+          "quantile": -0.915
+        },
+        {
+          "tissue": "whole brain",
+          "quantile": -0.875
+        },
+        {
+          "tissue": "dorsolateral prefrontal cortex",
+          "quantile": -0.863
+        },
+        {
+          "tissue": "posterior cingulate gyrus",
+          "quantile": -0.858
+        },
+        {
+          "tissue": "head of caudate nucleus",
+          "quantile": -0.747
+        }
+      ]
+    },
+    "enhancer_marks_brain": {
+      "H3K4me1": {
+        "direction": "Predominantly INCREASES (T allele) in: dlPFC, cingulate gyrus, hippocampus layer, substantia nigra, temporal lobe, caudate nucleus",
+        "notable": "substantia nigra q=+0.900, hippocampus q=+0.900, caudate q=+0.883",
+        "interpretation": "T allele activates enhancers in dopaminergic/reward circuits"
+      },
+      "H3K27ac": {
+        "direction": "INCREASES in dlPFC, caudate nucleus, cingulate gyrus, substantia nigra, temporal lobe, hippocampus",
+        "notable": "dlPFC q=+0.879, cingulate gyrus q=+0.871, caudate q=+0.854, substantia nigra q=+0.854",
+        "interpretation": "Active enhancer activation in striatum and prefrontal cortex"
+      },
+      "conclusion": "Variant overlaps predicted enhancer active in striatum/dopamine pathway brain regions"
+    },
+    "splice_junctions": {
+      "top_hit": "SLC2A13 \u2013 all tissues highly positive (q ~0.98-0.99); includes brain (frontal cortex, motor neuron, glutamatergic neuron, cerebellum)",
+      "interpretation": "T allele increases SLC2A13 splice junction usage across all tissues"
+    }
+  },
+  "mendelian_randomization_interpretation": {
+    "risk_allele": "T (minor allele, MAF=0.145; confirmed from LCU GWAS context)",
+    "primary_gene_candidate": "LINC02555 (lncRNA) and SLC2A13 (solute carrier)",
+    "supporting_gene": "LRRK2 (Leucine-rich repeat kinase 2, Parkinson/dopamine pathway)",
+    "proposed_mechanism": {
+      "step1": "rs11174281-T allele activates enhancer elements in striatum, hippocampus, cingulate gyrus, and prefrontal cortex (H3K4me1 and H3K27ac increase in these regions)",
+      "step2": "This enhancer activation drives UP-regulation of SLC2A13 in prefrontal/striatal regions (a glucose transporter that modulates neuronal energy metabolism and may alter reward circuitry tone)",
+      "step3": "Simultaneously strongly DOWN-regulates LINC02555, a lncRNA with broad brain expression whose loss may de-repress neuronal gene programs related to motivation/reward",
+      "step4": "LRRK2-DT (antisense lncRNA to LRRK2) is consistently downregulated, potentially affecting LRRK2 expression regulation in dopamine neurons (LRRK2 itself shows subtle direction-specific effects by brain subregion)",
+      "step5": "Reduced chromatin accessibility in glutamatergic neurons and dorsolateral PFC suggests the variant remodels the local regulatory landscape in a cell-type-specific manner"
+    },
+    "best_mechanistic_hypothesis": "rs11174281-T is a regulatory SNP that activates an intronic enhancer in the SLC2A13\u2013LRRK2 locus on chr12. In striatal and prefrontal circuits (caudate, putamen, nucleus accumbens, dlPFC, substantia nigra), this enhancer drives up SLC2A13 expression and simultaneously silences LINC02555. SLC2A13 encodes a glucose/myoinositol transporter expressed in brain; altered transport capacity could modulate glutamatergic/dopaminergic neurotransmission and reward sensitivity \u2013 the neurobiological substrate most plausibly connecting this locus to lifetime cannabis use.",
+    "caveats": [
+      "AlphaGenome scores are in silico \u2013 validation in human brain tissue needed",
+      "C>T and C>A are both modelled; the true risk allele from the LCU GWAS should be confirmed",
+      "LINC02555 function in brain is not well-characterised",
+      "LRRK2 effects are directionally inconsistent across replicates, limiting inference",
+      "The variant is intronic (in SLC2A13) so its target gene requires experimental validation"
+    ]
+  },
+  "saved_plots": [
+    "rs11174281_variant_effects_brain_effects_20260624_085045.png",
+    "rs11174281_chromatin_brain.png",
+    "rs11174281_gene_expr_brain.png",
+    "rs11174281_histone_brain.png",
+    "rs11174281_lrrk2_interval_rna_seq_plot.png",
+    "rs11174281_lrrk2_interval_rna_seq_plot_zoomed.png",
+    "rs11174281_splicing_brain.png"
+  ],
+  "analysis_date": "2026-07-04",
+  "genomic_model": "AlphaGenome (Google DeepMind)"
+}

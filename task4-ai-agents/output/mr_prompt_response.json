@@ -1,0 +1,139 @@
+All analyses are complete. Here is the full structured report:
+
+---
+
+## rs11174281 — AlphaGenome Variant Effect Analysis Report
+
+---
+
+### 1. Variant Lookup (GRCh38 ✅)
+
+| Field | Value |
+|---|---|
+| rsID | rs11174281 |
+| **Build** | **GRCh38** (confirmed via Ensembl REST API) |
+| Chromosome | chr12 |
+| Position | 39,917,691 |
+| Alleles (REF/ALT) | **C / T, A** (ancestral = C; minor = T) |
+| MAF (T allele) | 14.5% |
+| Consequence | **intron_variant** (in SLC2A13 / upstream of LRRK2) |
+| Locus | Sits in the SLC2A13–LRRK2 intergenic/intronic corridor |
+
+> **Risk allele assumed = T** (minor allele; consistent with GWAS convention for LCU locus). Both C>T and C>A were modelled.
+
+---
+
+### 2. Variant Effect Prediction — All Modalities
+
+AlphaGenome scored **25,089 tracks across 11 modalities** in the 1MB window around the variant (C>T):
+
+| Modality | N tracks | Mean |Q-score| | Top signal direction | Key finding |
+|---|---|---|---|---|
+| **SPLICE_JUNCTIONS** | 367 | **0.973** | 100% positive | SLC2A13 splice junction usage universally increased |
+| **ATAC** | 167 | 0.821 | 98% positive | Broad chromatin opening (motor neuron exception) |
+| **PROCAP** | 12 | 0.729 | 100% negative | Promoter-proximal CAGE signal reduced |
+| **CHIP_HISTONE** | 1,116 | 0.626 | 55% positive | H3K4me1/H3K27ac increases in brain reward regions |
+| **DNASE** | 305 | 0.626 | Mixed | Divergent: open in cerebellum, closed in PFC/caudate |
+| **RNA_SEQ** | 7,128 | 0.547 | 36% positive | Gene/tissue-specific: LINC02555 DOWN, SLC2A13 UP |
+| **CAGE** | 546 | 0.531 | Mixed | Occipital pole & nucleus accumbens most affected |
+| **CHIP_TF** | 1,617 | 0.399 | 54% positive | Broad TF binding shifts |
+| **SPLICE_SITES** | 2 | 0.378 | 100% positive | Modest donor/acceptor site effects |
+| **SPLICE_SITE_USAGE** | 367 | 0.329 | 100% positive | All positive |
+
+---
+
+### 3. RNA-Seq: Brain Tissues Ranked by Effect Magnitude (C>T)
+
+| Rank | Brain Tissue | Max |raw score| | Top Gene | Direction |
+|---|---|---|---|---|
+| 1 | **Dorsolateral prefrontal cortex** | 0.00588 | SLC2A13 | ↑ UP |
+| 2 | **Amygdala** | 0.00572 | LINC02555 | ↓ DOWN |
+| 3 | **Cerebellum** | 0.00564 | KIF21A | ↑ UP |
+| 4 | **Caudate nucleus** | 0.00561 | LINC02555 | ↓ DOWN |
+| 5 | **Hypothalamus** | 0.00558 | LINC02555 | ↓ DOWN |
+| 6 | **Anterior cingulate cortex** | 0.00554 | LINC02555 | ↓ DOWN |
+| 7 | **Frontal cortex** | 0.00541 | LINC02555 | ↓ DOWN |
+| 8 | **Temporal lobe** | 0.00540 | SLC2A13 | ↑ UP |
+| 9 | **Putamen** | 0.00527 | LINC02555 | ↓ DOWN |
+| 10 | **Substantia nigra** | 0.00522 | LINC02555 | ↓ DOWN |
+| 11 | **Nucleus accumbens** | 0.00503 | LINC02555 | ↓ DOWN |
+| 12 | **Whole brain** | 0.00482 | LRRK2-DT | ↓ DOWN |
+| 13 | **Glutamatergic neuron** | 0.00335 | SLC2A13 | ↑ UP |
+
+> **LINC02555 dominates brain-specific downregulation** — particularly in striatum, limbic system, and prefrontal cortex, all regions central to cannabis reward/motivation.
+
+---
+
+### 4. Gene-Level Expression Changes for the T (LCU Risk) Allele
+
+| Gene | Type | All-tissue direction | Brain direction | Notable brain signal |
+|---|---|---|---|---|
+| **LINC02555** | lncRNA | ↓ DOWN (mean −0.00213) | ↓ **DOWN** (mean −0.00343) | Amygdala q=−0.981; caudate q=−0.980; hypothalamus q=−0.980; ant. cingulate q=−0.979; frontal cortex q=−0.980; putamen q=−0.975; substantia nigra q=−0.975; nucleus accumbens q=−0.971; dlPFC q=−0.976 |
+| **SLC2A13** | protein-coding | ↑ UP (mean +0.00041) | ↑ **UP** (mean +0.00144) | dlPFC q=+0.884; ant. cingulate q=+0.816; nucleus accumbens q=+0.816; substantia nigra q=+0.795; caudate q=+0.760 |
+| **LRRK2-DT** | lncRNA (antisense LRRK2) | ↓ DOWN (mean −0.00311) | ↓ **DOWN** (mean −0.00307) | Broad pan-tissue; dorsolateral PFC q=−0.927; caudate q=−0.964; anterior cingulate q=−0.953 |
+| **KIF21A** | protein-coding | ↑ UP (mean +0.00009) | ↑ UP (mean +0.00223) | Cerebellum/Purkinje cells strongest (q=+0.995) |
+| **LRRK2** | protein-coding | ↑ UP (all-tissue mean +0.00065) | **Mixed** (brain mean −0.00010) | UP in glutamatergic neurons/non-brain; DOWN in nucleus accumbens, amygdala, hypothalamus, caudate, dlPFC, putamen, substantia nigra |
+
+> **Summary for MR purposes:** The T allele most consistently **decreases LINC02555** and **increases SLC2A13** across the brain regions most relevant to cannabis use neurobiology (striatum, amygdala, cingulate, PFC). LRRK2-DT is also strongly downregulated. LRRK2 itself shows modest and directionally inconsistent effects.
+
+---
+
+### 5. Regulatory Element Overlap in Brain Tissues
+
+**DNase accessibility (C>T):**
+- ✅ **Cerebellar cortex & cerebellum: OPEN** (q=+0.944 — strong DNase peak at variant site)
+- ✅ **Frontal cortex: slight OPEN** (q=+0.788)
+- ❌ **Glutamatergic neurons: CLOSED** (q=−0.939 — large accessibility decrease)
+- ❌ **Neuronal stem cells: CLOSED** (q=−0.915)
+- ❌ **Dorsolateral PFC: CLOSED** (q=−0.863)
+- ❌ **Posterior cingulate gyrus: CLOSED** (q=−0.858)
+- ❌ **Head of caudate nucleus: CLOSED** (q=−0.747)
+
+**Chromatin accessibility plot** confirms the variant (orange line in `rs11174281_chromatin_brain.png`) sits within a prominent DNase peak predicted in frontal cortex, putamen, and dlPFC.
+
+**Enhancer marks (H3K4me1 + H3K27ac) in brain — T allele INCREASES:**
+
+| Tissue | H3K4me1 q-score | H3K27ac q-score | Interpretation |
+|---|---|---|---|
+| **Layer of hippocampus** | +0.900 | +0.849 | Enhancer activated |
+| **Substantia nigra** | +0.900 | +0.854 | Enhancer activated |
+| **Cingulate gyrus** | +0.900 | +0.871 | Enhancer activated |
+| **dlPFC** | +0.903 | +0.879 | Enhancer activated |
+| **Caudate nucleus** | +0.883 | +0.854 | Enhancer activated |
+| **Temporal lobe** | +0.890 | +0.854 | Enhancer activated |
+
+> ✅ **Conclusion:** The T allele **overlaps a predicted active enhancer** (H3K4me1 + H3K27ac marked) in key dopaminergic and reward-relevant brain regions: substantia nigra, hippocampus, caudate, and cingulate gyrus. This strongly supports a *cis*-regulatory mechanism.
+
+---
+
+### 6. Saved Plots
+
+| File | Contents |
+|---|---|
+| `rs11174281_variant_effects_brain_effects_...png` | Full multi-modality REF vs ALT variant effect panel (RNA-seq, CAGE, DNase, ChIP-histone, splice sites) across 8 brain tissues |
+| `rs11174281_chromatin_brain.png` | DNase accessibility in frontal cortex, putamen, dlPFC — orange line at variant |
+| `rs11174281_gene_expr_brain.png` | RNA-seq + CAGE for LRRK2 locus across caudate, putamen, substantia nigra, amygdala, nucleus accumbens, hypothalamus, dlPFC |
+| `rs11174281_histone_brain.png` | H3K27ac, H3K4me1, H3K36me3, H3K4me3, H3K9ac in caudate, dlPFC, substantia nigra, hippocampus layer |
+| `rs11174281_lrrk2_interval_rna_seq_plot.png` | LRRK2 locus overview RNA-seq (frontal cortex, basal ganglia, substantia nigra, dlPFC) |
+| `rs11174281_lrrk2_interval_rna_seq_plot_zoomed.png` | Zoomed LRRK2 exon-resolution expression in 4 brain GTEx tissues |
+| `rs11174281_splicing_brain.png` | Predicted splice sites across the LRRK2 gene body |
+
+---
+
+### 7. AlphaGenome's Best-Guess Mechanism
+
+> **rs11174281-T activates an intronic enhancer in the SLC2A13–LRRK2 corridor on chr12, reshaping gene regulation across dopaminergic and prefrontal circuits.**
+
+**Proposed mechanism (step-by-step):**
+
+1. **Enhancer activation.** The T allele increases H3K4me1 and H3K27ac signals in the substantia nigra, hippocampus, caudate nucleus, cingulate gyrus, and dlPFC — precisely the circuit governing motivation, reward, and executive control over drug use. The DNase data also show reduced accessibility in glutamatergic neurons and PFC, indicating that the local chromatin remodelling is cell-type-selective.
+
+2. **LINC02555 silencing (primary candidate effector).** The strongest and most consistent RNA-seq signal in every reward-relevant brain region is a **strong downregulation of LINC02555** (a lncRNA, mean q=−0.97 to −0.98 across amygdala, caudate, putamen, hypothalamus, nucleus accumbens, frontal cortex, substantia nigra, anterior cingulate). lncRNAs at this locus may *in cis* regulate chromatin structure or neighbouring gene expression; silencing LINC02555 could de-repress neuronal programs relevant to motivational salience and drug sensitivity.
+
+3. **SLC2A13 upregulation (co-effector).** SLC2A13 (*solute carrier family 2 member 13*, a glucose/myoinositol transporter expressed in neurons and glia) is consistently **upregulated by the T allele in dlPFC, temporal lobe, nucleus accumbens, anterior cingulate, and substantia nigra** (q up to +0.884). Altered myoinositol transport modulates phosphoinositide signalling, which converges on endocannabinoid and dopamine receptor signalling pathways — a plausible functional route to altered cannabis use behaviour.
+
+4. **LRRK2-DT downregulation.** Broad downregulation of the LRRK2 antisense lncRNA may subtly tune LRRK2 expression in dopaminergic neurons (LRRK2 itself shows modestly increased expression in glutamatergic neurons but reduced expression in striatal/limbic regions under the T allele).
+
+5. **SLC2A13 splicing.** The T allele dramatically increases SLC2A13 splice junction usage (q~0.985–0.986 in frontal cortex, motor neuron, glutamatergic neuron), potentially altering SLC2A13 isoform expression and protein function in neural tissue.
+
+**Bottom line for MR:** AlphaGenome's evidence points to **LINC02555** (consistently downregulated, q~−0.98 across all striatal/limbic/prefrontal regions) and **SLC2A13** (consistently upregulated, q~+0.88 in PFC/striatum) as the most likely effector transcripts through which rs11174281 influences the neurobiology of cannabis use. The mechanism is **enhancer-mediated, cis-regulatory, and brain-region selective**, concentrated in the dopamine reward and executive control circuitry.
