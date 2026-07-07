@@ -41,9 +41,9 @@ Stood up an AlphaGenome research agent via Paper2Agent, pivoted from a failed lo
 -> [task4-ai-agents/](task4-ai-agents/)
 
 ### 05 — Applied Game Theory: Platform Badge Economics
-**status: not started**
+**status: done**
 
-Formal evaluation of whether a published platform-badging game-theoretic model can jointly explain four empirical findings on demand, pricing, selective certification, and market concentration — with structural modifications proposed where the model falls short.
+Formal evaluation of a published platform badging game theoretic model against four empirical findings on demand, pricing, selective certification, and market concentration. Re derived the model's demand and price equilibria symbolically rather than taking the paper's stated closed forms at face value, surfacing a transcription correction in the process. Confirmed the model explains three of the four findings unconditionally, but the fourth (market concentration) holds only below an identifiable threshold on the green consumer segment size, a boundary the paper itself never states. Three modifications proposed, ordered by cost, to close the gap.
 
 → [`task5-game-theory/`](./task5-game-theory)
 
