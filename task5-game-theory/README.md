@@ -4,7 +4,9 @@
 
 **Task:** evaluate the paper's three stage game theory model. Determine whether it can simultaneously explain four empirical findings. If not, propose modifications.
 
-**Deliverable:** `analysis.pdf` (also available as `.docx` on request), full write up with equations rendered natively.
+## Files
+
+- `Analysis - Game Theory Model Proof.pdf` (or `.docx`): full evaluation, finding by finding derivation, consistency verdict, and three modifications ordered by cost
 
 ## The four findings
 
