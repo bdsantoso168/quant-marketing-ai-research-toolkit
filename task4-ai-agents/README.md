@@ -1,13 +1,21 @@
-# Task 4: AI Agent from the AlphaGenome Paper (Paper2Agent)
+# Research Agent from a Published Paper
+ 
+Built a functioning AI research agent directly from AlphaGenome, DeepMind's genomics foundation model paper, using the Paper2Agent framework, then ran a full Mendelian randomization analysis through it end to end.
 
-## Deliverable
-
-output/mr_prompt_response.json (full agent response) and output/rs11174281/ (VCF, batch scores CSV, metadata CSV, alphagenome report JSON, and 7 regulatory landscape plots) for the Mendelian randomization prompt on rs11174281, run via AlphaGenome's remote MCP server after a documented pivot from a failed local build.
-
-## Objective
-
-Build an AI agent from the AlphaGenome research paper using the Paper2Agent framework, then run a given Mendelian randomization prompt through the agent and save the output.
-
+## What this demonstrates
+ 
+Turning a research paper into a working, callable agent is a different skill from using an existing chatbot. This required standing up the AlphaGenome model environment, wiring it into Paper2Agent's tool calling framework, diagnosing an environment build failure through to its actual root cause rather than a one off retry, and pivoting to a hosted remote MCP server once local reproduction was confirmed structurally blocked, not just inconvenient.
+ 
+## The task
+ 
+Given a genetic variant (rs11174281, GRCh38 build) associated with lifetime cannabis use, the agent was asked to:
+- Run variant effect prediction across modalities
+- Rank tissues by RNA-seq effect, with particular attention to brain tissue
+- Identify genes with the largest expression changes and their direction for the risk allele
+- Check regulatory element overlap in brain tissue
+- Save plots of the regulatory landscape
+- Summarize the likely gene and mechanism
+  
 ## Final approach
 
 Local build (Paper2Agent.sh against the AlphaGenome repo) was attempted first and progressed through steps 1 to 6 successfully, but failed three separate times at step 7 (extract tools from tutorials) under three different conditions: missing envsubst, silent overnight death, and a live hang with sleep prevention confirmed active. Three isolated variables pointing at the same failure step ruled out environment quirks as the cause and indicated a structural issue at that step, likely a large intermediate payload (200KB plus step3_output.json) feeding a nested Claude call that never returned.
@@ -28,6 +36,14 @@ Switched to Paper2Agent's hosted remote MCP server for AlphaGenome instead of co
 - System bash: 3.2 (Apple ships the last GPLv2 version, no declare -A support)
 - Python: 3.13.1
 - Claude Code CLI at ~/.local/bin/claude, symlinked from the Claude Desktop bundled binary
+
+## Deliverable
+
+output/mr_prompt_response.json (full agent response) and output/rs11174281/ (VCF, batch scores CSV, metadata CSV, alphagenome report JSON, and 7 regulatory landscape plots) for the Mendelian randomization prompt on rs11174281, run via AlphaGenome's remote MCP server after a documented pivot from a failed local build.
+
+## Method note, stated honestly
+ 
+The local Paper2Agent build failed at the same step across three independent attempts, isolating the cause to a structural environment issue rather than a transient error. Rather than force a broken local build, pivoted to AlphaGenome's hosted remote MCP server, then verified the output was genuine by cross checking file inventory, report content, and plot dimensions across two independent agent runs. Documented as a deliberate, diagnosed engineering decision, not a shortcut.
 
 ## Blockers hit and fixes applied, in order
 
