@@ -1,4 +1,4 @@
-# Do AI Assistants Recommend the Same Products Twice?
+# Programmatic AI Response Collection and Analysis
 
 **Measuring the stability and concentration of brand recommendations that large language models give to shoppers.**
 
