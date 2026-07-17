@@ -1,6 +1,6 @@
-# Beverage Brand Choice: A 10 Method Survey Instrument
-
-A Qualtrics instrument measuring how consumers weigh price, ingredients, and brand trust when choosing a functional soda, using Olipop, Poppi, and Coca Cola Simply Pop, the same three brands profiled in the webscraping module.
+# Experimental Survey Design with Embedded AI Interaction
+ 
+A Qualtrics survey on consumer decision making in shopping contexts, built to demonstrate range across ten structurally distinct question types, including a live AI interaction embedded directly in the flow.
 
 **Live survey:** https://qualtricsxmwykl4q9jv.qualtrics.com/jfe/form/SV_cIOHHhcwcRLQCqi
 
