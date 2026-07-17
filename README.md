@@ -1,52 +1,41 @@
 # Quant Marketing AI Research Toolkit
 
-Applied research portfolio spanning LLM-driven data pipelines, quantitative marketing analysis, and automation systems for consumer and product intelligence.
+**Benedict Daxell Santoso**
 
-**Philosophy:** LLMs are not impressive by default. They are impressive when they solve a real problem. Every module here produces a real, verifiable output — not a demo — with the method, judgment calls, and limitations documented alongside the result, not glossed over.
+Five self contained projects spanning the core methodology of applied marketing research: web scraping and data pipelines, experimental survey design, programmatic AI response collection and analysis, agentic AI systems built from a research paper, and formal game theoretic modeling verified with symbolic computation.
 
-Built by **Benedict Daxell Santoso** — AI implementation practitioner and analytics consultant working at the intersection of LLM engineering, data architecture, and applied marketing research.
+Each folder is independent, with its own README, code, and output. Built as a demonstration of range across the full research stack: from scraping raw data off the web, to designing instruments that collect it directly from people, to building AI agents that operate research tools autonomously, to formally auditing a published economic model's internal consistency.
 
 ---
 
-## Modules
+## Projects
 
-### 01 — Automated Retail Intelligence: Multi-Site Web Scraping
-**status: complete**
+### 01 — Multi Site Web Scraping Pipeline
+Extracts structured product data (pricing, position, ingredients, nutrition, imagery) from three e-commerce sites with materially different front end architectures, normalized into a single schema despite each site requiring a different scraping strategy.
+→ [`task1-webscraping/`](./task1-webscraping)
 
-Structured, product-level scraping across three e-commerce sites (Olipop, Poppi, Coca-Cola Simply Pop) into one normalized schema for cross-brand comparison: pricing, live promotions, page position, image galleries, and nutritional composition. Includes a documented build-vs-buy call on scraping tooling and honest data-quality limitations where a site's template didn't cooperate.
+### 02 — Experimental Survey Design with Embedded AI Interaction
+A Qualtrics instrument spanning ten distinct question types, including a live, participant facing AI chat interaction embedded directly in the survey flow, not a static question about AI.
+→ [`task2-qualtrics/`](./task2-qualtrics) · [Live survey link](#) <!-- add your Qualtrics link here -->
 
-→ [`task1-webscraping/`](./task1-webscraping) · [output](./task1-webscraping/output/products.csv) · [methodology](./task1-webscraping/README.md)
+### 03 — Programmatic AI Response Collection and Analysis
+A repeated measurement pipeline: ten shopping relevant prompts, each queried via API across ten separate sessions, producing a structured dataset of AI generated shopping guidance with word, brand, and feature level statistics computed per response.
+→ [`task3-ai-scraping/`](./task3-ai-scraping)
 
-### 02 — Survey Instrumentation with Embedded AI Interaction
-**status: complete**
-
-Qualtrics survey design spanning ten distinct question types on a consumer decision-making topic tied to the same three beverage brands profiled in Module 01 (Olipop, Poppi, Coca-Cola Simply Pop), including a live Claude-enabled interactive question, testing both survey methodology range and AI-in-the-loop UX design.
-
-→ [`task2-qualtrics/`](./task2-qualtrics) · [live survey](https://qualtricsxmwykl4q9jv.qualtrics.com/jfe/form/SV_cIOHHhcwcRLQCqi) · [methodology](./task2-qualtrics/README.md)
-
-## 03 - AI Search Behavior Monitoring
-
-**status: complete**
-
-Programmatic, repeated retrieval of Claude API responses to a defensibly sourced set of 10 shopping intent prompts (grounded in WildChat, OpenAI's Shopping Research data, and the NBER "How People Use ChatGPT" study), pulled across 10 occasions each (100 total responses) to measure recommendation drift. Computes word count, brand count, and feature count per response, plus brand concentration (HHI) and cross occasion stability (Jaccard overlap) per prompt. Sharpest finding: closed category prompts (phone flagships, blender models) converge on near fixed brand answers, open ended prompts (fishing gifts, sneaker deals) barely repeat.
-
-→ `task3-ai-scraping/` · [full results](task3-ai-scraping/README.md) · [methodology](task3-ai-scraping/task3_master_plan.md)
-
-## 04 - Computational Biology Agent Deployment
-
-**status:** complete
-
-Stood up an AlphaGenome research agent via Paper2Agent, pivoted from a failed local build to the hosted remote MCP server after three isolated failures at the same build step, then ran a Mendelian randomization query (rs11174281, lifetime cannabis use) end to end. Output cross verified across two independent agent instances: chromosome, position, and allele lookup, variant effect prediction across 25,089 tracks and 11 modalities, brain tissue RNA seq ranking, regulatory element overlap, and 7 regulatory landscape plots.
-
--> [task4-ai-agents/](task4-ai-agents/)
+### 04 — Research Agent from a Published Paper
+Stood up a functioning AI agent directly from AlphaGenome, a DeepMind genomics research paper, using the Paper2Agent framework, then ran a full Mendelian randomization analysis prompt through it end to end, with cross verified output.
+→ [`task4-ai-agents/`](./task4-ai-agents)
 
 ### 05 — Applied Game Theory: Platform Badge Economics
-**status: done**
-
-Formal evaluation of a published platform badging game theoretic model against four empirical findings on demand, pricing, selective certification, and market concentration. Re derived the model's demand and price equilibria symbolically rather than taking the paper's stated closed forms at face value, surfacing a transcription correction in the process. Confirmed the model explains three of the four findings unconditionally, but the fourth (market concentration) holds only below an identifiable threshold on the green consumer segment size, a boundary the paper itself never states. Three modifications proposed, ordered by cost, to close the gap.
-
+Formal evaluation of a published platform badging game theoretic model against four empirical findings on demand, pricing, selective certification, and market concentration. Re derived the model's equilibrium conditions symbolically rather than relying on the paper's stated closed forms, surfacing a transcription correction in the process, and identified an explicit, previously unstated boundary condition under which one of the four findings holds.
 → [`task5-game-theory/`](./task5-game-theory)
 
 ---
 
-Each module folder carries its own README covering the approach taken, the judgment calls made, and any limitations encountered. The reasoning is treated as part of the deliverable, not an afterthought.
+## Stack
+
+Python, pandas, Apify, Qualtrics, Anthropic Claude API, sympy, Paper2Agent, AlphaGenome, Word/OMML for equation rendering.
+
+## Contact
+
+[[LinkedIn](https://www.linkedin.com/in/benedictdaxellsantoso/)](#) · [benedict.d.santoso@gmail.com](#) <!-- add your links -->
