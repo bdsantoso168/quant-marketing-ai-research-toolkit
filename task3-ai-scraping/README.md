@@ -1,5 +1,8 @@
 # Programmatic AI Response Collection and Analysis
 
+A repeated measurement pipeline that identifies the most common shopping related prompts people submit to AI assistants, then queries those prompts programmatically across multiple independent sessions to study response consistency, brand mentions, and feature emphasis over time.
+
+
 **Measuring the stability and concentration of brand recommendations that large language models give to shoppers.**
 
 When a shopper asks an AI assistant "what laptop should I buy under $1000," does the same question asked ten times return the same brands? Or does the model quietly reshuffle who it recommends on every ask? This project measures that. It retrieves an LLM's answers to ten realistic shopping questions, ten times each, and quantifies how much the recommended brands and product features move from one identical query to the next.
